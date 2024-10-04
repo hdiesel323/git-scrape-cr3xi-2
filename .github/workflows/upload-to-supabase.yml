@@ -83,7 +83,7 @@ jobs:
                 property_data['has_virtual_tour'] = property_data.get('hasVirtualTour', False)
                 property_data['is_new'] = property_data.get('isNew', False)
                 property_data['id'] = property_data.get('id')
-                del property_data['locations']
+                property_data.pop('locations', None)
 
                 # Generate vector embedding for the property description
                 embedding = generate_embedding(property_data['description']) if property_data.get('description') else [0.0] * 1536
