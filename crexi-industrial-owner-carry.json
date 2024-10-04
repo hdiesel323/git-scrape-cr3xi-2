@@ -1914,6 +1914,47 @@
   "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
+  "id": 1517295,
+  "name": "Ringe Land",
+  "description": "Industrial | 1,700 SF. M-1",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+  "urlSlug": "nevada-ringe-land",
+  "brokerageName": "Sandra L. Fink & Associates Inc",
+  "activatedOn": "2024-04-23T18:53:19.6Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 7,
+  "pricePerAcreLand": "$0/Acre",
+  "showCountdownAsDate": false,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-13T18:36:48.764Z",
+  "numberOfImages": 7,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2929 Ringe Ln",
+      "city": "Las Vegas",
+      "county": "Clark County",
+      "state": {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      "zip": "89156",
+      "latitude": 36.213209,
+      "longitude": -115.060594,
+      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
+}
+{
   "id": 1510168,
   "name": "625 Miller Valley Road",
   "description": "Retail End User and/or Investment Opportunity",
@@ -1955,47 +1996,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
-}
-{
-  "id": 1517295,
-  "name": "Ringe Land",
-  "description": "Industrial | 1,700 SF. M-1",
-  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-  "urlSlug": "nevada-ringe-land",
-  "brokerageName": "Sandra L. Fink & Associates Inc",
-  "activatedOn": "2024-04-23T18:53:19.6Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "pricePerAcreLand": "$0/Acre",
-  "showCountdownAsDate": false,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-13T18:36:48.764Z",
-  "numberOfImages": 7,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2929 Ringe Ln",
-      "city": "Las Vegas",
-      "county": "Clark County",
-      "state": {
-        "code": "NV",
-        "name": "Nevada"
-      },
-      "zip": "89156",
-      "latitude": 36.213209,
-      "longitude": -115.060594,
-      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
 }
 {
   "id": 1582316,
