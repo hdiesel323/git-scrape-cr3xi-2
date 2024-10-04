@@ -212,50 +212,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1208952/idaho-12870-go-way-ave-tyhee-industrial-park"
 }
 {
-  "id": 1325344,
-  "name": "11860 Kemper Road 7",
-  "description": "Special Purpose | 1,350 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
-  "urlSlug": "california-11860-kemper-road-7",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-31T10:03:09.905Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 500000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T10:19:51.619Z",
-  "numberOfImages": 8,
-  "types": [
-    "Special Purpose",
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "11860 Kemper Road 7",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9307359,
-      "longitude": -121.0915371,
-      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
-}
-{
   "id": 1325345,
   "name": "11860 Kemper Road 8",
   "description": "Special Purpose | 1,483 SF",
@@ -298,6 +254,50 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
+}
+{
+  "id": 1325344,
+  "name": "11860 Kemper Road 7",
+  "description": "Special Purpose | 1,350 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
+  "urlSlug": "california-11860-kemper-road-7",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-31T10:03:09.905Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T10:19:51.619Z",
+  "numberOfImages": 8,
+  "types": [
+    "Special Purpose",
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "11860 Kemper Road 7",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9307359,
+      "longitude": -121.0915371,
+      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
 }
 {
   "id": 793663,
@@ -769,49 +769,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
 }
 {
-  "id": 1094534,
-  "name": "3895 E 45th Ave",
-  "description": "Industrial | 3,840 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
-  "urlSlug": "colorado-3895-e-45th-ave",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
-  "brokerageName": "Unique Properties, Inc",
-  "activatedOn": "2023-04-10T21:23:43.81Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 949000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-23T20:34:11.632Z",
-  "numberOfImages": 8,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "3895 E 45th Ave",
-      "city": "Denver",
-      "county": "Denver County",
-      "state": {
-        "code": "CO",
-        "name": "Colorado"
-      },
-      "zip": "80216",
-      "latitude": 39.77889341,
-      "longitude": -104.94227107,
-      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
-}
-{
   "id": 1606201,
   "name": "4802 Derrick Drive",
   "description": "Retail | 1,230 SF",
@@ -853,6 +810,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
+}
+{
+  "id": 1094534,
+  "name": "3895 E 45th Ave",
+  "description": "Industrial | 3,840 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
+  "urlSlug": "colorado-3895-e-45th-ave",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
+  "brokerageName": "Unique Properties, Inc",
+  "activatedOn": "2023-04-10T21:23:43.81Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 949000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-23T20:34:11.632Z",
+  "numberOfImages": 8,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "3895 E 45th Ave",
+      "city": "Denver",
+      "county": "Denver County",
+      "state": {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      "zip": "80216",
+      "latitude": 39.77889341,
+      "longitude": -104.94227107,
+      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
 }
 {
   "id": 754547,
@@ -985,49 +985,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
 }
 {
-  "id": 1533426,
-  "name": "3870-3880 Elm Street",
-  "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
-  "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
-  "urlSlug": "colorado-3870-3880-elm-street",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
-  "brokerageName": "Colliers International Denver",
-  "activatedOn": "2024-05-16T14:24:06.221Z",
-  "isInOpportunityZone": true,
-  "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "showCountdownAsDate": false,
-  "askingPrice": 2590000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-07T16:02:13.841Z",
-  "numberOfImages": 1,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "3870 Elm St",
-      "city": "Denver",
-      "county": "Denver County",
-      "state": {
-        "code": "CO",
-        "name": "Colorado"
-      },
-      "zip": "80207",
-      "latitude": 39.77095622022864,
-      "longitude": -104.92935990171715,
-      "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1533426/colorado-3870-3880-elm-street"
-}
-{
   "id": 1581599,
   "name": "1055 Empire Dr",
   "description": "Office | 16,792 SF",
@@ -1069,6 +1026,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
+}
+{
+  "id": 1533426,
+  "name": "3870-3880 Elm Street",
+  "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
+  "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
+  "urlSlug": "colorado-3870-3880-elm-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
+  "brokerageName": "Colliers International Denver",
+  "activatedOn": "2024-05-16T14:24:06.221Z",
+  "isInOpportunityZone": true,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "showCountdownAsDate": false,
+  "askingPrice": 2590000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-07T16:02:13.841Z",
+  "numberOfImages": 1,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "3870 Elm St",
+      "city": "Denver",
+      "county": "Denver County",
+      "state": {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      "zip": "80207",
+      "latitude": 39.77095622022864,
+      "longitude": -104.92935990171715,
+      "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1533426/colorado-3870-3880-elm-street"
 }
 {
   "id": 969147,
