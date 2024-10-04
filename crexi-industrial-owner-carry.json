@@ -985,49 +985,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
 }
 {
-  "id": 1581599,
-  "name": "1055 Empire Dr",
-  "description": "Office | 16,792 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1581599/6280ecd0292c4cb0acf6d2d737c215db_716x444.jpg",
-  "urlSlug": "arizona-1055-empire-dr",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/51411/24ecb0de32134136877dec587fe1eb4d_150x100_resize.jpg",
-  "brokerageName": "Realty One Group Mountain Desert Lake Havasu City",
-  "activatedOn": "2024-07-08T14:58:58.577Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 117,
-  "showCountdownAsDate": false,
-  "askingPrice": 1800000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-07-09T05:10:27.037Z",
-  "numberOfImages": 117,
-  "types": [
-    "Office",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "1055 Empire Dr",
-      "city": "Lake Havasu City",
-      "county": "Mohave County",
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "zip": "86404",
-      "latitude": 34.505008,
-      "longitude": -114.3549243,
-      "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
-}
-{
   "id": 1533426,
   "name": "3870-3880 Elm Street",
   "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
@@ -1069,6 +1026,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1533426/colorado-3870-3880-elm-street"
+}
+{
+  "id": 1581599,
+  "name": "1055 Empire Dr",
+  "description": "Office | 16,792 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1581599/6280ecd0292c4cb0acf6d2d737c215db_716x444.jpg",
+  "urlSlug": "arizona-1055-empire-dr",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/51411/24ecb0de32134136877dec587fe1eb4d_150x100_resize.jpg",
+  "brokerageName": "Realty One Group Mountain Desert Lake Havasu City",
+  "activatedOn": "2024-07-08T14:58:58.577Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 117,
+  "showCountdownAsDate": false,
+  "askingPrice": 1800000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-07-09T05:10:27.037Z",
+  "numberOfImages": 117,
+  "types": [
+    "Office",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "1055 Empire Dr",
+      "city": "Lake Havasu City",
+      "county": "Mohave County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "86404",
+      "latitude": 34.505008,
+      "longitude": -114.3549243,
+      "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
 }
 {
   "id": 969147,
@@ -1201,49 +1201,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1659274/oregon-2008-commerce"
 }
 {
-  "id": 1517776,
-  "name": "1150 W Broadway Street",
-  "description": "Industrial | 2,800 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1517776/8eabb9be64b6400b94ef0b4962d1df65_716x444.jpg",
-  "urlSlug": "california-1150-w-broadway-street",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/806/d39568a3d8e4438aab652ccdcfea1727_150x100_resize.jpg",
-  "brokerageName": "Coldwell Banker Campbell Realtors",
-  "activatedOn": "2024-04-24T10:35:31.034Z",
-  "isInOpportunityZone": true,
-  "hasVideo": false,
-  "numberOfGalleryItems": 63,
-  "showCountdownAsDate": false,
-  "askingPrice": 395000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-10-02T10:29:00.422Z",
-  "numberOfImages": 63,
-  "types": [
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "1150 W Broadway Street",
-      "city": "Needles",
-      "county": "san Bernardino",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "92363",
-      "latitude": 34.8409747,
-      "longitude": -114.6086424,
-      "fullAddress": "1150 W Broadway Street, Needles, san Bernardino, CA 92363"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1517776/california-1150-w-broadway-street"
-}
-{
   "id": 1613407,
   "name": "4301 S Robinson Ave",
   "description": "Retail Industrial Warehouse for Sale",
@@ -1285,6 +1242,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
+}
+{
+  "id": 1517776,
+  "name": "1150 W Broadway Street",
+  "description": "Industrial | 2,800 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517776/8eabb9be64b6400b94ef0b4962d1df65_716x444.jpg",
+  "urlSlug": "california-1150-w-broadway-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/806/d39568a3d8e4438aab652ccdcfea1727_150x100_resize.jpg",
+  "brokerageName": "Coldwell Banker Campbell Realtors",
+  "activatedOn": "2024-04-24T10:35:31.034Z",
+  "isInOpportunityZone": true,
+  "hasVideo": false,
+  "numberOfGalleryItems": 63,
+  "showCountdownAsDate": false,
+  "askingPrice": 395000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-02T10:29:00.422Z",
+  "numberOfImages": 63,
+  "types": [
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "1150 W Broadway Street",
+      "city": "Needles",
+      "county": "san Bernardino",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "92363",
+      "latitude": 34.8409747,
+      "longitude": -114.6086424,
+      "fullAddress": "1150 W Broadway Street, Needles, san Bernardino, CA 92363"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1517776/california-1150-w-broadway-street"
 }
 {
   "id": 1647286,
