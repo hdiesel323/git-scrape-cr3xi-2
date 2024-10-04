@@ -212,50 +212,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1208952/idaho-12870-go-way-ave-tyhee-industrial-park"
 }
 {
-  "id": 1325345,
-  "name": "11860 Kemper Road 8",
-  "description": "Special Purpose | 1,483 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
-  "urlSlug": "california-11860-kemper-road-8",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-09-03T10:01:21.962Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "showCountdownAsDate": false,
-  "askingPrice": 420000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T10:19:51.221Z",
-  "numberOfImages": 7,
-  "types": [
-    "Special Purpose",
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "11860 Kemper Road 8",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9308072,
-      "longitude": -121.0915333,
-      "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
-}
-{
   "id": 1325344,
   "name": "11860 Kemper Road 7",
   "description": "Special Purpose | 1,350 SF",
@@ -298,6 +254,50 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
+}
+{
+  "id": 1325345,
+  "name": "11860 Kemper Road 8",
+  "description": "Special Purpose | 1,483 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
+  "urlSlug": "california-11860-kemper-road-8",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-09-03T10:01:21.962Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 7,
+  "showCountdownAsDate": false,
+  "askingPrice": 420000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T10:19:51.221Z",
+  "numberOfImages": 7,
+  "types": [
+    "Special Purpose",
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "11860 Kemper Road 8",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9308072,
+      "longitude": -121.0915333,
+      "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
 }
 {
   "id": 793663,
@@ -769,49 +769,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
 }
 {
-  "id": 1606201,
-  "name": "4802 Derrick Drive",
-  "description": "Retail | 1,230 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
-  "urlSlug": "texas-4802-derrick-drive",
-  "brokerageName": "Whitten Real Estate",
-  "activatedOn": "2024-07-13T21:13:39.048Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "pricePerSqFtLand": "$3.21/SF",
-  "showCountdownAsDate": false,
-  "askingPrice": 329900,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-07-13T21:15:05.187Z",
-  "numberOfImages": 1,
-  "types": [
-    "Retail",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "4802 Derrick Dr",
-      "city": "Abilene",
-      "county": "Taylor County",
-      "state": {
-        "code": "TX",
-        "name": "Texas"
-      },
-      "zip": "79601",
-      "latitude": 32.4392092,
-      "longitude": -99.6601407,
-      "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
-}
-{
   "id": 1094534,
   "name": "3895 E 45th Ave",
   "description": "Industrial | 3,840 SF",
@@ -853,6 +810,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
+}
+{
+  "id": 1606201,
+  "name": "4802 Derrick Drive",
+  "description": "Retail | 1,230 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
+  "urlSlug": "texas-4802-derrick-drive",
+  "brokerageName": "Whitten Real Estate",
+  "activatedOn": "2024-07-13T21:13:39.048Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "pricePerSqFtLand": "$3.21/SF",
+  "showCountdownAsDate": false,
+  "askingPrice": 329900,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-07-13T21:15:05.187Z",
+  "numberOfImages": 1,
+  "types": [
+    "Retail",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "4802 Derrick Dr",
+      "city": "Abilene",
+      "county": "Taylor County",
+      "state": {
+        "code": "TX",
+        "name": "Texas"
+      },
+      "zip": "79601",
+      "latitude": 32.4392092,
+      "longitude": -99.6601407,
+      "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
 }
 {
   "id": 754547,
@@ -985,49 +985,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
 }
 {
-  "id": 1581599,
-  "name": "1055 Empire Dr",
-  "description": "Office | 16,792 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1581599/6280ecd0292c4cb0acf6d2d737c215db_716x444.jpg",
-  "urlSlug": "arizona-1055-empire-dr",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/51411/24ecb0de32134136877dec587fe1eb4d_150x100_resize.jpg",
-  "brokerageName": "Realty One Group Mountain Desert Lake Havasu City",
-  "activatedOn": "2024-07-08T14:58:58.577Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 117,
-  "showCountdownAsDate": false,
-  "askingPrice": 1800000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-07-09T05:10:27.037Z",
-  "numberOfImages": 117,
-  "types": [
-    "Office",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "1055 Empire Dr",
-      "city": "Lake Havasu City",
-      "county": "Mohave County",
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "zip": "86404",
-      "latitude": 34.505008,
-      "longitude": -114.3549243,
-      "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
-}
-{
   "id": 1533426,
   "name": "3870-3880 Elm Street",
   "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
@@ -1069,6 +1026,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1533426/colorado-3870-3880-elm-street"
+}
+{
+  "id": 1581599,
+  "name": "1055 Empire Dr",
+  "description": "Office | 16,792 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1581599/6280ecd0292c4cb0acf6d2d737c215db_716x444.jpg",
+  "urlSlug": "arizona-1055-empire-dr",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/51411/24ecb0de32134136877dec587fe1eb4d_150x100_resize.jpg",
+  "brokerageName": "Realty One Group Mountain Desert Lake Havasu City",
+  "activatedOn": "2024-07-08T14:58:58.577Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 117,
+  "showCountdownAsDate": false,
+  "askingPrice": 1800000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-07-09T05:10:27.037Z",
+  "numberOfImages": 117,
+  "types": [
+    "Office",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "1055 Empire Dr",
+      "city": "Lake Havasu City",
+      "county": "Mohave County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "86404",
+      "latitude": 34.505008,
+      "longitude": -114.3549243,
+      "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
 }
 {
   "id": 969147,
@@ -1914,47 +1914,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
-  "id": 1517295,
-  "name": "Ringe Land",
-  "description": "Industrial | 1,700 SF. M-1",
-  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-  "urlSlug": "nevada-ringe-land",
-  "brokerageName": "Sandra L. Fink & Associates Inc",
-  "activatedOn": "2024-04-23T18:53:19.6Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "pricePerAcreLand": "$0/Acre",
-  "showCountdownAsDate": false,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-13T18:36:48.764Z",
-  "numberOfImages": 7,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2929 Ringe Ln",
-      "city": "Las Vegas",
-      "county": "Clark County",
-      "state": {
-        "code": "NV",
-        "name": "Nevada"
-      },
-      "zip": "89156",
-      "latitude": 36.213209,
-      "longitude": -115.060594,
-      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
-}
-{
   "id": 1510168,
   "name": "625 Miller Valley Road",
   "description": "Retail End User and/or Investment Opportunity",
@@ -1996,6 +1955,47 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
+}
+{
+  "id": 1517295,
+  "name": "Ringe Land",
+  "description": "Industrial | 1,700 SF. M-1",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+  "urlSlug": "nevada-ringe-land",
+  "brokerageName": "Sandra L. Fink & Associates Inc",
+  "activatedOn": "2024-04-23T18:53:19.6Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 7,
+  "pricePerAcreLand": "$0/Acre",
+  "showCountdownAsDate": false,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-13T18:36:48.764Z",
+  "numberOfImages": 7,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2929 Ringe Ln",
+      "city": "Las Vegas",
+      "county": "Clark County",
+      "state": {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      "zip": "89156",
+      "latitude": 36.213209,
+      "longitude": -115.060594,
+      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
 }
 {
   "id": 1582316,
