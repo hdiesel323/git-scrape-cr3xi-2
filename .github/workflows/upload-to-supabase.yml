@@ -87,7 +87,7 @@ jobs:
                 property_data['embedding'] = embedding
 
                 # Add the entire JSON data as a document
-                property_data['json_data'] = property_data
+                property_data['json_data'] = json.dumps(property_data)
 
                 # Insert data into Supabase
                 response = supabase.table('crexi_properties').insert({
