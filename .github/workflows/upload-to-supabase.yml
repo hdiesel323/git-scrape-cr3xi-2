@@ -58,72 +58,50 @@ jobs:
 
             # Iterate over properties and insert into the table
             for property_data in properties:
-                # Adjust keys to match the table columns
-                property_data['thumbnail_url'] = property_data.pop('thumbnailUrl', None)
-                property_data['url_slug'] = property_data.pop('urlSlug', None)
-                property_data['broker_team_logo_url'] = property_data.pop('brokerTeamLogoUrl', None)
-                property_data['activated_on'] = property_data.pop('activatedOn', None)
-                property_data['updated_on'] = property_data.pop('updatedOn', None)
-                property_data['full_address'] = property_data['locations'][0]['fullAddress'] if property_data.get('locations') else None
-                property_data['latitude'] = property_data['locations'][0]['latitude'] if property_data.get('locations') else None
-                property_data['longitude'] = property_data['locations'][0]['longitude'] if property_data.get('locations') else None
-                property_data['status'] = property_data.get('status', 'Unknown')
-                property_data['property_url'] = property_data.get('propertyUrl', None)
-                property_data['is_in_opportunity_zone'] = property_data.get('isInOpportunityZone', False)
-                property_data['has_video'] = property_data.get('hasVideo', False)
-                property_data['number_of_gallery_items'] = property_data.get('numberOfGalleryItems', 0)
-                property_data['number_of_images'] = property_data.get('numberOfImages', 0)
-                property_data['types'] = property_data.get('types', [])
-                property_data['investment_type'] = property_data.get('investmentType', None)
-                property_data['has_om'] = property_data.get('hasOM', False)
-                property_data['has_flyer'] = property_data.get('hasFlyer', False)
-                property_data['has_virtual_tour'] = property_data.get('hasVirtualTour', False)
-                property_data['is_new'] = property_data.get('isNew', False)
-                property_data['id'] = property_data.get('id')
-                del property_data['locations']
-
-                # Generate vector embedding for the property description
-                embedding = generate_embedding(property_data['description']) if property_data.get('description') else [0.0] * 1536
-                property_data['embedding'] = embedding
-
-                # Add the entire JSON data as a document
-                property_data['json_data'] = json.dumps(property_data)
-
-                # Insert data into Supabase
-                response = supabase.table('crexi_properties').insert({
-                    'id': property_data['id'],
+                # Prepare modified property dictionary
+                modified_property_data = {
+                    'id': property_data.get('id'),
                     'name': property_data.get('name'),
                     'description': property_data.get('description'),
-                    'thumbnail_url': property_data.get('thumbnail_url'),
-                    'url_slug': property_data.get('url_slug'),
-                    'broker_team_logo_url': property_data.get('broker_team_logo_url'),
+                    'thumbnail_url': property_data.pop('thumbnailUrl', None),
+                    'url_slug': property_data.pop('urlSlug', None),
+                    'broker_team_logo_url': property_data.pop('brokerTeamLogoUrl', None),
                     'brokerage_name': property_data.get('brokerage_name'),
-                    'activated_on': property_data.get('activated_on'),
+                    'activated_on': property_data.pop('activatedOn', None),
+                    'updated_on': property_data.pop('updatedOn', None),
                     'asking_price': property_data.get('asking_price'),
-                    'latitude': property_data.get('latitude'),
-                    'longitude': property_data.get('longitude'),
-                    'full_address': property_data.get('full_address'),
-                    'status': property_data.get('status'),
-                    'property_url': property_data.get('property_url'),
-                    'updated_on': property_data.get('updated_on'),
-                    'is_in_opportunity_zone': property_data.get('is_in_opportunity_zone'),
-                    'has_video': property_data.get('has_video'),
-                    'number_of_gallery_items': property_data.get('number_of_gallery_items'),
-                    'number_of_images': property_data.get('number_of_images'),
-                    'types': property_data.get('types'),
-                    'investment_type': property_data.get('investment_type'),
-                    'has_om': property_data.get('has_om'),
-                    'has_flyer': property_data.get('has_flyer'),
-                    'has_virtual_tour': property_data.get('has_virtual_tour'),
-                    'is_new': property_data.get('is_new'),
-                    'embedding': property_data.get('embedding'),
-                    'json_data': property_data.get('json_data')
-                }).execute()
+                    'latitude': property_data['locations'][0]['latitude'] if property_data.get('locations') else None,
+                    'longitude': property_data['locations'][0]['longitude'] if property_data.get('locations') else None,
+                    'full_address': property_data['locations'][0]['fullAddress'] if property_data.get('locations') else None,
+                    'status': property_data.get('status', 'Unknown'),
+                    'property_url': property_data.get('propertyUrl', None),
+                    'is_in_opportunity_zone': property_data.get('isInOpportunityZone', False),
+                    'has_video': property_data.get('hasVideo', False),
+                    'number_of_gallery_items': property_data.get('numberOfGalleryItems', 0),
+                    'number_of_images': property_data.get('numberOfImages', 0),
+                    'types': property_data.get('types', []),
+                    'investment_type': property_data.get('investmentType', None),
+                    'has_om': property_data.get('hasOM', False),
+                    'has_flyer': property_data.get('hasFlyer', False),
+                    'has_virtual_tour': property_data.get('hasVirtualTour', False),
+                    'is_new': property_data.get('isNew', False)
+                }
 
+                # Generate vector embedding for the property description
+                embedding = generate_embedding(modified_property_data['description']) if modified_property_data.get('description') else [0.0] * 1536
+                modified_property_data['embedding'] = embedding
+
+                # Add the entire JSON data as a document (serialize separately to avoid conflicting keys)
+                modified_property_data['json_data'] = json.dumps(property_data)
+
+                # Insert data into Supabase
+                response = supabase.table('crexi_properties').insert(modified_property_data).execute()
+
+                # Log the result
                 if response.status_code != 201:
-                    print(f"Failed to insert property with id {property_data['id']}. Error: {response.json().get('error')}")
+                    print(f"Failed to insert property with id {modified_property_data['id']}. Error: {response.json().get('error')}")
                 else:
-                    print(f"Successfully inserted property with id {property_data['id']}")
+                    print(f"Successfully inserted property with id {modified_property_data['id']}")
 
             print("Successfully inserted all properties into Supabase table with vector embeddings.")
         except Exception as e:
