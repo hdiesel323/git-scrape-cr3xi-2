@@ -471,6 +471,48 @@
   "propertyUrl": "https://www.crexi.com/properties/1296398/california-terra-bella---industrial---parcel-4"
 }
 {
+  "id": 1221526,
+  "name": "Terra Bella - Industrial - Parcel Hwy 65",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1221526/8e54cef31d76447d86362dca2cd94e10_716x444.jpg",
+  "urlSlug": "california-terra-bella---industrial---parcel-hwy-65",
+  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+  "brokerageName": "Lion Group Investments",
+  "activatedOn": "2023-10-21T23:14:59.78Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 4,
+  "showCountdownAsDate": false,
+  "askingPrice": 399900,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-07-22T23:58:32.94Z",
+  "numberOfImages": 4,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "23297 Ave 88",
+      "city": "Terra Bella",
+      "county": "Tulare County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "93270",
+      "latitude": 35.948185,
+      "longitude": -119.0521523,
+      "fullAddress": "23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1221526/california-terra-bella---industrial---parcel-hwy-65"
+}
+{
   "id": 1584421,
   "name": "1626 S Court Street",
   "description": "Special Purpose | 1,560 SF",
@@ -513,48 +555,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1584421/california-1626-s-court-street"
-}
-{
-  "id": 1221526,
-  "name": "Terra Bella - Industrial - Parcel Hwy 65",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1221526/8e54cef31d76447d86362dca2cd94e10_716x444.jpg",
-  "urlSlug": "california-terra-bella---industrial---parcel-hwy-65",
-  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-  "brokerageName": "Lion Group Investments",
-  "activatedOn": "2023-10-21T23:14:59.78Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 4,
-  "showCountdownAsDate": false,
-  "askingPrice": 399900,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-07-22T23:58:32.94Z",
-  "numberOfImages": 4,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "23297 Ave 88",
-      "city": "Terra Bella",
-      "county": "Tulare County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "93270",
-      "latitude": 35.948185,
-      "longitude": -119.0521523,
-      "fullAddress": "23297 Ave 88, Terra Bella, Tulare County, CA 93270"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1221526/california-terra-bella---industrial---parcel-hwy-65"
 }
 {
   "id": 1580643,
@@ -1653,48 +1653,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1468238/california-catalpa-business-center"
 }
 {
-  "id": 1633789,
-  "name": "21 Ball Road Eagle Point",
-  "description": "Industrial | 4,800 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1633789/3426a4f0d392489abad33f009f9cdce0_716x444.jpg",
-  "urlSlug": "oregon-21-ball-road-eagle-point",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28677/7366b694d1104637bb1a5edd119c0491_150x100_resize.jpg",
-  "brokerageName": "Oregon - eXp Realty",
-  "activatedOn": "2024-07-30T19:10:44.697Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 30,
-  "showCountdownAsDate": false,
-  "askingPrice": 999999,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-12T16:42:05.462Z",
-  "numberOfImages": 30,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "21 Ball Rd",
-      "city": "Eagle Point",
-      "county": "Jackson County",
-      "state": {
-        "code": "OR",
-        "name": "Oregon"
-      },
-      "zip": "97524",
-      "latitude": 42.5150769,
-      "longitude": -122.8114408,
-      "fullAddress": "21 Ball Rd, Eagle Point, Jackson County, OR 97524"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1633789/oregon-21-ball-road-eagle-point"
-}
-{
   "id": 1197161,
   "name": "Prime I-5 next to Pilot and Maverik",
   "description": "The Best of The Best in N. CA with I-5 Exposure; Affordable Development Site",
@@ -1740,6 +1698,48 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1197161/california-prime-i-5-next-to-pilot-and-maverik"
+}
+{
+  "id": 1633789,
+  "name": "21 Ball Road Eagle Point",
+  "description": "Industrial | 4,800 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1633789/3426a4f0d392489abad33f009f9cdce0_716x444.jpg",
+  "urlSlug": "oregon-21-ball-road-eagle-point",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28677/7366b694d1104637bb1a5edd119c0491_150x100_resize.jpg",
+  "brokerageName": "Oregon - eXp Realty",
+  "activatedOn": "2024-07-30T19:10:44.697Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 30,
+  "showCountdownAsDate": false,
+  "askingPrice": 999999,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-12T16:42:05.462Z",
+  "numberOfImages": 30,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "21 Ball Rd",
+      "city": "Eagle Point",
+      "county": "Jackson County",
+      "state": {
+        "code": "OR",
+        "name": "Oregon"
+      },
+      "zip": "97524",
+      "latitude": 42.5150769,
+      "longitude": -122.8114408,
+      "fullAddress": "21 Ball Rd, Eagle Point, Jackson County, OR 97524"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1633789/oregon-21-ball-road-eagle-point"
 }
 {
   "id": 1431913,
