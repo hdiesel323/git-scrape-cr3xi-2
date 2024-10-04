@@ -67,6 +67,18 @@ jobs:
                 property_data['full_address'] = property_data['locations'][0]['fullAddress'] if property_data.get('locations') else None
                 property_data['latitude'] = property_data['locations'][0]['latitude'] if property_data.get('locations') else None
                 property_data['longitude'] = property_data['locations'][0]['longitude'] if property_data.get('locations') else None
+                property_data['status'] = property_data.get('status', 'Unknown')
+                property_data['property_url'] = property_data.get('propertyUrl', None)
+                property_data['is_in_opportunity_zone'] = property_data.get('isInOpportunityZone', False)
+                property_data['has_video'] = property_data.get('hasVideo', False)
+                property_data['number_of_gallery_items'] = property_data.get('numberOfGalleryItems', 0)
+                property_data['number_of_images'] = property_data.get('numberOfImages', 0)
+                property_data['types'] = property_data.get('types', [])
+                property_data['investment_type'] = property_data.get('investmentType', None)
+                property_data['has_om'] = property_data.get('hasOM', False)
+                property_data['has_flyer'] = property_data.get('hasFlyer', False)
+                property_data['has_virtual_tour'] = property_data.get('hasVirtualTour', False)
+                property_data['is_new'] = property_data.get('isNew', False)
                 del property_data['locations']
 
                 # Generate vector embedding for the property description
