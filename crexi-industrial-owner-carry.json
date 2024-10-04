@@ -1260,6 +1260,48 @@
         "isNew": false
       },
       {
+        "id": 1647286,
+        "name": "28 Acres Heavy Industrial",
+        "description": "Largest Heavy Industrial property available in Crook County",
+        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+        "urlSlug": "oregon-28-acres-heavy-industrial",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+        "brokerageName": "Crook County Properties LLC",
+        "activatedOn": "2024-08-16T16:53:24.034Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 9,
+        "showCountdownAsDate": false,
+        "askingPrice": 980000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-17T16:09:53.312Z",
+        "numberOfImages": 9,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "606 NW Lamonta Rd",
+            "city": "Prineville",
+            "county": "Crook County",
+            "state": {
+              "code": "OR",
+              "name": "Oregon"
+            },
+            "zip": "97754",
+            "latitude": 44.33854782257441,
+            "longitude": -120.88660370549526,
+            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1560289,
         "name": "1589 Highway 33",
         "description": "Special Purpose | 6,800 SF",
@@ -1298,48 +1340,6 @@
             "latitude": 35.1526907,
             "longitude": -119.482499,
             "fullAddress": "1589 Highway 33, Taft, Kern County, CA 93268"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1647286,
-        "name": "28 Acres Heavy Industrial",
-        "description": "Largest Heavy Industrial property available in Crook County",
-        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-        "urlSlug": "oregon-28-acres-heavy-industrial",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-        "brokerageName": "Crook County Properties LLC",
-        "activatedOn": "2024-08-16T16:53:24.034Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 9,
-        "showCountdownAsDate": false,
-        "askingPrice": 980000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-17T16:09:53.312Z",
-        "numberOfImages": 9,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "606 NW Lamonta Rd",
-            "city": "Prineville",
-            "county": "Crook County",
-            "state": {
-              "code": "OR",
-              "name": "Oregon"
-            },
-            "zip": "97754",
-            "latitude": 44.33854782257441,
-            "longitude": -120.88660370549526,
-            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
           }
         ],
         "isNew": false
@@ -1791,48 +1791,6 @@
         "isNew": false
       },
       {
-        "id": 1643870,
-        "name": "Collins Drive",
-        "description": "Land",
-        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-        "urlSlug": "california-collins-drive",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-13T10:03:18.061Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 26,
-        "showCountdownAsDate": false,
-        "askingPrice": 649000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-19T10:02:26.223Z",
-        "numberOfImages": 26,
-        "types": [
-          "Land",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Collins Drive",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9057643,
-            "longitude": -121.086736,
-            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1145218,
         "name": "Eaton Park - Commissary Kitchen",
         "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
@@ -1870,6 +1828,48 @@
             "latitude": 33.5514948,
             "longitude": -112.2101716,
             "fullAddress": "7900 N 70th Ave, Glendale, Maricopa County, AZ 85303"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1643870,
+        "name": "Collins Drive",
+        "description": "Land",
+        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+        "urlSlug": "california-collins-drive",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-13T10:03:18.061Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 26,
+        "showCountdownAsDate": false,
+        "askingPrice": 649000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-19T10:02:26.223Z",
+        "numberOfImages": 26,
+        "types": [
+          "Land",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "Collins Drive",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9057643,
+            "longitude": -121.086736,
+            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
