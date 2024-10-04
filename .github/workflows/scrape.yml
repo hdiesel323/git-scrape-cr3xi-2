@@ -1,0 +1,53 @@
+name: Scrape Crexi Industrial Owner Carry
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *' # Run once daily at 06:00 AM UTC
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+      with:
+        # This ensures we can push changes back to the repo
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Fetch latest data from Crexi
+      run: |-
+        curl -s "https://api.crexi.com/assets/search" \
+          -H "accept: application/json, text/plain, */*" \
+          -H "accept-language: en-US,en;q=0.9" \
+          -H "client-timezone-offset: -7" \
+          -H "content-type: application/json" \
+          -H "mixpanel-distinct-id: \$device:1922ee478758a7-0997f3e56efb2f-16525637-384000-1922ee478758a7" \
+          -H "origin: https://www.crexi.com" \
+          -H "priority: u=1, i" \
+          -H "referer: https://www.crexi.com/" \
+          -H "sec-ch-ua: 'Google Chrome';v='129', 'Not=A?Brand';v='8', 'Chromium';v='129'" \
+          -H "sec-ch-ua-mobile: ?0" \
+          -H "sec-ch-ua-platform: 'macOS'" \
+          -H "sec-fetch-dest: empty" \
+          -H "sec-fetch-mode: cors" \
+          -H "sec-fetch-site: same-site" \
+          -H "user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" \
+          --data-raw '{"term":"owner carry","types":["Industrial"],"count":100,"mlScenario":"Recombee-Recommendations","offset":0,"userId":"$device:1922ee478758a7-0997f3e56efb2f-16525637-384000-1922ee478758a7","sortDirection":"Ascending","sortOrder":"relevance","includeUnpriced":true}' \
+          | jq '.data[] | .propertyUrl = "https://www.crexi.com/properties/" + (.id|tostring) + "/" + .urlSlug' > crexi-industrial-owner-carry.json
+
+    - name: Check if there are changes
+      run: git diff --quiet || echo "Changes detected"
+
+    - name: Commit and push if the data has changed
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This is essential for pushing
+      if: success()
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data from Crexi: ${timestamp}" || exit 0
+        git push --force
