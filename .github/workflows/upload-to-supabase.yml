@@ -44,7 +44,10 @@ jobs:
         supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
         # Initialize OpenAI client
-        openai.api_key = os.getenv('OPENAI_API_KEY')
+        openai_api_key = os.getenv('OPENAI_API_KEY')
+        if not openai_api_key:
+            raise ValueError("Missing OpenAI API key. Please set the OPENAI_API_KEY environment variable.")
+        openai.api_key = openai_api_key
 
         # Function to generate vector embeddings using OpenAI
         def generate_embedding(text):
@@ -120,8 +123,8 @@ jobs:
                     'json_data': property_data  # Directly assign, no need to serialize
                 }).execute()
 
-                if response.status_code != 201:
-                    print(f"Failed to insert property with id {property_data['id']}. Error: {response['data']}")
+                if not response.get('status_code') or response['status_code'] != 201:
+                    print(f"Failed to insert property with id {property_data['id']}. Error: {response}")
                 else:
                     print(f"Successfully inserted property with id {property_data['id']}")
 
