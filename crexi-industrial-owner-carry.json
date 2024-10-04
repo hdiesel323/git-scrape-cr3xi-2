@@ -1417,6 +1417,48 @@
   "propertyUrl": "https://www.crexi.com/properties/1662436/virginia-5214-george-washington-memorial-highway"
 }
 {
+  "id": 1641520,
+  "name": "Deer Valley 16th street Industrial",
+  "description": "2.5 Acre Industrial with 8,000 sqft building and yards.",
+  "thumbnailUrl": "https://images.crexi.com/assets/1641520/17d6526a8b0b4e3c823b0f1446271f95_716x444.jpg",
+  "urlSlug": "arizona-deer-valley-16th-street-industrial",
+  "activatedOn": "2024-08-09T14:32:04.693Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 37,
+  "pricePerSqFtLand": "$27.57/SF",
+  "showCountdownAsDate": false,
+  "askingPrice": 3000000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-10T23:28:50.114Z",
+  "numberOfImages": 37,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "21825 N 16th St",
+      "city": "Phoenix",
+      "county": "Maricopa County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "85024",
+      "latitude": 33.6847539,
+      "longitude": -112.0445416,
+      "fullAddress": "21825 N 16th St, Phoenix, Maricopa County, AZ 85024"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1641520/arizona-deer-valley-16th-street-industrial"
+}
+{
   "id": 1555212,
   "name": "Portfolio Sale For Lewis Street",
   "description": "Industrial",
@@ -1568,48 +1610,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1555212/oregon-proforma-for-lewis-street"
 }
 {
-  "id": 1641520,
-  "name": "Deer Valley 16th street Industrial",
-  "description": "2.5 Acre Industrial with 8,000 sqft building and yards.",
-  "thumbnailUrl": "https://images.crexi.com/assets/1641520/17d6526a8b0b4e3c823b0f1446271f95_716x444.jpg",
-  "urlSlug": "arizona-deer-valley-16th-street-industrial",
-  "activatedOn": "2024-08-09T14:32:04.693Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 37,
-  "pricePerSqFtLand": "$27.57/SF",
-  "showCountdownAsDate": false,
-  "askingPrice": 3000000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-10T23:28:50.114Z",
-  "numberOfImages": 37,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "21825 N 16th St",
-      "city": "Phoenix",
-      "county": "Maricopa County",
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "zip": "85024",
-      "latitude": 33.6847539,
-      "longitude": -112.0445416,
-      "fullAddress": "21825 N 16th St, Phoenix, Maricopa County, AZ 85024"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1641520/arizona-deer-valley-16th-street-industrial"
-}
-{
   "id": 1468238,
   "name": "Catalpa Business Center",
   "description": "Fully Occupied Industrial Complex for Owner/User or Investment.",
@@ -1651,48 +1651,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1468238/california-catalpa-business-center"
-}
-{
-  "id": 1633789,
-  "name": "21 Ball Road Eagle Point",
-  "description": "Industrial | 4,800 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1633789/3426a4f0d392489abad33f009f9cdce0_716x444.jpg",
-  "urlSlug": "oregon-21-ball-road-eagle-point",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28677/7366b694d1104637bb1a5edd119c0491_150x100_resize.jpg",
-  "brokerageName": "Oregon - eXp Realty",
-  "activatedOn": "2024-07-30T19:10:44.697Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 30,
-  "showCountdownAsDate": false,
-  "askingPrice": 999999,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-12T16:42:05.462Z",
-  "numberOfImages": 30,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "21 Ball Rd",
-      "city": "Eagle Point",
-      "county": "Jackson County",
-      "state": {
-        "code": "OR",
-        "name": "Oregon"
-      },
-      "zip": "97524",
-      "latitude": 42.5150769,
-      "longitude": -122.8114408,
-      "fullAddress": "21 Ball Rd, Eagle Point, Jackson County, OR 97524"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1633789/oregon-21-ball-road-eagle-point"
 }
 {
   "id": 1197161,
@@ -1740,6 +1698,48 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1197161/california-prime-i-5-next-to-pilot-and-maverik"
+}
+{
+  "id": 1633789,
+  "name": "21 Ball Road Eagle Point",
+  "description": "Industrial | 4,800 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1633789/3426a4f0d392489abad33f009f9cdce0_716x444.jpg",
+  "urlSlug": "oregon-21-ball-road-eagle-point",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28677/7366b694d1104637bb1a5edd119c0491_150x100_resize.jpg",
+  "brokerageName": "Oregon - eXp Realty",
+  "activatedOn": "2024-07-30T19:10:44.697Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 30,
+  "showCountdownAsDate": false,
+  "askingPrice": 999999,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-12T16:42:05.462Z",
+  "numberOfImages": 30,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "21 Ball Rd",
+      "city": "Eagle Point",
+      "county": "Jackson County",
+      "state": {
+        "code": "OR",
+        "name": "Oregon"
+      },
+      "zip": "97524",
+      "latitude": 42.5150769,
+      "longitude": -122.8114408,
+      "fullAddress": "21 Ball Rd, Eagle Point, Jackson County, OR 97524"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1633789/oregon-21-ball-road-eagle-point"
 }
 {
   "id": 1431913,
