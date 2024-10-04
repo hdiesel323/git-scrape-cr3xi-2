@@ -86,8 +86,40 @@ jobs:
                 embedding = generate_embedding(property_data['description']) if property_data.get('description') else [0.0] * 1536
                 property_data['embedding'] = embedding
 
+                # Add the entire JSON data as a document
+                property_data['json_data'] = json.dumps(property_data)
+
                 # Insert data into Supabase
-                response = supabase.table('crexi_properties').insert(property_data).execute()
+                response = supabase.table('crexi_properties').insert({
+                    'id': property_data['id'],
+                    'name': property_data.get('name'),
+                    'description': property_data.get('description'),
+                    'thumbnail_url': property_data.get('thumbnail_url'),
+                    'url_slug': property_data.get('url_slug'),
+                    'broker_team_logo_url': property_data.get('broker_team_logo_url'),
+                    'brokerage_name': property_data.get('brokerage_name'),
+                    'activated_on': property_data.get('activated_on'),
+                    'asking_price': property_data.get('asking_price'),
+                    'latitude': property_data.get('latitude'),
+                    'longitude': property_data.get('longitude'),
+                    'full_address': property_data.get('full_address'),
+                    'status': property_data.get('status'),
+                    'property_url': property_data.get('property_url'),
+                    'updated_on': property_data.get('updated_on'),
+                    'is_in_opportunity_zone': property_data.get('is_in_opportunity_zone'),
+                    'has_video': property_data.get('has_video'),
+                    'number_of_gallery_items': property_data.get('number_of_gallery_items'),
+                    'number_of_images': property_data.get('number_of_images'),
+                    'types': property_data.get('types'),
+                    'investment_type': property_data.get('investment_type'),
+                    'has_om': property_data.get('has_om'),
+                    'has_flyer': property_data.get('has_flyer'),
+                    'has_virtual_tour': property_data.get('has_virtual_tour'),
+                    'is_new': property_data.get('is_new'),
+                    'embedding': property_data.get('embedding'),
+                    'json_data': property_data.get('json_data')
+                }).execute()
+
                 if response.status_code != 201:
                     print(f"Failed to insert property with id {property_data['id']}. Error: {response.json().get('error')}")
                 else:
