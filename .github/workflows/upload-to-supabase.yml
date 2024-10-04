@@ -36,12 +36,12 @@ jobs:
         import json
         import openai
         import numpy as np
-        from supabase import create_client
+        from supabase import create_client, Client
 
         # Initialize Supabase client
         SUPABASE_URL = os.getenv('SUPABASE_URL')
         SUPABASE_KEY = os.getenv('SUPABASE_KEY')
-        supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
+        supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
         # Initialize OpenAI client
         openai.api_key = os.getenv('OPENAI_API_KEY')
@@ -79,16 +79,19 @@ jobs:
                 property_data['has_flyer'] = property_data.get('hasFlyer', False)
                 property_data['has_virtual_tour'] = property_data.get('hasVirtualTour', False)
                 property_data['is_new'] = property_data.get('isNew', False)
+                property_data['id'] = property_data.get('id')
                 del property_data['locations']
 
                 # Generate vector embedding for the property description
-                embedding = generate_embedding(property_data['description']) if property_data.get('description') else [0.0] * 768
+                embedding = generate_embedding(property_data['description']) if property_data.get('description') else [0.0] * 1536
                 property_data['embedding'] = embedding
 
+                # Insert data into Supabase
                 response = supabase.table('crexi_properties').insert(property_data).execute()
-                if response.get('status_code') != 201:
-                    print(f"Failed to insert property with id {property_data['id']}. Error: {response['error']}")
-                    exit(1)
+                if response.status_code != 201:
+                    print(f"Failed to insert property with id {property_data['id']}. Error: {response.json().get('error')}")
+                else:
+                    print(f"Successfully inserted property with id {property_data['id']}")
 
             print("Successfully inserted all properties into Supabase table with vector embeddings.")
         except Exception as e:
