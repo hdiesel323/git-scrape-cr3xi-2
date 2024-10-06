@@ -672,47 +672,6 @@
         "isNew": false
       },
       {
-        "id": 1553485,
-        "name": "2965 Coleman Street",
-        "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
-        "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
-        "urlSlug": "nevada-2965-coleman-street",
-        "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
-        "brokerageName": "CBRE Las Vegas",
-        "activatedOn": "2024-06-05T23:32:05.482Z",
-        "isInOpportunityZone": true,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 4000000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T22:32:40.041Z",
-        "numberOfImages": 8,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "2965 Coleman St",
-            "city": "North Las Vegas",
-            "county": "Clark County",
-            "state": {
-              "code": "NV",
-              "name": "Nevada"
-            },
-            "zip": "89032",
-            "latitude": 36.2133026,
-            "longitude": -115.1752522,
-            "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1296394,
         "name": "Terra Bella - Industrial - Parcel 2",
         "description": "Industrial",
@@ -749,6 +708,47 @@
             "latitude": 35.94938438078769,
             "longitude": -119.05368745792565,
             "fullAddress": "Parcel 2 - 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1553485,
+        "name": "2965 Coleman Street",
+        "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
+        "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
+        "urlSlug": "nevada-2965-coleman-street",
+        "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
+        "brokerageName": "CBRE Las Vegas",
+        "activatedOn": "2024-06-05T23:32:05.482Z",
+        "isInOpportunityZone": true,
+        "hasVideo": false,
+        "numberOfGalleryItems": 8,
+        "showCountdownAsDate": false,
+        "askingPrice": 4000000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-06T22:32:40.041Z",
+        "numberOfImages": 8,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2965 Coleman St",
+            "city": "North Las Vegas",
+            "county": "Clark County",
+            "state": {
+              "code": "NV",
+              "name": "Nevada"
+            },
+            "zip": "89032",
+            "latitude": 36.2133026,
+            "longitude": -115.1752522,
+            "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
           }
         ],
         "isNew": false
@@ -962,7 +962,7 @@
             "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
           }
         ],
-        "isNew": true
+        "isNew": false
       },
       {
         "id": 1533426,
@@ -1875,6 +1875,46 @@
         "isNew": false
       },
       {
+        "id": 1517295,
+        "name": "Ringe Land",
+        "description": "Industrial | 1,700 SF. M-1",
+        "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+        "urlSlug": "nevada-ringe-land",
+        "brokerageName": "Sandra L. Fink & Associates Inc",
+        "activatedOn": "2024-04-23T18:53:19.6Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 7,
+        "pricePerAcreLand": "$0/Acre",
+        "showCountdownAsDate": false,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-13T18:36:48.764Z",
+        "numberOfImages": 7,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": true,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2929 Ringe Ln",
+            "city": "Las Vegas",
+            "county": "Clark County",
+            "state": {
+              "code": "NV",
+              "name": "Nevada"
+            },
+            "zip": "89156",
+            "latitude": 36.213209,
+            "longitude": -115.060594,
+            "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1510168,
         "name": "625 Miller Valley Road",
         "description": "Retail End User and/or Investment Opportunity",
@@ -1912,46 +1952,6 @@
             "latitude": 34.5525563,
             "longitude": -112.4797855,
             "fullAddress": "625 Miller Valley Road, Prescott, Yavapai County, AZ 86301"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1517295,
-        "name": "Ringe Land",
-        "description": "Industrial | 1,700 SF. M-1",
-        "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-        "urlSlug": "nevada-ringe-land",
-        "brokerageName": "Sandra L. Fink & Associates Inc",
-        "activatedOn": "2024-04-23T18:53:19.6Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 7,
-        "pricePerAcreLand": "$0/Acre",
-        "showCountdownAsDate": false,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-13T18:36:48.764Z",
-        "numberOfImages": 7,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": true,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "2929 Ringe Ln",
-            "city": "Las Vegas",
-            "county": "Clark County",
-            "state": {
-              "code": "NV",
-              "name": "Nevada"
-            },
-            "zip": "89156",
-            "latitude": 36.213209,
-            "longitude": -115.060594,
-            "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
           }
         ],
         "isNew": false
@@ -2010,12 +2010,12 @@
         "activatedOn": "2024-02-14T11:43:32.089Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
-        "numberOfGalleryItems": 5,
+        "numberOfGalleryItems": 6,
         "showCountdownAsDate": false,
         "askingPrice": 300000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-09-27T10:54:44.618Z",
-        "numberOfImages": 5,
+        "updatedOn": "2024-10-05T22:37:31.489Z",
+        "numberOfImages": 6,
         "types": [
           "Industrial",
           "Land"
