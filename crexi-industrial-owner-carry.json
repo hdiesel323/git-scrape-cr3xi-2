@@ -393,7 +393,7 @@
         "showCountdownAsDate": false,
         "askingPrice": 9250000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-09-26T18:31:27.573Z",
+        "updatedOn": "2024-10-09T05:41:44.417Z",
         "numberOfImages": 17,
         "types": [
           "Office",
@@ -672,47 +672,6 @@
         "isNew": false
       },
       {
-        "id": 1553485,
-        "name": "2965 Coleman Street",
-        "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
-        "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
-        "urlSlug": "nevada-2965-coleman-street",
-        "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
-        "brokerageName": "CBRE Las Vegas",
-        "activatedOn": "2024-06-05T23:32:05.482Z",
-        "isInOpportunityZone": true,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 4000000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T22:32:40.041Z",
-        "numberOfImages": 8,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "2965 Coleman St",
-            "city": "North Las Vegas",
-            "county": "Clark County",
-            "state": {
-              "code": "NV",
-              "name": "Nevada"
-            },
-            "zip": "89032",
-            "latitude": 36.2133026,
-            "longitude": -115.1752522,
-            "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1296394,
         "name": "Terra Bella - Industrial - Parcel 2",
         "description": "Industrial",
@@ -749,6 +708,47 @@
             "latitude": 35.94938438078769,
             "longitude": -119.05368745792565,
             "fullAddress": "Parcel 2 - 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1553485,
+        "name": "2965 Coleman Street",
+        "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
+        "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
+        "urlSlug": "nevada-2965-coleman-street",
+        "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
+        "brokerageName": "CBRE Las Vegas",
+        "activatedOn": "2024-06-05T23:32:05.482Z",
+        "isInOpportunityZone": true,
+        "hasVideo": false,
+        "numberOfGalleryItems": 8,
+        "showCountdownAsDate": false,
+        "askingPrice": 4000000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-06T22:32:40.041Z",
+        "numberOfImages": 8,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2965 Coleman St",
+            "city": "North Las Vegas",
+            "county": "Clark County",
+            "state": {
+              "code": "NV",
+              "name": "Nevada"
+            },
+            "zip": "89032",
+            "latitude": 36.2133026,
+            "longitude": -115.1752522,
+            "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
           }
         ],
         "isNew": false
@@ -921,50 +921,6 @@
         "isNew": false
       },
       {
-        "id": 1677482,
-        "name": "2860 E Hwy 68",
-        "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
-        "urlSlug": "arizona-2860-e-hwy-68",
-        "brokerageName": "Sondgeroth Real Estate Group",
-        "activatedOn": "2024-09-28T07:12:36.559Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 12,
-        "showCountdownAsDate": false,
-        "askingPrice": 2500000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-10-01T15:20:04.622Z",
-        "numberOfImages": 12,
-        "types": [
-          "Industrial",
-          "Mixed Use",
-          "Self Storage",
-          "Special Purpose",
-          "Business for Sale"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "2860 E Hwy 68",
-            "city": "Bullhead City",
-            "county": "Mohave County",
-            "state": {
-              "code": "AZ",
-              "name": "Arizona"
-            },
-            "zip": "86429",
-            "latitude": 35.1854421,
-            "longitude": -114.4839227,
-            "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1533426,
         "name": "3870-3880 Elm Street",
         "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
@@ -1002,6 +958,50 @@
             "latitude": 39.77095622022864,
             "longitude": -104.92935990171715,
             "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1677482,
+        "name": "2860 E Hwy 68",
+        "description": "Industrial",
+        "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
+        "urlSlug": "arizona-2860-e-hwy-68",
+        "brokerageName": "Sondgeroth Real Estate Group",
+        "activatedOn": "2024-09-28T07:12:36.559Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 12,
+        "showCountdownAsDate": false,
+        "askingPrice": 2500000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-08T20:57:40.717Z",
+        "numberOfImages": 12,
+        "types": [
+          "Industrial",
+          "Mixed Use",
+          "Self Storage",
+          "Special Purpose",
+          "Business for Sale"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2860 E Hwy 68",
+            "city": "Bullhead City",
+            "county": "Mohave County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "86429",
+            "latitude": 35.1854421,
+            "longitude": -114.4839227,
+            "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
           }
         ],
         "isNew": false
@@ -1176,48 +1176,6 @@
         "isNew": false
       },
       {
-        "id": 1517776,
-        "name": "1150 W Broadway Street",
-        "description": "Industrial | 2,800 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1517776/8eabb9be64b6400b94ef0b4962d1df65_716x444.jpg",
-        "urlSlug": "california-1150-w-broadway-street",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/806/d39568a3d8e4438aab652ccdcfea1727_150x100_resize.jpg",
-        "brokerageName": "Coldwell Banker Campbell Realtors",
-        "activatedOn": "2024-04-24T10:35:31.034Z",
-        "isInOpportunityZone": true,
-        "hasVideo": false,
-        "numberOfGalleryItems": 63,
-        "showCountdownAsDate": false,
-        "askingPrice": 395000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-10-02T10:29:00.422Z",
-        "numberOfImages": 63,
-        "types": [
-          "Industrial",
-          "Land"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "1150 W Broadway Street",
-            "city": "Needles",
-            "county": "san Bernardino",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "92363",
-            "latitude": 34.8409747,
-            "longitude": -114.6086424,
-            "fullAddress": "1150 W Broadway Street, Needles, san Bernardino, CA 92363"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1613407,
         "name": "4301 S Robinson Ave",
         "description": "Retail Industrial Warehouse for Sale",
@@ -1260,43 +1218,43 @@
         "isNew": false
       },
       {
-        "id": 1647286,
-        "name": "28 Acres Heavy Industrial",
-        "description": "Largest Heavy Industrial property available in Crook County",
-        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-        "urlSlug": "oregon-28-acres-heavy-industrial",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-        "brokerageName": "Crook County Properties LLC",
-        "activatedOn": "2024-08-16T16:53:24.034Z",
-        "isInOpportunityZone": false,
+        "id": 1517776,
+        "name": "1150 W Broadway Street",
+        "description": "Industrial | 2,800 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1517776/8eabb9be64b6400b94ef0b4962d1df65_716x444.jpg",
+        "urlSlug": "california-1150-w-broadway-street",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/806/d39568a3d8e4438aab652ccdcfea1727_150x100_resize.jpg",
+        "brokerageName": "Coldwell Banker Campbell Realtors",
+        "activatedOn": "2024-04-24T10:35:31.034Z",
+        "isInOpportunityZone": true,
         "hasVideo": false,
-        "numberOfGalleryItems": 9,
+        "numberOfGalleryItems": 63,
         "showCountdownAsDate": false,
-        "askingPrice": 980000,
+        "askingPrice": 395000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-09-17T16:09:53.312Z",
-        "numberOfImages": 9,
+        "updatedOn": "2024-10-02T10:29:00.422Z",
+        "numberOfImages": 63,
         "types": [
-          "Industrial"
+          "Industrial",
+          "Land"
         ],
-        "investmentType": "Owner/User",
         "hasOM": false,
         "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "606 NW Lamonta Rd",
-            "city": "Prineville",
-            "county": "Crook County",
+            "address": "1150 W Broadway Street",
+            "city": "Needles",
+            "county": "san Bernardino",
             "state": {
-              "code": "OR",
-              "name": "Oregon"
+              "code": "CA",
+              "name": "California"
             },
-            "zip": "97754",
-            "latitude": 44.33854782257441,
-            "longitude": -120.88660370549526,
-            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
+            "zip": "92363",
+            "latitude": 34.8409747,
+            "longitude": -114.6086424,
+            "fullAddress": "1150 W Broadway Street, Needles, san Bernardino, CA 92363"
           }
         ],
         "isNew": false
@@ -1340,6 +1298,48 @@
             "latitude": 35.1526907,
             "longitude": -119.482499,
             "fullAddress": "1589 Highway 33, Taft, Kern County, CA 93268"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1647286,
+        "name": "28 Acres Heavy Industrial",
+        "description": "Largest Heavy Industrial property available in Crook County",
+        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+        "urlSlug": "oregon-28-acres-heavy-industrial",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+        "brokerageName": "Crook County Properties LLC",
+        "activatedOn": "2024-08-16T16:53:24.034Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 9,
+        "showCountdownAsDate": false,
+        "askingPrice": 980000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-17T16:09:53.312Z",
+        "numberOfImages": 9,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "606 NW Lamonta Rd",
+            "city": "Prineville",
+            "county": "Crook County",
+            "state": {
+              "code": "OR",
+              "name": "Oregon"
+            },
+            "zip": "97754",
+            "latitude": 44.33854782257441,
+            "longitude": -120.88660370549526,
+            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
           }
         ],
         "isNew": false
@@ -1791,48 +1791,6 @@
         "isNew": false
       },
       {
-        "id": 1643870,
-        "name": "Collins Drive",
-        "description": "Land",
-        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-        "urlSlug": "california-collins-drive",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-13T10:03:18.061Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 26,
-        "showCountdownAsDate": false,
-        "askingPrice": 649000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-19T10:02:26.223Z",
-        "numberOfImages": 26,
-        "types": [
-          "Land",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Collins Drive",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9057643,
-            "longitude": -121.086736,
-            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1145218,
         "name": "Eaton Park - Commissary Kitchen",
         "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
@@ -1875,24 +1833,24 @@
         "isNew": false
       },
       {
-        "id": 1510168,
-        "name": "625 Miller Valley Road",
-        "description": "Retail End User and/or Investment Opportunity",
-        "thumbnailUrl": "https://images.crexi.com/assets/1510168/0d0fbfeb421e4663838ec75adbe11c7d_716x444.jpg",
-        "urlSlug": "arizona-625-miller-valley-road",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23807/59106f86f05643378f90e05bc4865312_150x100_resize.jpg",
-        "brokerageName": "Better Homes and Gardens BloomTree Realty",
-        "activatedOn": "2024-04-16T12:56:44.934Z",
+        "id": 1643870,
+        "name": "Collins Drive",
+        "description": "Land",
+        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+        "urlSlug": "california-collins-drive",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-13T10:03:18.061Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
-        "numberOfGalleryItems": 11,
+        "numberOfGalleryItems": 26,
         "showCountdownAsDate": false,
-        "askingPrice": 600000,
+        "askingPrice": 649000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-07-24T04:19:10.586Z",
-        "numberOfImages": 11,
+        "updatedOn": "2024-08-19T10:02:26.223Z",
+        "numberOfImages": 26,
         "types": [
-          "Retail",
+          "Land",
           "Industrial"
         ],
         "hasOM": false,
@@ -1901,17 +1859,17 @@
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "625 Miller Valley Road",
-            "city": "Prescott",
-            "county": "Yavapai County",
+            "address": "Collins Drive",
+            "city": "Auburn",
+            "county": "Placer County",
             "state": {
-              "code": "AZ",
-              "name": "Arizona"
+              "code": "CA",
+              "name": "California"
             },
-            "zip": "86301",
-            "latitude": 34.5525563,
-            "longitude": -112.4797855,
-            "fullAddress": "625 Miller Valley Road, Prescott, Yavapai County, AZ 86301"
+            "zip": "95603",
+            "latitude": 38.9057643,
+            "longitude": -121.086736,
+            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
@@ -1952,6 +1910,48 @@
             "latitude": 36.213209,
             "longitude": -115.060594,
             "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1510168,
+        "name": "625 Miller Valley Road",
+        "description": "Retail End User and/or Investment Opportunity",
+        "thumbnailUrl": "https://images.crexi.com/assets/1510168/0d0fbfeb421e4663838ec75adbe11c7d_716x444.jpg",
+        "urlSlug": "arizona-625-miller-valley-road",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23807/59106f86f05643378f90e05bc4865312_150x100_resize.jpg",
+        "brokerageName": "Better Homes and Gardens BloomTree Realty",
+        "activatedOn": "2024-04-16T12:56:44.934Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 11,
+        "showCountdownAsDate": false,
+        "askingPrice": 600000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-07-24T04:19:10.586Z",
+        "numberOfImages": 11,
+        "types": [
+          "Retail",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "625 Miller Valley Road",
+            "city": "Prescott",
+            "county": "Yavapai County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "86301",
+            "latitude": 34.5525563,
+            "longitude": -112.4797855,
+            "fullAddress": "625 Miller Valley Road, Prescott, Yavapai County, AZ 86301"
           }
         ],
         "isNew": false
