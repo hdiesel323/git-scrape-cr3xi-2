@@ -59,7 +59,7 @@
         "showCountdownAsDate": false,
         "askingPrice": 4600000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-10-07T18:58:46.846Z",
+        "updatedOn": "2024-10-10T21:25:52.729Z",
         "numberOfImages": 58,
         "types": [
           "Industrial"
@@ -463,6 +463,47 @@
         "isNew": false
       },
       {
+        "id": 1221526,
+        "name": "Terra Bella - Industrial - Parcel Hwy 65",
+        "description": "Industrial",
+        "thumbnailUrl": "https://images.crexi.com/assets/1221526/8e54cef31d76447d86362dca2cd94e10_716x444.jpg",
+        "urlSlug": "california-terra-bella---industrial---parcel-hwy-65",
+        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+        "brokerageName": "Lion Group Investments",
+        "activatedOn": "2023-10-21T23:14:59.78Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 4,
+        "showCountdownAsDate": false,
+        "askingPrice": 399900,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-07-22T23:58:32.94Z",
+        "numberOfImages": 4,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": true,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "23297 Ave 88",
+            "city": "Terra Bella",
+            "county": "Tulare County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "93270",
+            "latitude": 35.948185,
+            "longitude": -119.0521523,
+            "fullAddress": "23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1584421,
         "name": "1626 S Court Street",
         "description": "Special Purpose | 1,560 SF",
@@ -501,47 +542,6 @@
             "latitude": 36.3159566,
             "longitude": -119.2914044,
             "fullAddress": "1626 S Court Street, Visalia, Tulare County, CA 93277"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1221526,
-        "name": "Terra Bella - Industrial - Parcel Hwy 65",
-        "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1221526/8e54cef31d76447d86362dca2cd94e10_716x444.jpg",
-        "urlSlug": "california-terra-bella---industrial---parcel-hwy-65",
-        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-        "brokerageName": "Lion Group Investments",
-        "activatedOn": "2023-10-21T23:14:59.78Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 4,
-        "showCountdownAsDate": false,
-        "askingPrice": 399900,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-07-22T23:58:32.94Z",
-        "numberOfImages": 4,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": true,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "23297 Ave 88",
-            "city": "Terra Bella",
-            "county": "Tulare County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "93270",
-            "latitude": 35.948185,
-            "longitude": -119.0521523,
-            "fullAddress": "23297 Ave 88, Terra Bella, Tulare County, CA 93270"
           }
         ],
         "isNew": false
@@ -672,47 +672,6 @@
         "isNew": false
       },
       {
-        "id": 1553485,
-        "name": "2965 Coleman Street",
-        "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
-        "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
-        "urlSlug": "nevada-2965-coleman-street",
-        "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
-        "brokerageName": "CBRE Las Vegas",
-        "activatedOn": "2024-06-05T23:32:05.482Z",
-        "isInOpportunityZone": true,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 4000000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T22:32:40.041Z",
-        "numberOfImages": 8,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "2965 Coleman St",
-            "city": "North Las Vegas",
-            "county": "Clark County",
-            "state": {
-              "code": "NV",
-              "name": "Nevada"
-            },
-            "zip": "89032",
-            "latitude": 36.2133026,
-            "longitude": -115.1752522,
-            "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1296394,
         "name": "Terra Bella - Industrial - Parcel 2",
         "description": "Industrial",
@@ -749,6 +708,47 @@
             "latitude": 35.94938438078769,
             "longitude": -119.05368745792565,
             "fullAddress": "Parcel 2 - 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1553485,
+        "name": "2965 Coleman Street",
+        "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
+        "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
+        "urlSlug": "nevada-2965-coleman-street",
+        "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
+        "brokerageName": "CBRE Las Vegas",
+        "activatedOn": "2024-06-05T23:32:05.482Z",
+        "isInOpportunityZone": true,
+        "hasVideo": false,
+        "numberOfGalleryItems": 8,
+        "showCountdownAsDate": false,
+        "askingPrice": 4000000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-06T22:32:40.041Z",
+        "numberOfImages": 8,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2965 Coleman St",
+            "city": "North Las Vegas",
+            "county": "Clark County",
+            "state": {
+              "code": "NV",
+              "name": "Nevada"
+            },
+            "zip": "89032",
+            "latitude": 36.2133026,
+            "longitude": -115.1752522,
+            "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
           }
         ],
         "isNew": false
@@ -1173,48 +1173,6 @@
         "isNew": false
       },
       {
-        "id": 1613407,
-        "name": "4301 S Robinson Ave",
-        "description": "Retail Industrial Warehouse for Sale",
-        "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
-        "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
-        "brokerageName": "Equity Commercial Realty Advisors, LLC",
-        "activatedOn": "2024-07-15T22:34:23.6Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 16,
-        "showCountdownAsDate": false,
-        "askingPrice": 390000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-17T15:10:15.069Z",
-        "numberOfImages": 16,
-        "types": [
-          "Retail",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "4301 S Robinson Ave",
-            "city": "Oklahoma City",
-            "county": "Oklahoma County",
-            "state": {
-              "code": "OK",
-              "name": "Oklahoma"
-            },
-            "zip": "73109",
-            "latitude": 35.42272311621037,
-            "longitude": -97.5162203952987,
-            "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1659274,
         "name": "2008 Commerce",
         "description": "New construction warehouse space 8960'",
@@ -1255,6 +1213,48 @@
             "latitude": 42.3708393,
             "longitude": -122.8623726,
             "fullAddress": "2008 Commerce Dr, Medford, Jackson County, OR 97504"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1613407,
+        "name": "4301 S Robinson Ave",
+        "description": "Retail Industrial Warehouse for Sale",
+        "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
+        "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
+        "brokerageName": "Equity Commercial Realty Advisors, LLC",
+        "activatedOn": "2024-07-15T22:34:23.6Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 16,
+        "showCountdownAsDate": false,
+        "askingPrice": 390000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-17T15:10:15.069Z",
+        "numberOfImages": 16,
+        "types": [
+          "Retail",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "4301 S Robinson Ave",
+            "city": "Oklahoma City",
+            "county": "Oklahoma County",
+            "state": {
+              "code": "OK",
+              "name": "Oklahoma"
+            },
+            "zip": "73109",
+            "latitude": 35.42272311621037,
+            "longitude": -97.5162203952987,
+            "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
           }
         ],
         "isNew": false
@@ -1302,6 +1302,48 @@
         "isNew": false
       },
       {
+        "id": 1647286,
+        "name": "28 Acres Heavy Industrial",
+        "description": "Largest Heavy Industrial property available in Crook County",
+        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+        "urlSlug": "oregon-28-acres-heavy-industrial",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+        "brokerageName": "Crook County Properties LLC",
+        "activatedOn": "2024-08-16T16:53:24.034Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 9,
+        "showCountdownAsDate": false,
+        "askingPrice": 980000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-17T16:09:53.312Z",
+        "numberOfImages": 9,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "606 NW Lamonta Rd",
+            "city": "Prineville",
+            "county": "Crook County",
+            "state": {
+              "code": "OR",
+              "name": "Oregon"
+            },
+            "zip": "97754",
+            "latitude": 44.33854782257441,
+            "longitude": -120.88660370549526,
+            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1560289,
         "name": "1589 Highway 33",
         "description": "Special Purpose | 6,800 SF",
@@ -1340,48 +1382,6 @@
             "latitude": 35.1526907,
             "longitude": -119.482499,
             "fullAddress": "1589 Highway 33, Taft, Kern County, CA 93268"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1647286,
-        "name": "28 Acres Heavy Industrial",
-        "description": "Largest Heavy Industrial property available in Crook County",
-        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-        "urlSlug": "oregon-28-acres-heavy-industrial",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-        "brokerageName": "Crook County Properties LLC",
-        "activatedOn": "2024-08-16T16:53:24.034Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 9,
-        "showCountdownAsDate": false,
-        "askingPrice": 980000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-17T16:09:53.312Z",
-        "numberOfImages": 9,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "606 NW Lamonta Rd",
-            "city": "Prineville",
-            "county": "Crook County",
-            "state": {
-              "code": "OR",
-              "name": "Oregon"
-            },
-            "zip": "97754",
-            "latitude": 44.33854782257441,
-            "longitude": -120.88660370549526,
-            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
           }
         ],
         "isNew": false
@@ -1875,48 +1875,6 @@
         "isNew": false
       },
       {
-        "id": 1643870,
-        "name": "Collins Drive",
-        "description": "Land",
-        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-        "urlSlug": "california-collins-drive",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-13T10:03:18.061Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 26,
-        "showCountdownAsDate": false,
-        "askingPrice": 649000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-19T10:02:26.223Z",
-        "numberOfImages": 26,
-        "types": [
-          "Land",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Collins Drive",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9057643,
-            "longitude": -121.086736,
-            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1517295,
         "name": "Ringe Land",
         "description": "Industrial | 1,700 SF. M-1",
@@ -1994,6 +1952,48 @@
             "latitude": 34.5525563,
             "longitude": -112.4797855,
             "fullAddress": "625 Miller Valley Road, Prescott, Yavapai County, AZ 86301"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1643870,
+        "name": "Collins Drive",
+        "description": "Land",
+        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+        "urlSlug": "california-collins-drive",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-13T10:03:18.061Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 26,
+        "showCountdownAsDate": false,
+        "askingPrice": 649000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-19T10:02:26.223Z",
+        "numberOfImages": 26,
+        "types": [
+          "Land",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "Collins Drive",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9057643,
+            "longitude": -121.086736,
+            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
