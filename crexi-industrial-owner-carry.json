@@ -921,48 +921,6 @@
         "isNew": false
       },
       {
-        "id": 1533426,
-        "name": "3870-3880 Elm Street",
-        "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
-        "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
-        "urlSlug": "colorado-3870-3880-elm-street",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
-        "brokerageName": "Colliers International Denver",
-        "activatedOn": "2024-05-16T14:24:06.221Z",
-        "isInOpportunityZone": true,
-        "hasVideo": false,
-        "numberOfGalleryItems": 1,
-        "showCountdownAsDate": false,
-        "askingPrice": 2590000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-07T16:02:13.841Z",
-        "numberOfImages": 1,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "3870 Elm St",
-            "city": "Denver",
-            "county": "Denver County",
-            "state": {
-              "code": "CO",
-              "name": "Colorado"
-            },
-            "zip": "80207",
-            "latitude": 39.77095622022864,
-            "longitude": -104.92935990171715,
-            "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1581599,
         "name": "1055 Empire Dr",
         "description": "Office | 16,792 SF",
@@ -1000,6 +958,48 @@
             "latitude": 34.505008,
             "longitude": -114.3549243,
             "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1533426,
+        "name": "3870-3880 Elm Street",
+        "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
+        "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
+        "urlSlug": "colorado-3870-3880-elm-street",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
+        "brokerageName": "Colliers International Denver",
+        "activatedOn": "2024-05-16T14:24:06.221Z",
+        "isInOpportunityZone": true,
+        "hasVideo": false,
+        "numberOfGalleryItems": 1,
+        "showCountdownAsDate": false,
+        "askingPrice": 2590000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-07T16:02:13.841Z",
+        "numberOfImages": 1,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "3870 Elm St",
+            "city": "Denver",
+            "county": "Denver County",
+            "state": {
+              "code": "CO",
+              "name": "Colorado"
+            },
+            "zip": "80207",
+            "latitude": 39.77095622022864,
+            "longitude": -104.92935990171715,
+            "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
           }
         ],
         "isNew": false
@@ -1089,48 +1089,6 @@
         "isNew": false
       },
       {
-        "id": 1148554,
-        "name": "Montana City Shop",
-        "description": "Perfect for Light Manufacturing, Warehouse, Distribution, and Much More",
-        "thumbnailUrl": "https://images.crexi.com/assets/1148554/a12b404edaa04cfdaa2b9b319441b070_716x444.jpg",
-        "urlSlug": "montana-virginia-ln",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/89526/28f1f1b0fa2344cf88225a0541455821_150x100_resize.jpg",
-        "brokerageName": "Coldwell Banker Commercial Green & Green",
-        "activatedOn": "2023-05-26T20:51:37.756Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 28,
-        "showCountdownAsDate": false,
-        "askingPrice": 949000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-10-03T16:01:36.236Z",
-        "numberOfImages": 28,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": true,
-        "hasFlyer": false,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "6 Virginia Road",
-            "city": "Montana City",
-            "county": "Jefferson County",
-            "state": {
-              "code": "MT",
-              "name": "Montana"
-            },
-            "zip": "59634",
-            "latitude": 46.535847,
-            "longitude": -111.9468481,
-            "fullAddress": "6 Virginia Road, Montana City, Jefferson County, MT 59634"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1534662,
         "name": "926 Cypress Dr",
         "description": "Industrial | 0 SF",
@@ -1168,6 +1126,48 @@
             "latitude": 32.7174125,
             "longitude": -94.1256206,
             "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1148554,
+        "name": "Montana City Shop",
+        "description": "Perfect for Light Manufacturing, Warehouse, Distribution, and Much More",
+        "thumbnailUrl": "https://images.crexi.com/assets/1148554/a12b404edaa04cfdaa2b9b319441b070_716x444.jpg",
+        "urlSlug": "montana-virginia-ln",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/89526/28f1f1b0fa2344cf88225a0541455821_150x100_resize.jpg",
+        "brokerageName": "Coldwell Banker Commercial Green & Green",
+        "activatedOn": "2023-05-26T20:51:37.756Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 28,
+        "showCountdownAsDate": false,
+        "askingPrice": 949000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-03T16:01:36.236Z",
+        "numberOfImages": 28,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": true,
+        "hasFlyer": false,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "6 Virginia Road",
+            "city": "Montana City",
+            "county": "Jefferson County",
+            "state": {
+              "code": "MT",
+              "name": "Montana"
+            },
+            "zip": "59634",
+            "latitude": 46.535847,
+            "longitude": -111.9468481,
+            "fullAddress": "6 Virginia Road, Montana City, Jefferson County, MT 59634"
           }
         ],
         "isNew": false
@@ -1429,6 +1429,47 @@
         "isNew": false
       },
       {
+        "id": 1641520,
+        "name": "Deer Valley 16th street Industrial",
+        "description": "2.5 Acre Industrial with 8,000 sqft building and yards.",
+        "thumbnailUrl": "https://images.crexi.com/assets/1641520/17d6526a8b0b4e3c823b0f1446271f95_716x444.jpg",
+        "urlSlug": "arizona-deer-valley-16th-street-industrial",
+        "activatedOn": "2024-08-09T14:32:04.693Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 37,
+        "pricePerSqFtLand": "$27.57/SF",
+        "showCountdownAsDate": false,
+        "askingPrice": 3000000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-10T23:28:50.114Z",
+        "numberOfImages": 37,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "21825 N 16th St",
+            "city": "Phoenix",
+            "county": "Maricopa County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "85024",
+            "latitude": 33.6847539,
+            "longitude": -112.0445416,
+            "fullAddress": "21825 N 16th St, Phoenix, Maricopa County, AZ 85024"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1555212,
         "name": "Portfolio Sale For Lewis Street",
         "description": "Industrial",
@@ -1579,47 +1620,6 @@
         "isNew": false
       },
       {
-        "id": 1641520,
-        "name": "Deer Valley 16th street Industrial",
-        "description": "2.5 Acre Industrial with 8,000 sqft building and yards.",
-        "thumbnailUrl": "https://images.crexi.com/assets/1641520/17d6526a8b0b4e3c823b0f1446271f95_716x444.jpg",
-        "urlSlug": "arizona-deer-valley-16th-street-industrial",
-        "activatedOn": "2024-08-09T14:32:04.693Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 37,
-        "pricePerSqFtLand": "$27.57/SF",
-        "showCountdownAsDate": false,
-        "askingPrice": 3000000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-10T23:28:50.114Z",
-        "numberOfImages": 37,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "21825 N 16th St",
-            "city": "Phoenix",
-            "county": "Maricopa County",
-            "state": {
-              "code": "AZ",
-              "name": "Arizona"
-            },
-            "zip": "85024",
-            "latitude": 33.6847539,
-            "longitude": -112.0445416,
-            "fullAddress": "21825 N 16th St, Phoenix, Maricopa County, AZ 85024"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1468238,
         "name": "Catalpa Business Center",
         "description": "Fully Occupied Industrial Complex for Owner/User or Investment.",
@@ -1749,48 +1749,6 @@
         "isNew": false
       },
       {
-        "id": 1470041,
-        "name": "8% CR , ESCALATORS, VALUE ADD , NNNs , MULTI-TENANTS",
-        "description": "VALUE ADD Industrial 8% CAP | 62,983SF + 4.9 ACRES + $75.40/SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1470041/4e3c1b974c6e4c22be0523aad62dba65_716x444.jpg",
-        "urlSlug": "colorado-287-27-road-units-1-5-developable-land-for-sale",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20185/44a15f8e06c048aba4d280b103e2f2d5_150x100_resize.jpg",
-        "brokerageName": "Coldwell Banker Commercial Prime Properties",
-        "activatedOn": "2024-03-12T17:57:29.637Z",
-        "isInOpportunityZone": false,
-        "hasVideo": true,
-        "numberOfGalleryItems": 45,
-        "showCountdownAsDate": false,
-        "askingPrice": 4748913,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-28T19:55:10.545Z",
-        "numberOfImages": 43,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Net Lease",
-        "hasOM": true,
-        "hasFlyer": false,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "287 27 Rd Units 1-5",
-            "city": "Grand Junction",
-            "county": "Mesa County",
-            "state": {
-              "code": "CO",
-              "name": "Colorado"
-            },
-            "zip": "81503",
-            "latitude": 39.04702714,
-            "longitude": -108.55236024,
-            "fullAddress": "287 27 Rd Units 1-5, Grand Junction, Mesa County, CO 81503"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1431913,
         "name": "32776 Gaston Road",
         "description": "Land",
@@ -1828,6 +1786,48 @@
             "latitude": 39.4326842,
             "longitude": -120.723454,
             "fullAddress": "32776 Gaston Road, Nevada City, Nevada County, CA 95959"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1470041,
+        "name": "8% CR , ESCALATORS, VALUE ADD , NNNs , MULTI-TENANTS",
+        "description": "VALUE ADD Industrial 8% CAP | 62,983SF + 4.9 ACRES + $75.40/SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1470041/4e3c1b974c6e4c22be0523aad62dba65_716x444.jpg",
+        "urlSlug": "colorado-287-27-road-units-1-5-developable-land-for-sale",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20185/44a15f8e06c048aba4d280b103e2f2d5_150x100_resize.jpg",
+        "brokerageName": "Coldwell Banker Commercial Prime Properties",
+        "activatedOn": "2024-03-12T17:57:29.637Z",
+        "isInOpportunityZone": false,
+        "hasVideo": true,
+        "numberOfGalleryItems": 45,
+        "showCountdownAsDate": false,
+        "askingPrice": 4748913,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-28T19:55:10.545Z",
+        "numberOfImages": 43,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Net Lease",
+        "hasOM": true,
+        "hasFlyer": false,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "287 27 Rd Units 1-5",
+            "city": "Grand Junction",
+            "county": "Mesa County",
+            "state": {
+              "code": "CO",
+              "name": "Colorado"
+            },
+            "zip": "81503",
+            "latitude": 39.04702714,
+            "longitude": -108.55236024,
+            "fullAddress": "287 27 Rd Units 1-5, Grand Junction, Mesa County, CO 81503"
           }
         ],
         "isNew": false
