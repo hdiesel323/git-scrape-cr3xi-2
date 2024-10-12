@@ -463,43 +463,42 @@
         "isNew": false
       },
       {
-        "id": 1580643,
-        "name": "Hwy 46 Nr Kecks Corner",
+        "id": 1221526,
+        "name": "Terra Bella - Industrial - Parcel Hwy 65",
         "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1580643/d9d368a4e2284c75941aad35d4c6bbae_716x444.jpg",
-        "urlSlug": "california-hwy-46",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/21686/a45f46d2fa0640dd8026e6d261d73c24_150x100_resize.jpg",
-        "brokerageName": "Coldwell Banker Preferred, Realtors",
-        "activatedOn": "2024-07-04T10:47:21.151Z",
+        "thumbnailUrl": "https://images.crexi.com/assets/1221526/8e54cef31d76447d86362dca2cd94e10_716x444.jpg",
+        "urlSlug": "california-terra-bella---industrial---parcel-hwy-65",
+        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+        "brokerageName": "Lion Group Investments",
+        "activatedOn": "2023-10-21T23:14:59.78Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
-        "numberOfGalleryItems": 3,
+        "numberOfGalleryItems": 4,
         "showCountdownAsDate": false,
-        "askingPrice": 799000,
+        "askingPrice": 399900,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-09-21T13:39:20.948Z",
-        "numberOfImages": 3,
+        "updatedOn": "2024-07-22T23:58:32.94Z",
+        "numberOfImages": 4,
         "types": [
-          "Industrial",
-          "Land"
+          "Industrial"
         ],
-        "hasOM": false,
+        "hasOM": true,
         "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "Hwy 46",
-            "city": "Lost Hills",
-            "county": "Kern County",
+            "address": "23297 Ave 88",
+            "city": "Terra Bella",
+            "county": "Tulare County",
             "state": {
               "code": "CA",
               "name": "California"
             },
-            "zip": "93249",
-            "latitude": 35.614826,
-            "longitude": -119.8859982,
-            "fullAddress": "Hwy 46, Lost Hills, Kern County, CA 93249"
+            "zip": "93270",
+            "latitude": 35.948185,
+            "longitude": -119.0521523,
+            "fullAddress": "23297 Ave 88, Terra Bella, Tulare County, CA 93270"
           }
         ],
         "isNew": false
@@ -548,42 +547,43 @@
         "isNew": false
       },
       {
-        "id": 1221526,
-        "name": "Terra Bella - Industrial - Parcel Hwy 65",
+        "id": 1580643,
+        "name": "Hwy 46 Nr Kecks Corner",
         "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1221526/8e54cef31d76447d86362dca2cd94e10_716x444.jpg",
-        "urlSlug": "california-terra-bella---industrial---parcel-hwy-65",
-        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-        "brokerageName": "Lion Group Investments",
-        "activatedOn": "2023-10-21T23:14:59.78Z",
+        "thumbnailUrl": "https://images.crexi.com/assets/1580643/d9d368a4e2284c75941aad35d4c6bbae_716x444.jpg",
+        "urlSlug": "california-hwy-46",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/21686/a45f46d2fa0640dd8026e6d261d73c24_150x100_resize.jpg",
+        "brokerageName": "Coldwell Banker Preferred, Realtors",
+        "activatedOn": "2024-07-04T10:47:21.151Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
-        "numberOfGalleryItems": 4,
+        "numberOfGalleryItems": 3,
         "showCountdownAsDate": false,
-        "askingPrice": 399900,
+        "askingPrice": 799000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-07-22T23:58:32.94Z",
-        "numberOfImages": 4,
+        "updatedOn": "2024-09-21T13:39:20.948Z",
+        "numberOfImages": 3,
         "types": [
-          "Industrial"
+          "Industrial",
+          "Land"
         ],
-        "hasOM": true,
+        "hasOM": false,
         "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "23297 Ave 88",
-            "city": "Terra Bella",
-            "county": "Tulare County",
+            "address": "Hwy 46",
+            "city": "Lost Hills",
+            "county": "Kern County",
             "state": {
               "code": "CA",
               "name": "California"
             },
-            "zip": "93270",
-            "latitude": 35.948185,
-            "longitude": -119.0521523,
-            "fullAddress": "23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+            "zip": "93249",
+            "latitude": 35.614826,
+            "longitude": -119.8859982,
+            "fullAddress": "Hwy 46, Lost Hills, Kern County, CA 93249"
           }
         ],
         "isNew": false
@@ -921,48 +921,6 @@
         "isNew": false
       },
       {
-        "id": 1581599,
-        "name": "1055 Empire Dr",
-        "description": "Office | 16,792 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1581599/6280ecd0292c4cb0acf6d2d737c215db_716x444.jpg",
-        "urlSlug": "arizona-1055-empire-dr",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/51411/24ecb0de32134136877dec587fe1eb4d_150x100_resize.jpg",
-        "brokerageName": "Realty One Group Mountain Desert Lake Havasu City",
-        "activatedOn": "2024-07-08T14:58:58.577Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 117,
-        "showCountdownAsDate": false,
-        "askingPrice": 1800000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-07-09T05:10:27.037Z",
-        "numberOfImages": 117,
-        "types": [
-          "Office",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "1055 Empire Dr",
-            "city": "Lake Havasu City",
-            "county": "Mohave County",
-            "state": {
-              "code": "AZ",
-              "name": "Arizona"
-            },
-            "zip": "86404",
-            "latitude": 34.505008,
-            "longitude": -114.3549243,
-            "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1533426,
         "name": "3870-3880 Elm Street",
         "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
@@ -1000,6 +958,48 @@
             "latitude": 39.77095622022864,
             "longitude": -104.92935990171715,
             "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1581599,
+        "name": "1055 Empire Dr",
+        "description": "Office | 16,792 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1581599/6280ecd0292c4cb0acf6d2d737c215db_716x444.jpg",
+        "urlSlug": "arizona-1055-empire-dr",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/51411/24ecb0de32134136877dec587fe1eb4d_150x100_resize.jpg",
+        "brokerageName": "Realty One Group Mountain Desert Lake Havasu City",
+        "activatedOn": "2024-07-08T14:58:58.577Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 117,
+        "showCountdownAsDate": false,
+        "askingPrice": 1800000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-07-09T05:10:27.037Z",
+        "numberOfImages": 117,
+        "types": [
+          "Office",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "1055 Empire Dr",
+            "city": "Lake Havasu City",
+            "county": "Mohave County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "86404",
+            "latitude": 34.505008,
+            "longitude": -114.3549243,
+            "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
           }
         ],
         "isNew": false
