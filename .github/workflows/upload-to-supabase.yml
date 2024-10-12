@@ -3,7 +3,7 @@ name: Upload JSON to Supabase Table and Create Vectors
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *'  # Run daily at 12:00 PM UTC (after uploading to storage)
+    - cron: '0 12 * * *'  # Run daily at 12:00 PM UTC
   push:
     branches:
       - main
@@ -89,9 +89,6 @@ jobs:
                 embedding = generate_embedding(property_data['description']) if property_data.get('description') else [0.0] * 1536
                 property_data['embedding'] = embedding
 
-                # Add the entire JSON data as a document
-                property_data['json_data'] = json.dumps(property_data)
-
                 # Insert data into Supabase
                 response = supabase.table('crexi_properties').insert({
                     'id': property_data['id'],
@@ -123,7 +120,7 @@ jobs:
                     'json_data': property_data  # Directly assign, no need to serialize
                 }).execute()
 
-                if not response.get('status_code') or response['status_code'] != 201:
+                if response.data is None:
                     print(f"Failed to insert property with id {property_data['id']}. Error: {response}")
                 else:
                     print(f"Successfully inserted property with id {property_data['id']}")
