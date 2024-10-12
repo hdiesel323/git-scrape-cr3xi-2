@@ -13,7 +13,6 @@ jobs:
     - name: Check out this repo
       uses: actions/checkout@v3
       with:
-        # This ensures we can push changes back to the repo
         token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Fetch latest data from Crexi
@@ -35,7 +34,7 @@ jobs:
           -H "sec-fetch-site: same-site" \
           -H "user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" \
           --data-raw '{"term":"owner carry","types":["Industrial"],"count":500,"mlScenario":"Recombee-Recommendations","offset":0,"userId":"$device:1922ee478758a7-0997f3e56efb2f-16525637-384000-1922ee478758a7","sortDirection":"Ascending","sortOrder":"relevance","includeUnpriced":true}' \
-          | jq -s '[.[] | .propertyUrl = "https://www.crexi.com/properties/" + (.id|tostring) + (if .urlSlug != null then "/" + .urlSlug else "" end)]' > crexi-industrial-owner-carry.json
+          | jq -s '[.[] | .propertyUrl = "https://www.crexi.com/properties/" + (.id|tostring) + (if (.urlSlug and .urlSlug != "") then "/" + .urlSlug else "" end)]' > crexi-industrial-owner-carry.json
 
     - name: Check if there are changes
       run: git diff --quiet || echo "Changes detected"
