@@ -17,7 +17,7 @@ jobs:
 
     - name: Fetch latest data from Crexi
       run: |-
-        # First, output the raw JSON to a file for inspection
+        # Fetch and save the raw JSON
         curl -s "https://api.crexi.com/assets/search" \
           -H "accept: application/json, text/plain, */*" \
           -H "accept-language: en-US,en;q=0.9" \
@@ -39,6 +39,6 @@ jobs:
         
         # Output the raw JSON to the console for inspection
         cat crexi-industrial-owner-carry-raw.json
-        
-        # You can also redirect the output into jq for transformation if the structure is confirmed to be as expected
-        cat crexi-industrial-owner-carry-raw.json | jq '[.[] | .data[] | .propertyUrl = "https://www.crexi.com/properties/" + (.id|tostring) + (if (.urlSlug and .urlSlug != "") then "/" + .urlSlug else "" end)]' > crexi-industrial-owner-carry.json
+
+        # Process the JSON using jq, accessing the "data" field
+        cat crexi-industrial-owner-carry-raw.json | jq '.data[] | .propertyUrl = "https://www.crexi.com/properties/" + (.id|tostring) + (if (.urlSlug and .urlSlug != "") then "/" + .urlSlug else "" end)' > crexi-industrial-owner-carry.json
