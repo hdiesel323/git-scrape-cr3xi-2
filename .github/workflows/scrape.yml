@@ -1,4 +1,4 @@
-name: Scrape Crexi Industrial Owner Carry and Upload to Supabase
+name: Scrape Crexi Industrial Owner Carry
 
 on:
   push:
@@ -15,18 +15,9 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
-
-    - name: Install Required Python Packages
-      run: |
-        pip install supabase python-dotenv
-
     - name: Fetch latest data from Crexi
       run: |-
-        # Fetch and save the raw JSON
+        # Fetch the latest data from Crexi
         curl -s "https://api.crexi.com/assets/search" \
           -H "accept: application/json, text/plain, */*" \
           -H "accept-language: en-US,en;q=0.9" \
@@ -43,41 +34,20 @@ jobs:
           -H "sec-fetch-mode: cors" \
           -H "sec-fetch-site: same-site" \
           -H "user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" \
-          --data-raw '{"term":"owner carry","types":["Industrial"],"count":5,"mlScenario":"Recombee-Recommendations","offset":0,"userId":"$device:1922ee478758a7-0997f3e56efb2f-16525637-384000-1922ee478758a7","sortDirection":"Ascending","sortOrder":"relevance","includeUnpriced":true}' \
-          > crexi-industrial-owner-carry-raw.json
-        
-        # Output the raw JSON to the console for inspection
-        cat crexi-industrial-owner-carry-raw.json
+          --data-raw '{"term":"owner carry","types":["Industrial"],"count":500,"mlScenario":"Recombee-Recommendations","offset":0,"userId":"$device:1922ee478758a7-0997f3e56efb2f-16525637-384000-1922ee478758a7","sortDirection":"Ascending","sortOrder":"relevance","includeUnpriced":true}' \
+          | jq -s '[.[] | .propertyUrl = "https://www.crexi.com/properties/" + (.id|tostring) + (if .urlSlug != null then "/" + .urlSlug else "" end)]' > crexi-industrial-owner-carry.json
 
-        # Process the JSON using jq, accessing the "data" field correctly
-        cat crexi-industrial-owner-carry-raw.json | jq '.data[] | .propertyUrl = "https://www.crexi.com/properties/" + (.id|tostring) + (if (.urlSlug and .urlSlug != "") then "/" + .urlSlug else "" end)' > crexi-industrial-owner-carry.json
+    - name: Check if there are changes
+      run: git diff --quiet || echo "Changes detected"
 
-    - name: Upload Processed JSON to Supabase
+    - name: Commit and push if the data has changed
       env:
-        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-        SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This is essential for pushing
+      if: success()
       run: |-
-        python - <<EOF
-        import os
-        import json
-        from supabase import create_client, Client
-
-        # Initialize Supabase client
-        SUPABASE_URL = os.getenv('SUPABASE_URL')
-        SUPABASE_KEY = os.getenv('SUPABASE_KEY')
-        supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
-
-        # Load the processed JSON data
-        with open("crexi-industrial-owner-carry.json", "r") as f:
-            properties = json.load(f)
-
-        # Insert each property into the Supabase table
-        for property_data in properties:
-            # Adjust keys to match the table columns
-            response = supabase.table('crexi_properties').insert(property_data).execute()
-            
-            if response.status_code != 201:
-                print(f"Failed to insert property {property_data['id']}: {response}")
-            else:
-                print(f"Successfully inserted property {property_data['id']}")
-        EOF
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data from Crexi: ${timestamp}" || exit 0
+        git push --force
