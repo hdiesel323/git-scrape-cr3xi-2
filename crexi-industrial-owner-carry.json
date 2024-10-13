@@ -1302,6 +1302,48 @@
         "isNew": false
       },
       {
+        "id": 1647286,
+        "name": "28 Acres Heavy Industrial",
+        "description": "Largest Heavy Industrial property available in Crook County",
+        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+        "urlSlug": "oregon-28-acres-heavy-industrial",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+        "brokerageName": "Crook County Properties LLC",
+        "activatedOn": "2024-08-16T16:53:24.034Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 9,
+        "showCountdownAsDate": false,
+        "askingPrice": 980000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-17T16:09:53.312Z",
+        "numberOfImages": 9,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "606 NW Lamonta Rd",
+            "city": "Prineville",
+            "county": "Crook County",
+            "state": {
+              "code": "OR",
+              "name": "Oregon"
+            },
+            "zip": "97754",
+            "latitude": 44.33854782257441,
+            "longitude": -120.88660370549526,
+            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1560289,
         "name": "1589 Highway 33",
         "description": "Special Purpose | 6,800 SF",
@@ -1340,48 +1382,6 @@
             "latitude": 35.1526907,
             "longitude": -119.482499,
             "fullAddress": "1589 Highway 33, Taft, Kern County, CA 93268"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1647286,
-        "name": "28 Acres Heavy Industrial",
-        "description": "Largest Heavy Industrial property available in Crook County",
-        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-        "urlSlug": "oregon-28-acres-heavy-industrial",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-        "brokerageName": "Crook County Properties LLC",
-        "activatedOn": "2024-08-16T16:53:24.034Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 9,
-        "showCountdownAsDate": false,
-        "askingPrice": 980000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-17T16:09:53.312Z",
-        "numberOfImages": 9,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "606 NW Lamonta Rd",
-            "city": "Prineville",
-            "county": "Crook County",
-            "state": {
-              "code": "OR",
-              "name": "Oregon"
-            },
-            "zip": "97754",
-            "latitude": 44.33854782257441,
-            "longitude": -120.88660370549526,
-            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
           }
         ],
         "isNew": false
@@ -1662,47 +1662,6 @@
         "isNew": false
       },
       {
-        "id": 1633789,
-        "name": "21 Ball Road Eagle Point",
-        "description": "Industrial | 4,800 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1633789/3426a4f0d392489abad33f009f9cdce0_716x444.jpg",
-        "urlSlug": "oregon-21-ball-road-eagle-point",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28677/7366b694d1104637bb1a5edd119c0491_150x100_resize.jpg",
-        "brokerageName": "Oregon - eXp Realty",
-        "activatedOn": "2024-07-30T19:10:44.697Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 30,
-        "showCountdownAsDate": false,
-        "askingPrice": 999999,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-12T16:42:05.462Z",
-        "numberOfImages": 30,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "21 Ball Rd",
-            "city": "Eagle Point",
-            "county": "Jackson County",
-            "state": {
-              "code": "OR",
-              "name": "Oregon"
-            },
-            "zip": "97524",
-            "latitude": 42.5150769,
-            "longitude": -122.8114408,
-            "fullAddress": "21 Ball Rd, Eagle Point, Jackson County, OR 97524"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1197161,
         "name": "Prime I-5 next to Pilot and Maverik",
         "description": "The Best of The Best in N. CA with I-5 Exposure; Affordable Development Site",
@@ -1749,43 +1708,42 @@
         "isNew": false
       },
       {
-        "id": 1470041,
-        "name": "8% CR , ESCALATORS, VALUE ADD , NNNs , MULTI-TENANTS",
-        "description": "VALUE ADD Industrial 8% CAP | 62,983SF + 4.9 ACRES + $75.40/SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1470041/4e3c1b974c6e4c22be0523aad62dba65_716x444.jpg",
-        "urlSlug": "colorado-287-27-road-units-1-5-developable-land-for-sale",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20185/44a15f8e06c048aba4d280b103e2f2d5_150x100_resize.jpg",
-        "brokerageName": "Coldwell Banker Commercial Prime Properties",
-        "activatedOn": "2024-03-12T17:57:29.637Z",
+        "id": 1633789,
+        "name": "21 Ball Road Eagle Point",
+        "description": "Industrial | 4,800 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1633789/3426a4f0d392489abad33f009f9cdce0_716x444.jpg",
+        "urlSlug": "oregon-21-ball-road-eagle-point",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28677/7366b694d1104637bb1a5edd119c0491_150x100_resize.jpg",
+        "brokerageName": "Oregon - eXp Realty",
+        "activatedOn": "2024-07-30T19:10:44.697Z",
         "isInOpportunityZone": false,
-        "hasVideo": true,
-        "numberOfGalleryItems": 45,
+        "hasVideo": false,
+        "numberOfGalleryItems": 30,
         "showCountdownAsDate": false,
-        "askingPrice": 4748913,
+        "askingPrice": 999999,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-08-28T19:55:10.545Z",
-        "numberOfImages": 43,
+        "updatedOn": "2024-08-12T16:42:05.462Z",
+        "numberOfImages": 30,
         "types": [
           "Industrial"
         ],
-        "investmentType": "Net Lease",
-        "hasOM": true,
-        "hasFlyer": false,
+        "hasOM": false,
+        "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "287 27 Rd Units 1-5",
-            "city": "Grand Junction",
-            "county": "Mesa County",
+            "address": "21 Ball Rd",
+            "city": "Eagle Point",
+            "county": "Jackson County",
             "state": {
-              "code": "CO",
-              "name": "Colorado"
+              "code": "OR",
+              "name": "Oregon"
             },
-            "zip": "81503",
-            "latitude": 39.04702714,
-            "longitude": -108.55236024,
-            "fullAddress": "287 27 Rd Units 1-5, Grand Junction, Mesa County, CO 81503"
+            "zip": "97524",
+            "latitude": 42.5150769,
+            "longitude": -122.8114408,
+            "fullAddress": "21 Ball Rd, Eagle Point, Jackson County, OR 97524"
           }
         ],
         "isNew": false
@@ -1833,43 +1791,43 @@
         "isNew": false
       },
       {
-        "id": 1643870,
-        "name": "Collins Drive",
-        "description": "Land",
-        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-        "urlSlug": "california-collins-drive",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-13T10:03:18.061Z",
+        "id": 1470041,
+        "name": "8% CR , ESCALATORS, VALUE ADD , NNNs , MULTI-TENANTS",
+        "description": "VALUE ADD Industrial 8% CAP | 62,983SF + 4.9 ACRES + $75.40/SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1470041/4e3c1b974c6e4c22be0523aad62dba65_716x444.jpg",
+        "urlSlug": "colorado-287-27-road-units-1-5-developable-land-for-sale",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20185/44a15f8e06c048aba4d280b103e2f2d5_150x100_resize.jpg",
+        "brokerageName": "Coldwell Banker Commercial Prime Properties",
+        "activatedOn": "2024-03-12T17:57:29.637Z",
         "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 26,
+        "hasVideo": true,
+        "numberOfGalleryItems": 45,
         "showCountdownAsDate": false,
-        "askingPrice": 649000,
+        "askingPrice": 4748913,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-08-19T10:02:26.223Z",
-        "numberOfImages": 26,
+        "updatedOn": "2024-08-28T19:55:10.545Z",
+        "numberOfImages": 43,
         "types": [
-          "Land",
           "Industrial"
         ],
-        "hasOM": false,
-        "hasFlyer": true,
+        "investmentType": "Net Lease",
+        "hasOM": true,
+        "hasFlyer": false,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "Collins Drive",
-            "city": "Auburn",
-            "county": "Placer County",
+            "address": "287 27 Rd Units 1-5",
+            "city": "Grand Junction",
+            "county": "Mesa County",
             "state": {
-              "code": "CA",
-              "name": "California"
+              "code": "CO",
+              "name": "Colorado"
             },
-            "zip": "95603",
-            "latitude": 38.9057643,
-            "longitude": -121.086736,
-            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
+            "zip": "81503",
+            "latitude": 39.04702714,
+            "longitude": -108.55236024,
+            "fullAddress": "287 27 Rd Units 1-5, Grand Junction, Mesa County, CO 81503"
           }
         ],
         "isNew": false
@@ -1994,6 +1952,48 @@
             "latitude": 36.213209,
             "longitude": -115.060594,
             "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1643870,
+        "name": "Collins Drive",
+        "description": "Land",
+        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+        "urlSlug": "california-collins-drive",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-13T10:03:18.061Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 26,
+        "showCountdownAsDate": false,
+        "askingPrice": 649000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-19T10:02:26.223Z",
+        "numberOfImages": 26,
+        "types": [
+          "Land",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "Collins Drive",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9057643,
+            "longitude": -121.086736,
+            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
