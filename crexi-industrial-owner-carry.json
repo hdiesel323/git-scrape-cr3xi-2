@@ -378,6 +378,47 @@
         "isNew": false
       },
       {
+        "id": 1296398,
+        "name": "Terra Bella - Industrial - Parcel 4",
+        "description": "Industrial",
+        "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
+        "urlSlug": "california-terra-bella---industrial---parcel-4",
+        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+        "brokerageName": "Lion Group Investments",
+        "activatedOn": "2023-10-21T23:37:00.236Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 1,
+        "showCountdownAsDate": false,
+        "askingPrice": 199000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-23T17:00:06.748Z",
+        "numberOfImages": 1,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": true,
+        "hasFlyer": false,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "Parcel 4, 23297 Ave 88",
+            "city": "Terra Bella",
+            "county": "Tulare County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "93270",
+            "latitude": 35.94924245479436,
+            "longitude": -119.05368665888268,
+            "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1006936,
         "name": "2950 W Catalina Dr",
         "description": "Office | 47,526 SF",
@@ -417,47 +458,6 @@
             "latitude": 33.4832549,
             "longitude": -112.1235537,
             "fullAddress": "2950 W Catalina Dr, Phoenix, Maricopa County, AZ 85017"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1296398,
-        "name": "Terra Bella - Industrial - Parcel 4",
-        "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
-        "urlSlug": "california-terra-bella---industrial---parcel-4",
-        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-        "brokerageName": "Lion Group Investments",
-        "activatedOn": "2023-10-21T23:37:00.236Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 1,
-        "showCountdownAsDate": false,
-        "askingPrice": 199000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-23T17:00:06.748Z",
-        "numberOfImages": 1,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": true,
-        "hasFlyer": false,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Parcel 4, 23297 Ave 88",
-            "city": "Terra Bella",
-            "county": "Tulare County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "93270",
-            "latitude": 35.94924245479436,
-            "longitude": -119.05368665888268,
-            "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
           }
         ],
         "isNew": false
@@ -1302,48 +1302,6 @@
         "isNew": false
       },
       {
-        "id": 1647286,
-        "name": "28 Acres Heavy Industrial",
-        "description": "Largest Heavy Industrial property available in Crook County",
-        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-        "urlSlug": "oregon-28-acres-heavy-industrial",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-        "brokerageName": "Crook County Properties LLC",
-        "activatedOn": "2024-08-16T16:53:24.034Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 9,
-        "showCountdownAsDate": false,
-        "askingPrice": 980000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-17T16:09:53.312Z",
-        "numberOfImages": 9,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "606 NW Lamonta Rd",
-            "city": "Prineville",
-            "county": "Crook County",
-            "state": {
-              "code": "OR",
-              "name": "Oregon"
-            },
-            "zip": "97754",
-            "latitude": 44.33854782257441,
-            "longitude": -120.88660370549526,
-            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1560289,
         "name": "1589 Highway 33",
         "description": "Special Purpose | 6,800 SF",
@@ -1382,6 +1340,48 @@
             "latitude": 35.1526907,
             "longitude": -119.482499,
             "fullAddress": "1589 Highway 33, Taft, Kern County, CA 93268"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1647286,
+        "name": "28 Acres Heavy Industrial",
+        "description": "Largest Heavy Industrial property available in Crook County",
+        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+        "urlSlug": "oregon-28-acres-heavy-industrial",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+        "brokerageName": "Crook County Properties LLC",
+        "activatedOn": "2024-08-16T16:53:24.034Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 9,
+        "showCountdownAsDate": false,
+        "askingPrice": 980000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-17T16:09:53.312Z",
+        "numberOfImages": 9,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "606 NW Lamonta Rd",
+            "city": "Prineville",
+            "county": "Crook County",
+            "state": {
+              "code": "OR",
+              "name": "Oregon"
+            },
+            "zip": "97754",
+            "latitude": 44.33854782257441,
+            "longitude": -120.88660370549526,
+            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
           }
         ],
         "isNew": false
@@ -1662,6 +1662,47 @@
         "isNew": false
       },
       {
+        "id": 1633789,
+        "name": "21 Ball Road Eagle Point",
+        "description": "Industrial | 4,800 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1633789/3426a4f0d392489abad33f009f9cdce0_716x444.jpg",
+        "urlSlug": "oregon-21-ball-road-eagle-point",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28677/7366b694d1104637bb1a5edd119c0491_150x100_resize.jpg",
+        "brokerageName": "Oregon - eXp Realty",
+        "activatedOn": "2024-07-30T19:10:44.697Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 30,
+        "showCountdownAsDate": false,
+        "askingPrice": 999999,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-12T16:42:05.462Z",
+        "numberOfImages": 30,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "21 Ball Rd",
+            "city": "Eagle Point",
+            "county": "Jackson County",
+            "state": {
+              "code": "OR",
+              "name": "Oregon"
+            },
+            "zip": "97524",
+            "latitude": 42.5150769,
+            "longitude": -122.8114408,
+            "fullAddress": "21 Ball Rd, Eagle Point, Jackson County, OR 97524"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1197161,
         "name": "Prime I-5 next to Pilot and Maverik",
         "description": "The Best of The Best in N. CA with I-5 Exposure; Affordable Development Site",
@@ -1703,47 +1744,6 @@
             "latitude": 39.747410522877395,
             "longitude": -122.20651351326177,
             "fullAddress": "6412 Co Rd 14, Orland, Glenn County, CA 95963"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1633789,
-        "name": "21 Ball Road Eagle Point",
-        "description": "Industrial | 4,800 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1633789/3426a4f0d392489abad33f009f9cdce0_716x444.jpg",
-        "urlSlug": "oregon-21-ball-road-eagle-point",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28677/7366b694d1104637bb1a5edd119c0491_150x100_resize.jpg",
-        "brokerageName": "Oregon - eXp Realty",
-        "activatedOn": "2024-07-30T19:10:44.697Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 30,
-        "showCountdownAsDate": false,
-        "askingPrice": 999999,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-12T16:42:05.462Z",
-        "numberOfImages": 30,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "21 Ball Rd",
-            "city": "Eagle Point",
-            "county": "Jackson County",
-            "state": {
-              "code": "OR",
-              "name": "Oregon"
-            },
-            "zip": "97524",
-            "latitude": 42.5150769,
-            "longitude": -122.8114408,
-            "fullAddress": "21 Ball Rd, Eagle Point, Jackson County, OR 97524"
           }
         ],
         "isNew": false
@@ -1875,6 +1875,48 @@
         "isNew": false
       },
       {
+        "id": 1643870,
+        "name": "Collins Drive",
+        "description": "Land",
+        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+        "urlSlug": "california-collins-drive",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-13T10:03:18.061Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 26,
+        "showCountdownAsDate": false,
+        "askingPrice": 649000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-19T10:02:26.223Z",
+        "numberOfImages": 26,
+        "types": [
+          "Land",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "Collins Drive",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9057643,
+            "longitude": -121.086736,
+            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1510168,
         "name": "625 Miller Valley Road",
         "description": "Retail End User and/or Investment Opportunity",
@@ -1952,48 +1994,6 @@
             "latitude": 36.213209,
             "longitude": -115.060594,
             "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1643870,
-        "name": "Collins Drive",
-        "description": "Land",
-        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-        "urlSlug": "california-collins-drive",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-13T10:03:18.061Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 26,
-        "showCountdownAsDate": false,
-        "askingPrice": 649000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-19T10:02:26.223Z",
-        "numberOfImages": 26,
-        "types": [
-          "Land",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Collins Drive",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9057643,
-            "longitude": -121.086736,
-            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
