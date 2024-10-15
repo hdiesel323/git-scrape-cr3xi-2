@@ -378,47 +378,6 @@
         "isNew": false
       },
       {
-        "id": 1296398,
-        "name": "Terra Bella - Industrial - Parcel 4",
-        "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
-        "urlSlug": "california-terra-bella---industrial---parcel-4",
-        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-        "brokerageName": "Lion Group Investments",
-        "activatedOn": "2023-10-21T23:37:00.236Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 1,
-        "showCountdownAsDate": false,
-        "askingPrice": 199000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-23T17:00:06.748Z",
-        "numberOfImages": 1,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": true,
-        "hasFlyer": false,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Parcel 4, 23297 Ave 88",
-            "city": "Terra Bella",
-            "county": "Tulare County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "93270",
-            "latitude": 35.94924245479436,
-            "longitude": -119.05368665888268,
-            "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1006936,
         "name": "2950 W Catalina Dr",
         "description": "Office | 47,526 SF",
@@ -458,6 +417,47 @@
             "latitude": 33.4832549,
             "longitude": -112.1235537,
             "fullAddress": "2950 W Catalina Dr, Phoenix, Maricopa County, AZ 85017"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1296398,
+        "name": "Terra Bella - Industrial - Parcel 4",
+        "description": "Industrial",
+        "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
+        "urlSlug": "california-terra-bella---industrial---parcel-4",
+        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+        "brokerageName": "Lion Group Investments",
+        "activatedOn": "2023-10-21T23:37:00.236Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 1,
+        "showCountdownAsDate": false,
+        "askingPrice": 199000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-23T17:00:06.748Z",
+        "numberOfImages": 1,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": true,
+        "hasFlyer": false,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "Parcel 4, 23297 Ave 88",
+            "city": "Terra Bella",
+            "county": "Tulare County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "93270",
+            "latitude": 35.94924245479436,
+            "longitude": -119.05368665888268,
+            "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
           }
         ],
         "isNew": false
@@ -879,6 +879,50 @@
         "isNew": false
       },
       {
+        "id": 1685655,
+        "name": "Culligan Building",
+        "description": "Industrial | 2,856 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1685655/3ecaa193e66f448c81d37657914413ff_716x444.jpg",
+        "urlSlug": "wyoming-old-culligan-building",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/79557/0e12bfd5459b4476ac5cd23cd6973c41_150x100_resize.jpg",
+        "brokerageName": "Simply Real Estate",
+        "activatedOn": "2024-10-10T03:12:21.725Z",
+        "isInOpportunityZone": true,
+        "hasVideo": false,
+        "numberOfGalleryItems": 12,
+        "showCountdownAsDate": false,
+        "askingPrice": 60000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-15T01:27:54.493Z",
+        "numberOfImages": 12,
+        "types": [
+          "Industrial",
+          "Mixed Use",
+          "Office",
+          "Retail"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "1725 W B St",
+            "city": "Torrington",
+            "county": "Goshen County",
+            "state": {
+              "code": "WY",
+              "name": "Wyoming"
+            },
+            "zip": "82240",
+            "latitude": 42.06210598371801,
+            "longitude": -104.18631325603735,
+            "fullAddress": "1725 W B St, Torrington, Goshen County, WY 82240"
+          }
+        ],
+        "isNew": true
+      },
+      {
         "id": 343566,
         "name": "1865-1877 S. Acoma Street",
         "description": "T.O.D site near Evans and S. Santa Fe",
@@ -1103,7 +1147,7 @@
         "showCountdownAsDate": false,
         "askingPrice": 535000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-10-09T10:23:49.642Z",
+        "updatedOn": "2024-10-14T10:13:48.479Z",
         "numberOfImages": 30,
         "types": [
           "Industrial",
@@ -1657,47 +1701,6 @@
             "latitude": 34.45983881791154,
             "longitude": -117.28345998783132,
             "fullAddress": "17415 Catalpa St, Hesperia, San Bernardino County, CA 92345"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1633789,
-        "name": "21 Ball Road Eagle Point",
-        "description": "Industrial | 4,800 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1633789/3426a4f0d392489abad33f009f9cdce0_716x444.jpg",
-        "urlSlug": "oregon-21-ball-road-eagle-point",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28677/7366b694d1104637bb1a5edd119c0491_150x100_resize.jpg",
-        "brokerageName": "Oregon - eXp Realty",
-        "activatedOn": "2024-07-30T19:10:44.697Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 30,
-        "showCountdownAsDate": false,
-        "askingPrice": 999999,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-12T16:42:05.462Z",
-        "numberOfImages": 30,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "21 Ball Rd",
-            "city": "Eagle Point",
-            "county": "Jackson County",
-            "state": {
-              "code": "OR",
-              "name": "Oregon"
-            },
-            "zip": "97524",
-            "latitude": 42.5150769,
-            "longitude": -122.8114408,
-            "fullAddress": "21 Ball Rd, Eagle Point, Jackson County, OR 97524"
           }
         ],
         "isNew": false
