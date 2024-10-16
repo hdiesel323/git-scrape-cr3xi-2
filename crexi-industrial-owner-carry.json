@@ -210,49 +210,6 @@
         "isNew": false
       },
       {
-        "id": 1325344,
-        "name": "11860 Kemper Road 7",
-        "description": "Special Purpose | 1,350 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
-        "urlSlug": "california-11860-kemper-road-7",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-31T10:03:09.905Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 500000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T10:19:51.619Z",
-        "numberOfImages": 8,
-        "types": [
-          "Special Purpose",
-          "Industrial",
-          "Land"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "11860 Kemper Road 7",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9307359,
-            "longitude": -121.0915371,
-            "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1325345,
         "name": "11860 Kemper Road 8",
         "description": "Special Purpose | 1,483 SF",
@@ -291,6 +248,49 @@
             "latitude": 38.9308072,
             "longitude": -121.0915333,
             "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1325344,
+        "name": "11860 Kemper Road 7",
+        "description": "Special Purpose | 1,350 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
+        "urlSlug": "california-11860-kemper-road-7",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-31T10:03:09.905Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 8,
+        "showCountdownAsDate": false,
+        "askingPrice": 500000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-06T10:19:51.619Z",
+        "numberOfImages": 8,
+        "types": [
+          "Special Purpose",
+          "Industrial",
+          "Land"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "11860 Kemper Road 7",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9307359,
+            "longitude": -121.0915371,
+            "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
@@ -754,48 +754,6 @@
         "isNew": false
       },
       {
-        "id": 1094534,
-        "name": "3895 E 45th Ave",
-        "description": "Industrial | 3,840 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
-        "urlSlug": "colorado-3895-e-45th-ave",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
-        "brokerageName": "Unique Properties, Inc",
-        "activatedOn": "2023-04-10T21:23:43.81Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 949000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-23T20:34:11.632Z",
-        "numberOfImages": 8,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "3895 E 45th Ave",
-            "city": "Denver",
-            "county": "Denver County",
-            "state": {
-              "code": "CO",
-              "name": "Colorado"
-            },
-            "zip": "80216",
-            "latitude": 39.77889341,
-            "longitude": -104.94227107,
-            "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1606201,
         "name": "4802 Derrick Drive",
         "description": "Retail | 1,230 SF",
@@ -833,6 +791,48 @@
             "latitude": 32.4392092,
             "longitude": -99.6601407,
             "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1094534,
+        "name": "3895 E 45th Ave",
+        "description": "Industrial | 3,840 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
+        "urlSlug": "colorado-3895-e-45th-ave",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
+        "brokerageName": "Unique Properties, Inc",
+        "activatedOn": "2023-04-10T21:23:43.81Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 8,
+        "showCountdownAsDate": false,
+        "askingPrice": 949000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-23T20:34:11.632Z",
+        "numberOfImages": 8,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "3895 E 45th Ave",
+            "city": "Denver",
+            "county": "Denver County",
+            "state": {
+              "code": "CO",
+              "name": "Colorado"
+            },
+            "zip": "80216",
+            "latitude": 39.77889341,
+            "longitude": -104.94227107,
+            "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
           }
         ],
         "isNew": false
@@ -965,6 +965,50 @@
         "isNew": false
       },
       {
+        "id": 1677482,
+        "name": "2860 E Hwy 68",
+        "description": "Industrial",
+        "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
+        "urlSlug": "arizona-2860-e-hwy-68",
+        "brokerageName": "Sondgeroth Real Estate Group",
+        "activatedOn": "2024-09-28T07:12:36.559Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 12,
+        "showCountdownAsDate": false,
+        "askingPrice": 2500000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-08T20:57:40.717Z",
+        "numberOfImages": 12,
+        "types": [
+          "Industrial",
+          "Mixed Use",
+          "Self Storage",
+          "Special Purpose",
+          "Business for Sale"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2860 E Hwy 68",
+            "city": "Bullhead City",
+            "county": "Mohave County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "86429",
+            "latitude": 35.1854421,
+            "longitude": -114.4839227,
+            "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1533426,
         "name": "3870-3880 Elm Street",
         "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
@@ -1049,50 +1093,6 @@
         "isNew": false
       },
       {
-        "id": 1677482,
-        "name": "2860 E Hwy 68",
-        "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
-        "urlSlug": "arizona-2860-e-hwy-68",
-        "brokerageName": "Sondgeroth Real Estate Group",
-        "activatedOn": "2024-09-28T07:12:36.559Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 12,
-        "showCountdownAsDate": false,
-        "askingPrice": 2500000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-10-08T20:57:40.717Z",
-        "numberOfImages": 12,
-        "types": [
-          "Industrial",
-          "Mixed Use",
-          "Self Storage",
-          "Special Purpose",
-          "Business for Sale"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "2860 E Hwy 68",
-            "city": "Bullhead City",
-            "county": "Mohave County",
-            "state": {
-              "code": "AZ",
-              "name": "Arizona"
-            },
-            "zip": "86429",
-            "latitude": 35.1854421,
-            "longitude": -114.4839227,
-            "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 969147,
         "name": "146 Via Trevizio",
         "description": "Industrial | 9,458 SF",
@@ -1133,43 +1133,43 @@
         "isNew": false
       },
       {
-        "id": 1534662,
-        "name": "926 Cypress Dr",
-        "description": "Industrial | 0 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1534662/a06c499811df4e6dab7bb7ce1e977e9c_716x444.jpg",
-        "urlSlug": "texas-926-cypress-dr",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/33847/6e185f8118a84d0bba181f9e3a5c6512_150x100_resize.jpg",
-        "brokerageName": "Coldwell Banker Lenhart Properties, Inc.",
-        "activatedOn": "2024-05-17T10:24:14.87Z",
+        "id": 863412,
+        "name": "Murphy Sheds",
+        "description": "Business and Inventory for sale no real estate, leased space for Wherehouse.",
+        "thumbnailUrl": "https://images.crexi.com/assets/863412/66c7fdb937f445aa96f774e1df422d4e_716x444.jpg",
+        "urlSlug": "south-dakota-murphy-sheds",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28033/a47422d81a6344f7869d1a7d44e82eae_150x100_resize.jpg",
+        "brokerageName": "The Real Estate Group Inc",
+        "activatedOn": "2022-08-30T17:18:12.605Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
-        "numberOfGalleryItems": 30,
+        "numberOfGalleryItems": 17,
         "showCountdownAsDate": false,
-        "askingPrice": 535000,
+        "askingPrice": 449000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-10-14T10:13:48.479Z",
-        "numberOfImages": 30,
+        "updatedOn": "2024-10-15T15:21:38.628Z",
+        "numberOfImages": 17,
         "types": [
-          "Industrial",
-          "Land"
+          "Industrial"
         ],
+        "investmentType": "Stabilized",
         "hasOM": false,
         "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "926 Cypress Dr",
-            "city": "Karnack",
-            "county": "Harrison",
+            "address": "2609 Bridge View Dr",
+            "city": "Rapid City",
+            "county": "Pennington County",
             "state": {
-              "code": "TX",
-              "name": "Texas"
+              "code": "SD",
+              "name": "South Dakota"
             },
-            "zip": "75661",
-            "latitude": 32.7174125,
-            "longitude": -94.1256206,
-            "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
+            "zip": "57701",
+            "latitude": 44.059383391505826,
+            "longitude": -103.1919271599054,
+            "fullAddress": "2609 Bridge View Dr, Rapid City, Pennington County, SD 57701"
           }
         ],
         "isNew": false
@@ -1212,6 +1212,48 @@
             "latitude": 46.535847,
             "longitude": -111.9468481,
             "fullAddress": "6 Virginia Road, Montana City, Jefferson County, MT 59634"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1534662,
+        "name": "926 Cypress Dr",
+        "description": "Industrial | 0 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1534662/a06c499811df4e6dab7bb7ce1e977e9c_716x444.jpg",
+        "urlSlug": "texas-926-cypress-dr",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/33847/6e185f8118a84d0bba181f9e3a5c6512_150x100_resize.jpg",
+        "brokerageName": "Coldwell Banker Lenhart Properties, Inc.",
+        "activatedOn": "2024-05-17T10:24:14.87Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 30,
+        "showCountdownAsDate": false,
+        "askingPrice": 535000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-14T10:13:48.479Z",
+        "numberOfImages": 30,
+        "types": [
+          "Industrial",
+          "Land"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "926 Cypress Dr",
+            "city": "Karnack",
+            "county": "Harrison",
+            "state": {
+              "code": "TX",
+              "name": "Texas"
+            },
+            "zip": "75661",
+            "latitude": 32.7174125,
+            "longitude": -94.1256206,
+            "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
           }
         ],
         "isNew": false
@@ -1262,6 +1304,48 @@
         "isNew": false
       },
       {
+        "id": 1613407,
+        "name": "4301 S Robinson Ave",
+        "description": "Retail Industrial Warehouse for Sale",
+        "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
+        "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
+        "brokerageName": "Equity Commercial Realty Advisors, LLC",
+        "activatedOn": "2024-07-15T22:34:23.6Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 16,
+        "showCountdownAsDate": false,
+        "askingPrice": 390000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-17T15:10:15.069Z",
+        "numberOfImages": 16,
+        "types": [
+          "Retail",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "4301 S Robinson Ave",
+            "city": "Oklahoma City",
+            "county": "Oklahoma County",
+            "state": {
+              "code": "OK",
+              "name": "Oklahoma"
+            },
+            "zip": "73109",
+            "latitude": 35.42272311621037,
+            "longitude": -97.5162203952987,
+            "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1517776,
         "name": "1150 W Broadway Street",
         "description": "Industrial | 2,800 SF",
@@ -1304,43 +1388,43 @@
         "isNew": false
       },
       {
-        "id": 1613407,
-        "name": "4301 S Robinson Ave",
-        "description": "Retail Industrial Warehouse for Sale",
-        "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
-        "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
-        "brokerageName": "Equity Commercial Realty Advisors, LLC",
-        "activatedOn": "2024-07-15T22:34:23.6Z",
+        "id": 1647286,
+        "name": "28 Acres Heavy Industrial",
+        "description": "Largest Heavy Industrial property available in Crook County",
+        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+        "urlSlug": "oregon-28-acres-heavy-industrial",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+        "brokerageName": "Crook County Properties LLC",
+        "activatedOn": "2024-08-16T16:53:24.034Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
-        "numberOfGalleryItems": 16,
+        "numberOfGalleryItems": 9,
         "showCountdownAsDate": false,
-        "askingPrice": 390000,
+        "askingPrice": 980000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-09-17T15:10:15.069Z",
-        "numberOfImages": 16,
+        "updatedOn": "2024-09-17T16:09:53.312Z",
+        "numberOfImages": 9,
         "types": [
-          "Retail",
           "Industrial"
         ],
+        "investmentType": "Owner/User",
         "hasOM": false,
         "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "4301 S Robinson Ave",
-            "city": "Oklahoma City",
-            "county": "Oklahoma County",
+            "address": "606 NW Lamonta Rd",
+            "city": "Prineville",
+            "county": "Crook County",
             "state": {
-              "code": "OK",
-              "name": "Oklahoma"
+              "code": "OR",
+              "name": "Oregon"
             },
-            "zip": "73109",
-            "latitude": 35.42272311621037,
-            "longitude": -97.5162203952987,
-            "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
+            "zip": "97754",
+            "latitude": 44.33854782257441,
+            "longitude": -120.88660370549526,
+            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
           }
         ],
         "isNew": false
@@ -1384,48 +1468,6 @@
             "latitude": 35.1526907,
             "longitude": -119.482499,
             "fullAddress": "1589 Highway 33, Taft, Kern County, CA 93268"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1647286,
-        "name": "28 Acres Heavy Industrial",
-        "description": "Largest Heavy Industrial property available in Crook County",
-        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-        "urlSlug": "oregon-28-acres-heavy-industrial",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-        "brokerageName": "Crook County Properties LLC",
-        "activatedOn": "2024-08-16T16:53:24.034Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 9,
-        "showCountdownAsDate": false,
-        "askingPrice": 980000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-17T16:09:53.312Z",
-        "numberOfImages": 9,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "606 NW Lamonta Rd",
-            "city": "Prineville",
-            "county": "Crook County",
-            "state": {
-              "code": "OR",
-              "name": "Oregon"
-            },
-            "zip": "97754",
-            "latitude": 44.33854782257441,
-            "longitude": -120.88660370549526,
-            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
           }
         ],
         "isNew": false
@@ -2215,7 +2257,7 @@
         "isNew": false
       }
     ],
-    "totalCount": 50,
+    "totalCount": 51,
     "propertyUrl": "https://www.crexi.com/properties/null"
   }
 ]
