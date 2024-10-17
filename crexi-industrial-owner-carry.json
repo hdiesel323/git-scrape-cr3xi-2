@@ -210,49 +210,6 @@
         "isNew": false
       },
       {
-        "id": 1325345,
-        "name": "11860 Kemper Road 8",
-        "description": "Special Purpose | 1,483 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
-        "urlSlug": "california-11860-kemper-road-8",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-09-03T10:01:21.962Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 7,
-        "showCountdownAsDate": false,
-        "askingPrice": 420000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T10:19:51.221Z",
-        "numberOfImages": 7,
-        "types": [
-          "Special Purpose",
-          "Industrial",
-          "Land"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "11860 Kemper Road 8",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9308072,
-            "longitude": -121.0915333,
-            "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1325344,
         "name": "11860 Kemper Road 7",
         "description": "Special Purpose | 1,350 SF",
@@ -291,6 +248,49 @@
             "latitude": 38.9307359,
             "longitude": -121.0915371,
             "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1325345,
+        "name": "11860 Kemper Road 8",
+        "description": "Special Purpose | 1,483 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
+        "urlSlug": "california-11860-kemper-road-8",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-09-03T10:01:21.962Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 7,
+        "showCountdownAsDate": false,
+        "askingPrice": 420000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-06T10:19:51.221Z",
+        "numberOfImages": 7,
+        "types": [
+          "Special Purpose",
+          "Industrial",
+          "Land"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "11860 Kemper Road 8",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9308072,
+            "longitude": -121.0915333,
+            "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
@@ -754,48 +754,6 @@
         "isNew": false
       },
       {
-        "id": 1606201,
-        "name": "4802 Derrick Drive",
-        "description": "Retail | 1,230 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
-        "urlSlug": "texas-4802-derrick-drive",
-        "brokerageName": "Whitten Real Estate",
-        "activatedOn": "2024-07-13T21:13:39.048Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 1,
-        "pricePerSqFtLand": "$3.21/SF",
-        "showCountdownAsDate": false,
-        "askingPrice": 329900,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-07-13T21:15:05.187Z",
-        "numberOfImages": 1,
-        "types": [
-          "Retail",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "4802 Derrick Dr",
-            "city": "Abilene",
-            "county": "Taylor County",
-            "state": {
-              "code": "TX",
-              "name": "Texas"
-            },
-            "zip": "79601",
-            "latitude": 32.4392092,
-            "longitude": -99.6601407,
-            "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1094534,
         "name": "3895 E 45th Ave",
         "description": "Industrial | 3,840 SF",
@@ -833,6 +791,48 @@
             "latitude": 39.77889341,
             "longitude": -104.94227107,
             "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1606201,
+        "name": "4802 Derrick Drive",
+        "description": "Retail | 1,230 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
+        "urlSlug": "texas-4802-derrick-drive",
+        "brokerageName": "Whitten Real Estate",
+        "activatedOn": "2024-07-13T21:13:39.048Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 1,
+        "pricePerSqFtLand": "$3.21/SF",
+        "showCountdownAsDate": false,
+        "askingPrice": 329900,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-07-13T21:15:05.187Z",
+        "numberOfImages": 1,
+        "types": [
+          "Retail",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "4802 Derrick Dr",
+            "city": "Abilene",
+            "county": "Taylor County",
+            "state": {
+              "code": "TX",
+              "name": "Texas"
+            },
+            "zip": "79601",
+            "latitude": 32.4392092,
+            "longitude": -99.6601407,
+            "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
           }
         ],
         "isNew": false
@@ -920,7 +920,7 @@
             "fullAddress": "1725 W B St, Torrington, Goshen County, WY 82240"
           }
         ],
-        "isNew": true
+        "isNew": false
       },
       {
         "id": 343566,
@@ -960,50 +960,6 @@
             "latitude": 39.682849991864224,
             "longitude": -104.98883048741894,
             "fullAddress": "1865-1877 S. Acoma Street, Denver, Denver County, CO 80223"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1677482,
-        "name": "2860 E Hwy 68",
-        "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
-        "urlSlug": "arizona-2860-e-hwy-68",
-        "brokerageName": "Sondgeroth Real Estate Group",
-        "activatedOn": "2024-09-28T07:12:36.559Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 12,
-        "showCountdownAsDate": false,
-        "askingPrice": 2500000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-10-08T20:57:40.717Z",
-        "numberOfImages": 12,
-        "types": [
-          "Industrial",
-          "Mixed Use",
-          "Self Storage",
-          "Special Purpose",
-          "Business for Sale"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "2860 E Hwy 68",
-            "city": "Bullhead City",
-            "county": "Mohave County",
-            "state": {
-              "code": "AZ",
-              "name": "Arizona"
-            },
-            "zip": "86429",
-            "latitude": 35.1854421,
-            "longitude": -114.4839227,
-            "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
           }
         ],
         "isNew": false
@@ -1093,6 +1049,50 @@
         "isNew": false
       },
       {
+        "id": 1677482,
+        "name": "2860 E Hwy 68",
+        "description": "Industrial",
+        "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
+        "urlSlug": "arizona-2860-e-hwy-68",
+        "brokerageName": "Sondgeroth Real Estate Group",
+        "activatedOn": "2024-09-28T07:12:36.559Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 12,
+        "showCountdownAsDate": false,
+        "askingPrice": 2500000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-08T20:57:40.717Z",
+        "numberOfImages": 12,
+        "types": [
+          "Industrial",
+          "Mixed Use",
+          "Self Storage",
+          "Special Purpose",
+          "Business for Sale"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2860 E Hwy 68",
+            "city": "Bullhead City",
+            "county": "Mohave County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "86429",
+            "latitude": 35.1854421,
+            "longitude": -114.4839227,
+            "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 969147,
         "name": "146 Via Trevizio",
         "description": "Industrial | 9,458 SF",
@@ -1175,48 +1175,6 @@
         "isNew": false
       },
       {
-        "id": 1148554,
-        "name": "Montana City Shop",
-        "description": "Perfect for Light Manufacturing, Warehouse, Distribution, and Much More",
-        "thumbnailUrl": "https://images.crexi.com/assets/1148554/a12b404edaa04cfdaa2b9b319441b070_716x444.jpg",
-        "urlSlug": "montana-virginia-ln",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/89526/28f1f1b0fa2344cf88225a0541455821_150x100_resize.jpg",
-        "brokerageName": "Coldwell Banker Commercial Green & Green",
-        "activatedOn": "2023-05-26T20:51:37.756Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 28,
-        "showCountdownAsDate": false,
-        "askingPrice": 949000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-10-03T16:01:36.236Z",
-        "numberOfImages": 28,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": true,
-        "hasFlyer": false,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "6 Virginia Road",
-            "city": "Montana City",
-            "county": "Jefferson County",
-            "state": {
-              "code": "MT",
-              "name": "Montana"
-            },
-            "zip": "59634",
-            "latitude": 46.535847,
-            "longitude": -111.9468481,
-            "fullAddress": "6 Virginia Road, Montana City, Jefferson County, MT 59634"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1534662,
         "name": "926 Cypress Dr",
         "description": "Industrial | 0 SF",
@@ -1254,6 +1212,48 @@
             "latitude": 32.7174125,
             "longitude": -94.1256206,
             "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1148554,
+        "name": "Montana City Shop",
+        "description": "Perfect for Light Manufacturing, Warehouse, Distribution, and Much More",
+        "thumbnailUrl": "https://images.crexi.com/assets/1148554/a12b404edaa04cfdaa2b9b319441b070_716x444.jpg",
+        "urlSlug": "montana-virginia-ln",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/89526/28f1f1b0fa2344cf88225a0541455821_150x100_resize.jpg",
+        "brokerageName": "Coldwell Banker Commercial Green & Green",
+        "activatedOn": "2023-05-26T20:51:37.756Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 28,
+        "showCountdownAsDate": false,
+        "askingPrice": 900000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-16T15:30:03.819Z",
+        "numberOfImages": 28,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": true,
+        "hasFlyer": false,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "6 Virginia Road",
+            "city": "Montana City",
+            "county": "Jefferson County",
+            "state": {
+              "code": "MT",
+              "name": "Montana"
+            },
+            "zip": "59634",
+            "latitude": 46.535847,
+            "longitude": -111.9468481,
+            "fullAddress": "6 Virginia Road, Montana City, Jefferson County, MT 59634"
           }
         ],
         "isNew": false
@@ -1304,48 +1304,6 @@
         "isNew": false
       },
       {
-        "id": 1613407,
-        "name": "4301 S Robinson Ave",
-        "description": "Retail Industrial Warehouse for Sale",
-        "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
-        "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
-        "brokerageName": "Equity Commercial Realty Advisors, LLC",
-        "activatedOn": "2024-07-15T22:34:23.6Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 16,
-        "showCountdownAsDate": false,
-        "askingPrice": 390000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-17T15:10:15.069Z",
-        "numberOfImages": 16,
-        "types": [
-          "Retail",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "4301 S Robinson Ave",
-            "city": "Oklahoma City",
-            "county": "Oklahoma County",
-            "state": {
-              "code": "OK",
-              "name": "Oklahoma"
-            },
-            "zip": "73109",
-            "latitude": 35.42272311621037,
-            "longitude": -97.5162203952987,
-            "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1517776,
         "name": "1150 W Broadway Street",
         "description": "Industrial | 2,800 SF",
@@ -1383,6 +1341,48 @@
             "latitude": 34.8409747,
             "longitude": -114.6086424,
             "fullAddress": "1150 W Broadway Street, Needles, san Bernardino, CA 92363"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1613407,
+        "name": "4301 S Robinson Ave",
+        "description": "Retail Industrial Warehouse for Sale",
+        "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
+        "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
+        "brokerageName": "Equity Commercial Realty Advisors, LLC",
+        "activatedOn": "2024-07-15T22:34:23.6Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 16,
+        "showCountdownAsDate": false,
+        "askingPrice": 390000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-17T15:10:15.069Z",
+        "numberOfImages": 16,
+        "types": [
+          "Retail",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "4301 S Robinson Ave",
+            "city": "Oklahoma City",
+            "county": "Oklahoma County",
+            "state": {
+              "code": "OK",
+              "name": "Oklahoma"
+            },
+            "zip": "73109",
+            "latitude": 35.42272311621037,
+            "longitude": -97.5162203952987,
+            "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
           }
         ],
         "isNew": false
@@ -1878,48 +1878,6 @@
         "isNew": false
       },
       {
-        "id": 1145218,
-        "name": "Eaton Park - Commissary Kitchen",
-        "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
-        "thumbnailUrl": "https://images.crexi.com/assets/1145218/dc9da6f200204f95ae7d0e3b7f5034a2_716x444.jpg",
-        "urlSlug": "arizona-eaton-park",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/12993/e718917e7e454660ba0ceb34e367d04a_150x100_resize.jpg",
-        "brokerageName": "SVN | Desert Commercial Advisors",
-        "activatedOn": "2023-05-22T22:00:50.806Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 30,
-        "showCountdownAsDate": false,
-        "askingPrice": 1500000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-30T17:50:41.6Z",
-        "numberOfImages": 30,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": true,
-        "hasFlyer": false,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "7900 N 70th Ave",
-            "city": "Glendale",
-            "county": "Maricopa County",
-            "state": {
-              "code": "AZ",
-              "name": "Arizona"
-            },
-            "zip": "85303",
-            "latitude": 33.5514948,
-            "longitude": -112.2101716,
-            "fullAddress": "7900 N 70th Ave, Glendale, Maricopa County, AZ 85303"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1643870,
         "name": "Collins Drive",
         "description": "Land",
@@ -1957,6 +1915,48 @@
             "latitude": 38.9057643,
             "longitude": -121.086736,
             "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1145218,
+        "name": "Eaton Park - Commissary Kitchen",
+        "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
+        "thumbnailUrl": "https://images.crexi.com/assets/1145218/dc9da6f200204f95ae7d0e3b7f5034a2_716x444.jpg",
+        "urlSlug": "arizona-eaton-park",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/12993/e718917e7e454660ba0ceb34e367d04a_150x100_resize.jpg",
+        "brokerageName": "SVN | Desert Commercial Advisors",
+        "activatedOn": "2023-05-22T22:00:50.806Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 30,
+        "showCountdownAsDate": false,
+        "askingPrice": 1500000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-30T17:50:41.6Z",
+        "numberOfImages": 30,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": true,
+        "hasFlyer": false,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "7900 N 70th Ave",
+            "city": "Glendale",
+            "county": "Maricopa County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "85303",
+            "latitude": 33.5514948,
+            "longitude": -112.2101716,
+            "fullAddress": "7900 N 70th Ave, Glendale, Maricopa County, AZ 85303"
           }
         ],
         "isNew": false
@@ -2170,50 +2170,6 @@
         "isNew": false
       },
       {
-        "id": 1554315,
-        "name": "Best Shot Gun Range",
-        "description": "Indoor Shooting Range",
-        "thumbnailUrl": "https://images.crexi.com/assets/1554315/fc57315e0a6d4159bb464ad4ede1b21e_716x444.jpg",
-        "urlSlug": "texas-best-shot-range",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/9695/7272026d04c3495995e85782b630aa70_150x100_resize.jpg",
-        "brokerageName": "Venture Commercial",
-        "activatedOn": "2024-06-19T18:40:33.044Z",
-        "isInOpportunityZone": false,
-        "hasVideo": true,
-        "numberOfGalleryItems": 48,
-        "offersDueOn": "2024-08-07T20:15:00Z",
-        "showCountdownAsDate": false,
-        "askingPrice": 2350140,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-10-11T16:43:52.505Z",
-        "numberOfImages": 47,
-        "types": [
-          "Industrial",
-          "Special Purpose",
-          "Business for Sale"
-        ],
-        "hasOM": true,
-        "hasFlyer": false,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "4425 FM 2351, Ste D",
-            "city": "Friendswood",
-            "county": "Harris County",
-            "state": {
-              "code": "TX",
-              "name": "Texas"
-            },
-            "zip": "77546",
-            "latitude": 29.55058878,
-            "longitude": -95.18286366,
-            "fullAddress": "4425 FM 2351, Ste D, Friendswood, Harris County, TX 77546"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1669941,
         "name": "Freestanding Retail/Office/Flex Building + Salon Equipment",
         "description": "Industrial | 8,332 SF",
@@ -2257,7 +2213,7 @@
         "isNew": false
       }
     ],
-    "totalCount": 51,
+    "totalCount": 50,
     "propertyUrl": "https://www.crexi.com/properties/null"
   }
 ]
