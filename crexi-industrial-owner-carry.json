@@ -210,49 +210,6 @@
         "isNew": false
       },
       {
-        "id": 1325344,
-        "name": "11860 Kemper Road 7",
-        "description": "Special Purpose | 1,350 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
-        "urlSlug": "california-11860-kemper-road-7",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-31T10:03:09.905Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 500000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T10:19:51.619Z",
-        "numberOfImages": 8,
-        "types": [
-          "Special Purpose",
-          "Industrial",
-          "Land"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "11860 Kemper Road 7",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9307359,
-            "longitude": -121.0915371,
-            "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1325345,
         "name": "11860 Kemper Road 8",
         "description": "Special Purpose | 1,483 SF",
@@ -291,6 +248,49 @@
             "latitude": 38.9308072,
             "longitude": -121.0915333,
             "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1325344,
+        "name": "11860 Kemper Road 7",
+        "description": "Special Purpose | 1,350 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
+        "urlSlug": "california-11860-kemper-road-7",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-31T10:03:09.905Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 8,
+        "showCountdownAsDate": false,
+        "askingPrice": 500000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-06T10:19:51.619Z",
+        "numberOfImages": 8,
+        "types": [
+          "Special Purpose",
+          "Industrial",
+          "Land"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "11860 Kemper Road 7",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9307359,
+            "longitude": -121.0915371,
+            "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
@@ -672,47 +672,6 @@
         "isNew": false
       },
       {
-        "id": 1553485,
-        "name": "2965 Coleman Street",
-        "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
-        "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
-        "urlSlug": "nevada-2965-coleman-street",
-        "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
-        "brokerageName": "CBRE Las Vegas",
-        "activatedOn": "2024-06-05T23:32:05.482Z",
-        "isInOpportunityZone": true,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 4000000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T22:32:40.041Z",
-        "numberOfImages": 8,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "2965 Coleman St",
-            "city": "North Las Vegas",
-            "county": "Clark County",
-            "state": {
-              "code": "NV",
-              "name": "Nevada"
-            },
-            "zip": "89032",
-            "latitude": 36.2133026,
-            "longitude": -115.1752522,
-            "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1296394,
         "name": "Terra Bella - Industrial - Parcel 2",
         "description": "Industrial",
@@ -749,6 +708,47 @@
             "latitude": 35.94938438078769,
             "longitude": -119.05368745792565,
             "fullAddress": "Parcel 2 - 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1553485,
+        "name": "2965 Coleman Street",
+        "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
+        "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
+        "urlSlug": "nevada-2965-coleman-street",
+        "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
+        "brokerageName": "CBRE Las Vegas",
+        "activatedOn": "2024-06-05T23:32:05.482Z",
+        "isInOpportunityZone": true,
+        "hasVideo": false,
+        "numberOfGalleryItems": 8,
+        "showCountdownAsDate": false,
+        "askingPrice": 4000000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-06T22:32:40.041Z",
+        "numberOfImages": 8,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2965 Coleman St",
+            "city": "North Las Vegas",
+            "county": "Clark County",
+            "state": {
+              "code": "NV",
+              "name": "Nevada"
+            },
+            "zip": "89032",
+            "latitude": 36.2133026,
+            "longitude": -115.1752522,
+            "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
           }
         ],
         "isNew": false
@@ -1175,48 +1175,6 @@
         "isNew": false
       },
       {
-        "id": 1534662,
-        "name": "926 Cypress Dr",
-        "description": "Industrial | 0 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1534662/a06c499811df4e6dab7bb7ce1e977e9c_716x444.jpg",
-        "urlSlug": "texas-926-cypress-dr",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/33847/6e185f8118a84d0bba181f9e3a5c6512_150x100_resize.jpg",
-        "brokerageName": "Coldwell Banker Lenhart Properties, Inc.",
-        "activatedOn": "2024-05-17T10:24:14.87Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 30,
-        "showCountdownAsDate": false,
-        "askingPrice": 535000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-10-14T10:13:48.479Z",
-        "numberOfImages": 30,
-        "types": [
-          "Industrial",
-          "Land"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "926 Cypress Dr",
-            "city": "Karnack",
-            "county": "Harrison",
-            "state": {
-              "code": "TX",
-              "name": "Texas"
-            },
-            "zip": "75661",
-            "latitude": 32.7174125,
-            "longitude": -94.1256206,
-            "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1148554,
         "name": "Montana City Shop",
         "description": "Perfect for Light Manufacturing, Warehouse, Distribution, and Much More",
@@ -1254,6 +1212,48 @@
             "latitude": 46.535847,
             "longitude": -111.9468481,
             "fullAddress": "6 Virginia Road, Montana City, Jefferson County, MT 59634"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1534662,
+        "name": "926 Cypress Dr",
+        "description": "Industrial | 0 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1534662/a06c499811df4e6dab7bb7ce1e977e9c_716x444.jpg",
+        "urlSlug": "texas-926-cypress-dr",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/33847/6e185f8118a84d0bba181f9e3a5c6512_150x100_resize.jpg",
+        "brokerageName": "Coldwell Banker Lenhart Properties, Inc.",
+        "activatedOn": "2024-05-17T10:24:14.87Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 30,
+        "showCountdownAsDate": false,
+        "askingPrice": 535000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-14T10:13:48.479Z",
+        "numberOfImages": 30,
+        "types": [
+          "Industrial",
+          "Land"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "926 Cypress Dr",
+            "city": "Karnack",
+            "county": "Harrison",
+            "state": {
+              "code": "TX",
+              "name": "Texas"
+            },
+            "zip": "75661",
+            "latitude": 32.7174125,
+            "longitude": -94.1256206,
+            "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
           }
         ],
         "isNew": false
@@ -1878,48 +1878,6 @@
         "isNew": false
       },
       {
-        "id": 1643870,
-        "name": "Collins Drive",
-        "description": "Land",
-        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-        "urlSlug": "california-collins-drive",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-13T10:03:18.061Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 26,
-        "showCountdownAsDate": false,
-        "askingPrice": 649000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-19T10:02:26.223Z",
-        "numberOfImages": 26,
-        "types": [
-          "Land",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Collins Drive",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9057643,
-            "longitude": -121.086736,
-            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1145218,
         "name": "Eaton Park - Commissary Kitchen",
         "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
@@ -1957,6 +1915,46 @@
             "latitude": 33.5514948,
             "longitude": -112.2101716,
             "fullAddress": "7900 N 70th Ave, Glendale, Maricopa County, AZ 85303"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1517295,
+        "name": "Ringe Land",
+        "description": "Industrial | 1,700 SF. M-1",
+        "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+        "urlSlug": "nevada-ringe-land",
+        "brokerageName": "Sandra L. Fink & Associates Inc",
+        "activatedOn": "2024-04-23T18:53:19.6Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 7,
+        "pricePerAcreLand": "$0/Acre",
+        "showCountdownAsDate": false,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-13T18:36:48.764Z",
+        "numberOfImages": 7,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": true,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2929 Ringe Ln",
+            "city": "Las Vegas",
+            "county": "Clark County",
+            "state": {
+              "code": "NV",
+              "name": "Nevada"
+            },
+            "zip": "89156",
+            "latitude": 36.213209,
+            "longitude": -115.060594,
+            "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
           }
         ],
         "isNew": false
@@ -2004,41 +2002,43 @@
         "isNew": false
       },
       {
-        "id": 1517295,
-        "name": "Ringe Land",
-        "description": "Industrial | 1,700 SF. M-1",
-        "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-        "urlSlug": "nevada-ringe-land",
-        "brokerageName": "Sandra L. Fink & Associates Inc",
-        "activatedOn": "2024-04-23T18:53:19.6Z",
+        "id": 1643870,
+        "name": "Collins Drive",
+        "description": "Land",
+        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+        "urlSlug": "california-collins-drive",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-13T10:03:18.061Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
-        "numberOfGalleryItems": 7,
-        "pricePerAcreLand": "$0/Acre",
+        "numberOfGalleryItems": 26,
         "showCountdownAsDate": false,
+        "askingPrice": 649000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-08-13T18:36:48.764Z",
-        "numberOfImages": 7,
+        "updatedOn": "2024-08-19T10:02:26.223Z",
+        "numberOfImages": 26,
         "types": [
+          "Land",
           "Industrial"
         ],
-        "hasOM": true,
+        "hasOM": false,
         "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "2929 Ringe Ln",
-            "city": "Las Vegas",
-            "county": "Clark County",
+            "address": "Collins Drive",
+            "city": "Auburn",
+            "county": "Placer County",
             "state": {
-              "code": "NV",
-              "name": "Nevada"
+              "code": "CA",
+              "name": "California"
             },
-            "zip": "89156",
-            "latitude": 36.213209,
-            "longitude": -115.060594,
-            "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+            "zip": "95603",
+            "latitude": 38.9057643,
+            "longitude": -121.086736,
+            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
