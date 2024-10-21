@@ -210,49 +210,6 @@
         "isNew": false
       },
       {
-        "id": 1325344,
-        "name": "11860 Kemper Road 7",
-        "description": "Special Purpose | 1,350 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
-        "urlSlug": "california-11860-kemper-road-7",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-31T10:03:09.905Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 500000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T10:19:51.619Z",
-        "numberOfImages": 8,
-        "types": [
-          "Special Purpose",
-          "Industrial",
-          "Land"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "11860 Kemper Road 7",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9307359,
-            "longitude": -121.0915371,
-            "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1325345,
         "name": "11860 Kemper Road 8",
         "description": "Special Purpose | 1,483 SF",
@@ -291,6 +248,49 @@
             "latitude": 38.9308072,
             "longitude": -121.0915333,
             "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1325344,
+        "name": "11860 Kemper Road 7",
+        "description": "Special Purpose | 1,350 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
+        "urlSlug": "california-11860-kemper-road-7",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-31T10:03:09.905Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 8,
+        "showCountdownAsDate": false,
+        "askingPrice": 500000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-06T10:19:51.619Z",
+        "numberOfImages": 8,
+        "types": [
+          "Special Purpose",
+          "Industrial",
+          "Land"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "11860 Kemper Road 7",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9307359,
+            "longitude": -121.0915371,
+            "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
@@ -754,48 +754,6 @@
         "isNew": false
       },
       {
-        "id": 1094534,
-        "name": "3895 E 45th Ave",
-        "description": "Industrial | 3,840 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
-        "urlSlug": "colorado-3895-e-45th-ave",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
-        "brokerageName": "Unique Properties, Inc",
-        "activatedOn": "2023-04-10T21:23:43.81Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 949000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-23T20:34:11.632Z",
-        "numberOfImages": 8,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "3895 E 45th Ave",
-            "city": "Denver",
-            "county": "Denver County",
-            "state": {
-              "code": "CO",
-              "name": "Colorado"
-            },
-            "zip": "80216",
-            "latitude": 39.77889341,
-            "longitude": -104.94227107,
-            "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1606201,
         "name": "4802 Derrick Drive",
         "description": "Retail | 1,230 SF",
@@ -833,6 +791,48 @@
             "latitude": 32.4392092,
             "longitude": -99.6601407,
             "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1094534,
+        "name": "3895 E 45th Ave",
+        "description": "Industrial | 3,840 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
+        "urlSlug": "colorado-3895-e-45th-ave",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
+        "brokerageName": "Unique Properties, Inc",
+        "activatedOn": "2023-04-10T21:23:43.81Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 8,
+        "showCountdownAsDate": false,
+        "askingPrice": 949000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-23T20:34:11.632Z",
+        "numberOfImages": 8,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "3895 E 45th Ave",
+            "city": "Denver",
+            "county": "Denver County",
+            "state": {
+              "code": "CO",
+              "name": "Colorado"
+            },
+            "zip": "80216",
+            "latitude": 39.77889341,
+            "longitude": -104.94227107,
+            "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
           }
         ],
         "isNew": false
