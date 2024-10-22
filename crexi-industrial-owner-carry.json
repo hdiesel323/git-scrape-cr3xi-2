@@ -210,49 +210,6 @@
         "isNew": false
       },
       {
-        "id": 1325345,
-        "name": "11860 Kemper Road 8",
-        "description": "Special Purpose | 1,483 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
-        "urlSlug": "california-11860-kemper-road-8",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-09-03T10:01:21.962Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 7,
-        "showCountdownAsDate": false,
-        "askingPrice": 420000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T10:19:51.221Z",
-        "numberOfImages": 7,
-        "types": [
-          "Special Purpose",
-          "Industrial",
-          "Land"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "11860 Kemper Road 8",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9308072,
-            "longitude": -121.0915333,
-            "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1325344,
         "name": "11860 Kemper Road 7",
         "description": "Special Purpose | 1,350 SF",
@@ -291,6 +248,49 @@
             "latitude": 38.9307359,
             "longitude": -121.0915371,
             "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1325345,
+        "name": "11860 Kemper Road 8",
+        "description": "Special Purpose | 1,483 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
+        "urlSlug": "california-11860-kemper-road-8",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-09-03T10:01:21.962Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 7,
+        "showCountdownAsDate": false,
+        "askingPrice": 420000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-06T10:19:51.221Z",
+        "numberOfImages": 7,
+        "types": [
+          "Special Purpose",
+          "Industrial",
+          "Land"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "11860 Kemper Road 8",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9308072,
+            "longitude": -121.0915333,
+            "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
@@ -754,48 +754,6 @@
         "isNew": false
       },
       {
-        "id": 1606201,
-        "name": "4802 Derrick Drive",
-        "description": "Retail | 1,230 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
-        "urlSlug": "texas-4802-derrick-drive",
-        "brokerageName": "Whitten Real Estate",
-        "activatedOn": "2024-07-13T21:13:39.048Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 1,
-        "pricePerSqFtLand": "$3.21/SF",
-        "showCountdownAsDate": false,
-        "askingPrice": 329900,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-07-13T21:15:05.187Z",
-        "numberOfImages": 1,
-        "types": [
-          "Retail",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "4802 Derrick Dr",
-            "city": "Abilene",
-            "county": "Taylor County",
-            "state": {
-              "code": "TX",
-              "name": "Texas"
-            },
-            "zip": "79601",
-            "latitude": 32.4392092,
-            "longitude": -99.6601407,
-            "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1094534,
         "name": "3895 E 45th Ave",
         "description": "Industrial | 3,840 SF",
@@ -833,6 +791,48 @@
             "latitude": 39.77889341,
             "longitude": -104.94227107,
             "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1606201,
+        "name": "4802 Derrick Drive",
+        "description": "Retail | 1,230 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
+        "urlSlug": "texas-4802-derrick-drive",
+        "brokerageName": "Whitten Real Estate",
+        "activatedOn": "2024-07-13T21:13:39.048Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 1,
+        "pricePerSqFtLand": "$3.21/SF",
+        "showCountdownAsDate": false,
+        "askingPrice": 329900,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-07-13T21:15:05.187Z",
+        "numberOfImages": 1,
+        "types": [
+          "Retail",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "4802 Derrick Dr",
+            "city": "Abilene",
+            "county": "Taylor County",
+            "state": {
+              "code": "TX",
+              "name": "Texas"
+            },
+            "zip": "79601",
+            "latitude": 32.4392092,
+            "longitude": -99.6601407,
+            "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
           }
         ],
         "isNew": false
@@ -1007,6 +1007,48 @@
         "isNew": false
       },
       {
+        "id": 1581599,
+        "name": "1055 Empire Dr",
+        "description": "Office | 16,792 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1581599/6280ecd0292c4cb0acf6d2d737c215db_716x444.jpg",
+        "urlSlug": "arizona-1055-empire-dr",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/51411/24ecb0de32134136877dec587fe1eb4d_150x100_resize.jpg",
+        "brokerageName": "Realty One Group Mountain Desert Lake Havasu City",
+        "activatedOn": "2024-07-08T14:58:58.577Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 117,
+        "showCountdownAsDate": false,
+        "askingPrice": 1800000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-07-09T05:10:27.037Z",
+        "numberOfImages": 117,
+        "types": [
+          "Office",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "1055 Empire Dr",
+            "city": "Lake Havasu City",
+            "county": "Mohave County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "86404",
+            "latitude": 34.505008,
+            "longitude": -114.3549243,
+            "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1677482,
         "name": "2860 E Hwy 68",
         "description": "Industrial",
@@ -1051,24 +1093,22 @@
         "isNew": false
       },
       {
-        "id": 1581599,
-        "name": "1055 Empire Dr",
-        "description": "Office | 16,792 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1581599/6280ecd0292c4cb0acf6d2d737c215db_716x444.jpg",
-        "urlSlug": "arizona-1055-empire-dr",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/51411/24ecb0de32134136877dec587fe1eb4d_150x100_resize.jpg",
-        "brokerageName": "Realty One Group Mountain Desert Lake Havasu City",
-        "activatedOn": "2024-07-08T14:58:58.577Z",
+        "id": 969147,
+        "name": "146 Via Trevizio",
+        "description": "Industrial | 9,458 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/969147/8b69449beadd4e82b3795c12b6bdb5b3_716x444.jpg",
+        "urlSlug": "california-corona-commons",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20792/1a8f27d7e9084830b7ade4fb7cf94e2a_150x100_resize.jpg",
+        "brokerageName": "KW Commercial Redlands",
+        "activatedOn": "2022-11-01T19:15:52.563Z",
         "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 117,
+        "hasVideo": true,
+        "numberOfGalleryItems": 14,
         "showCountdownAsDate": false,
-        "askingPrice": 1800000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-07-09T05:10:27.037Z",
-        "numberOfImages": 117,
+        "updatedOn": "2024-07-29T19:56:33.803Z",
+        "numberOfImages": 13,
         "types": [
-          "Office",
           "Industrial"
         ],
         "hasOM": false,
@@ -1077,17 +1117,17 @@
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "1055 Empire Dr",
-            "city": "Lake Havasu City",
-            "county": "Mohave County",
+            "address": "146 Via Trevizio",
+            "city": "Corona",
+            "county": "Riverside County",
             "state": {
-              "code": "AZ",
-              "name": "Arizona"
+              "code": "CA",
+              "name": "California"
             },
-            "zip": "86404",
-            "latitude": 34.505008,
-            "longitude": -114.3549243,
-            "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
+            "zip": "92879",
+            "latitude": 33.875906,
+            "longitude": -117.5420174,
+            "fullAddress": "146 Via Trevizio, Corona, Riverside County, CA 92879"
           }
         ],
         "isNew": false
@@ -1135,23 +1175,25 @@
         "isNew": false
       },
       {
-        "id": 969147,
-        "name": "146 Via Trevizio",
-        "description": "Industrial | 9,458 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/969147/8b69449beadd4e82b3795c12b6bdb5b3_716x444.jpg",
-        "urlSlug": "california-corona-commons",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20792/1a8f27d7e9084830b7ade4fb7cf94e2a_150x100_resize.jpg",
-        "brokerageName": "KW Commercial Redlands",
-        "activatedOn": "2022-11-01T19:15:52.563Z",
+        "id": 1534662,
+        "name": "926 Cypress Dr",
+        "description": "Industrial | 0 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1534662/a06c499811df4e6dab7bb7ce1e977e9c_716x444.jpg",
+        "urlSlug": "texas-926-cypress-dr",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/33847/6e185f8118a84d0bba181f9e3a5c6512_150x100_resize.jpg",
+        "brokerageName": "Coldwell Banker Lenhart Properties, Inc.",
+        "activatedOn": "2024-05-17T10:24:14.87Z",
         "isInOpportunityZone": false,
-        "hasVideo": true,
-        "numberOfGalleryItems": 14,
+        "hasVideo": false,
+        "numberOfGalleryItems": 30,
         "showCountdownAsDate": false,
+        "askingPrice": 535000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-07-29T19:56:33.803Z",
-        "numberOfImages": 13,
+        "updatedOn": "2024-10-14T10:13:48.479Z",
+        "numberOfImages": 30,
         "types": [
-          "Industrial"
+          "Industrial",
+          "Land"
         ],
         "hasOM": false,
         "hasFlyer": true,
@@ -1159,17 +1201,17 @@
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "146 Via Trevizio",
-            "city": "Corona",
-            "county": "Riverside County",
+            "address": "926 Cypress Dr",
+            "city": "Karnack",
+            "county": "Harrison",
             "state": {
-              "code": "CA",
-              "name": "California"
+              "code": "TX",
+              "name": "Texas"
             },
-            "zip": "92879",
-            "latitude": 33.875906,
-            "longitude": -117.5420174,
-            "fullAddress": "146 Via Trevizio, Corona, Riverside County, CA 92879"
+            "zip": "75661",
+            "latitude": 32.7174125,
+            "longitude": -94.1256206,
+            "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
           }
         ],
         "isNew": false
@@ -1212,48 +1254,6 @@
             "latitude": 46.535847,
             "longitude": -111.9468481,
             "fullAddress": "6 Virginia Road, Montana City, Jefferson County, MT 59634"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1534662,
-        "name": "926 Cypress Dr",
-        "description": "Industrial | 0 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1534662/a06c499811df4e6dab7bb7ce1e977e9c_716x444.jpg",
-        "urlSlug": "texas-926-cypress-dr",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/33847/6e185f8118a84d0bba181f9e3a5c6512_150x100_resize.jpg",
-        "brokerageName": "Coldwell Banker Lenhart Properties, Inc.",
-        "activatedOn": "2024-05-17T10:24:14.87Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 30,
-        "showCountdownAsDate": false,
-        "askingPrice": 535000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-10-14T10:13:48.479Z",
-        "numberOfImages": 30,
-        "types": [
-          "Industrial",
-          "Land"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "926 Cypress Dr",
-            "city": "Karnack",
-            "county": "Harrison",
-            "state": {
-              "code": "TX",
-              "name": "Texas"
-            },
-            "zip": "75661",
-            "latitude": 32.7174125,
-            "longitude": -94.1256206,
-            "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
           }
         ],
         "isNew": false
@@ -1388,6 +1388,48 @@
         "isNew": false
       },
       {
+        "id": 1647286,
+        "name": "28 Acres Heavy Industrial",
+        "description": "Largest Heavy Industrial property available in Crook County",
+        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+        "urlSlug": "oregon-28-acres-heavy-industrial",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+        "brokerageName": "Crook County Properties LLC",
+        "activatedOn": "2024-08-16T16:53:24.034Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 9,
+        "showCountdownAsDate": false,
+        "askingPrice": 980000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-17T16:09:53.312Z",
+        "numberOfImages": 9,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "606 NW Lamonta Rd",
+            "city": "Prineville",
+            "county": "Crook County",
+            "state": {
+              "code": "OR",
+              "name": "Oregon"
+            },
+            "zip": "97754",
+            "latitude": 44.33854782257441,
+            "longitude": -120.88660370549526,
+            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1560289,
         "name": "1589 Highway 33",
         "description": "Special Purpose | 6,800 SF",
@@ -1426,48 +1468,6 @@
             "latitude": 35.1526907,
             "longitude": -119.482499,
             "fullAddress": "1589 Highway 33, Taft, Kern County, CA 93268"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1647286,
-        "name": "28 Acres Heavy Industrial",
-        "description": "Largest Heavy Industrial property available in Crook County",
-        "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-        "urlSlug": "oregon-28-acres-heavy-industrial",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-        "brokerageName": "Crook County Properties LLC",
-        "activatedOn": "2024-08-16T16:53:24.034Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 9,
-        "showCountdownAsDate": false,
-        "askingPrice": 980000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-17T16:09:53.312Z",
-        "numberOfImages": 9,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "606 NW Lamonta Rd",
-            "city": "Prineville",
-            "county": "Crook County",
-            "state": {
-              "code": "OR",
-              "name": "Oregon"
-            },
-            "zip": "97754",
-            "latitude": 44.33854782257441,
-            "longitude": -120.88660370549526,
-            "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
           }
         ],
         "isNew": false
