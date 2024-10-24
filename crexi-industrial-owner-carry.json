@@ -210,49 +210,6 @@
         "isNew": false
       },
       {
-        "id": 1325345,
-        "name": "11860 Kemper Road 8",
-        "description": "Special Purpose | 1,483 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
-        "urlSlug": "california-11860-kemper-road-8",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-09-03T10:01:21.962Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 7,
-        "showCountdownAsDate": false,
-        "askingPrice": 420000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T10:19:51.221Z",
-        "numberOfImages": 7,
-        "types": [
-          "Special Purpose",
-          "Industrial",
-          "Land"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "11860 Kemper Road 8",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9308072,
-            "longitude": -121.0915333,
-            "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1325344,
         "name": "11860 Kemper Road 7",
         "description": "Special Purpose | 1,350 SF",
@@ -291,6 +248,49 @@
             "latitude": 38.9307359,
             "longitude": -121.0915371,
             "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1325345,
+        "name": "11860 Kemper Road 8",
+        "description": "Special Purpose | 1,483 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
+        "urlSlug": "california-11860-kemper-road-8",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-09-03T10:01:21.962Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 7,
+        "showCountdownAsDate": false,
+        "askingPrice": 420000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-06T10:19:51.221Z",
+        "numberOfImages": 7,
+        "types": [
+          "Special Purpose",
+          "Industrial",
+          "Land"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "11860 Kemper Road 8",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9308072,
+            "longitude": -121.0915333,
+            "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
@@ -672,47 +672,6 @@
         "isNew": false
       },
       {
-        "id": 1296394,
-        "name": "Terra Bella - Industrial - Parcel 2",
-        "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1296394/eff45890901a4cd783d113146650ed2c_716x444.jpg",
-        "urlSlug": "california-terra-bella---industrial---parcel-2",
-        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-        "brokerageName": "Lion Group Investments",
-        "activatedOn": "2023-10-21T23:26:06.587Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 1,
-        "showCountdownAsDate": false,
-        "askingPrice": 349900,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-23T17:00:06.676Z",
-        "numberOfImages": 1,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": true,
-        "hasFlyer": false,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Parcel 2 - 23297 Ave 88",
-            "city": "Terra Bella",
-            "county": "Tulare County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "93270",
-            "latitude": 35.94938438078769,
-            "longitude": -119.05368745792565,
-            "fullAddress": "Parcel 2 - 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1553485,
         "name": "2965 Coleman Street",
         "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
@@ -754,43 +713,42 @@
         "isNew": false
       },
       {
-        "id": 1606201,
-        "name": "4802 Derrick Drive",
-        "description": "Retail | 1,230 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
-        "urlSlug": "texas-4802-derrick-drive",
-        "brokerageName": "Whitten Real Estate",
-        "activatedOn": "2024-07-13T21:13:39.048Z",
+        "id": 1296394,
+        "name": "Terra Bella - Industrial - Parcel 2",
+        "description": "Industrial",
+        "thumbnailUrl": "https://images.crexi.com/assets/1296394/eff45890901a4cd783d113146650ed2c_716x444.jpg",
+        "urlSlug": "california-terra-bella---industrial---parcel-2",
+        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+        "brokerageName": "Lion Group Investments",
+        "activatedOn": "2023-10-21T23:26:06.587Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
         "numberOfGalleryItems": 1,
-        "pricePerSqFtLand": "$3.21/SF",
         "showCountdownAsDate": false,
-        "askingPrice": 329900,
+        "askingPrice": 349900,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-07-13T21:15:05.187Z",
+        "updatedOn": "2024-09-23T17:00:06.676Z",
         "numberOfImages": 1,
         "types": [
-          "Retail",
           "Industrial"
         ],
-        "hasOM": false,
-        "hasFlyer": true,
+        "hasOM": true,
+        "hasFlyer": false,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "4802 Derrick Dr",
-            "city": "Abilene",
-            "county": "Taylor County",
+            "address": "Parcel 2 - 23297 Ave 88",
+            "city": "Terra Bella",
+            "county": "Tulare County",
             "state": {
-              "code": "TX",
-              "name": "Texas"
+              "code": "CA",
+              "name": "California"
             },
-            "zip": "79601",
-            "latitude": 32.4392092,
-            "longitude": -99.6601407,
-            "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
+            "zip": "93270",
+            "latitude": 35.94938438078769,
+            "longitude": -119.05368745792565,
+            "fullAddress": "Parcel 2 - 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
           }
         ],
         "isNew": false
@@ -833,6 +791,48 @@
             "latitude": 39.77889341,
             "longitude": -104.94227107,
             "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1606201,
+        "name": "4802 Derrick Drive",
+        "description": "Retail | 1,230 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
+        "urlSlug": "texas-4802-derrick-drive",
+        "brokerageName": "Whitten Real Estate",
+        "activatedOn": "2024-07-13T21:13:39.048Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 1,
+        "pricePerSqFtLand": "$3.21/SF",
+        "showCountdownAsDate": false,
+        "askingPrice": 329900,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-07-13T21:15:05.187Z",
+        "numberOfImages": 1,
+        "types": [
+          "Retail",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "4802 Derrick Dr",
+            "city": "Abilene",
+            "county": "Taylor County",
+            "state": {
+              "code": "TX",
+              "name": "Texas"
+            },
+            "zip": "79601",
+            "latitude": 32.4392092,
+            "longitude": -99.6601407,
+            "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
           }
         ],
         "isNew": false
@@ -965,48 +965,6 @@
         "isNew": false
       },
       {
-        "id": 1533426,
-        "name": "3870-3880 Elm Street",
-        "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
-        "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
-        "urlSlug": "colorado-3870-3880-elm-street",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
-        "brokerageName": "Colliers International Denver",
-        "activatedOn": "2024-05-16T14:24:06.221Z",
-        "isInOpportunityZone": true,
-        "hasVideo": false,
-        "numberOfGalleryItems": 1,
-        "showCountdownAsDate": false,
-        "askingPrice": 2590000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-07T16:02:13.841Z",
-        "numberOfImages": 1,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "3870 Elm St",
-            "city": "Denver",
-            "county": "Denver County",
-            "state": {
-              "code": "CO",
-              "name": "Colorado"
-            },
-            "zip": "80207",
-            "latitude": 39.77095622022864,
-            "longitude": -104.92935990171715,
-            "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1677482,
         "name": "2860 E Hwy 68",
         "description": "Industrial",
@@ -1046,6 +1004,48 @@
             "latitude": 35.1854421,
             "longitude": -114.4839227,
             "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1533426,
+        "name": "3870-3880 Elm Street",
+        "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
+        "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
+        "urlSlug": "colorado-3870-3880-elm-street",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
+        "brokerageName": "Colliers International Denver",
+        "activatedOn": "2024-05-16T14:24:06.221Z",
+        "isInOpportunityZone": true,
+        "hasVideo": false,
+        "numberOfGalleryItems": 1,
+        "showCountdownAsDate": false,
+        "askingPrice": 2590000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-07T16:02:13.841Z",
+        "numberOfImages": 1,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "3870 Elm St",
+            "city": "Denver",
+            "county": "Denver County",
+            "state": {
+              "code": "CO",
+              "name": "Colorado"
+            },
+            "zip": "80207",
+            "latitude": 39.77095622022864,
+            "longitude": -104.92935990171715,
+            "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
           }
         ],
         "isNew": false
@@ -1175,48 +1175,6 @@
         "isNew": false
       },
       {
-        "id": 1148554,
-        "name": "Montana City Shop",
-        "description": "Perfect for Light Manufacturing, Warehouse, Distribution, and Much More",
-        "thumbnailUrl": "https://images.crexi.com/assets/1148554/a12b404edaa04cfdaa2b9b319441b070_716x444.jpg",
-        "urlSlug": "montana-virginia-ln",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/89526/28f1f1b0fa2344cf88225a0541455821_150x100_resize.jpg",
-        "brokerageName": "Coldwell Banker Commercial Green & Green",
-        "activatedOn": "2023-05-26T20:51:37.756Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 28,
-        "showCountdownAsDate": false,
-        "askingPrice": 900000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-10-16T15:30:03.819Z",
-        "numberOfImages": 28,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": true,
-        "hasFlyer": false,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "6 Virginia Road",
-            "city": "Montana City",
-            "county": "Jefferson County",
-            "state": {
-              "code": "MT",
-              "name": "Montana"
-            },
-            "zip": "59634",
-            "latitude": 46.535847,
-            "longitude": -111.9468481,
-            "fullAddress": "6 Virginia Road, Montana City, Jefferson County, MT 59634"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1534662,
         "name": "926 Cypress Dr",
         "description": "Industrial | 0 SF",
@@ -1254,6 +1212,48 @@
             "latitude": 32.7174125,
             "longitude": -94.1256206,
             "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1148554,
+        "name": "Montana City Shop",
+        "description": "Perfect for Light Manufacturing, Warehouse, Distribution, and Much More",
+        "thumbnailUrl": "https://images.crexi.com/assets/1148554/a12b404edaa04cfdaa2b9b319441b070_716x444.jpg",
+        "urlSlug": "montana-virginia-ln",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/89526/28f1f1b0fa2344cf88225a0541455821_150x100_resize.jpg",
+        "brokerageName": "Coldwell Banker Commercial Green & Green",
+        "activatedOn": "2023-05-26T20:51:37.756Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 28,
+        "showCountdownAsDate": false,
+        "askingPrice": 900000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-16T15:30:03.819Z",
+        "numberOfImages": 28,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": true,
+        "hasFlyer": false,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "6 Virginia Road",
+            "city": "Montana City",
+            "county": "Jefferson County",
+            "state": {
+              "code": "MT",
+              "name": "Montana"
+            },
+            "zip": "59634",
+            "latitude": 46.535847,
+            "longitude": -111.9468481,
+            "fullAddress": "6 Virginia Road, Montana City, Jefferson County, MT 59634"
           }
         ],
         "isNew": false
@@ -1920,41 +1920,43 @@
         "isNew": false
       },
       {
-        "id": 1517295,
-        "name": "Ringe Land",
-        "description": "Industrial | 1,700 SF. M-1",
-        "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-        "urlSlug": "nevada-ringe-land",
-        "brokerageName": "Sandra L. Fink & Associates Inc",
-        "activatedOn": "2024-04-23T18:53:19.6Z",
+        "id": 1643870,
+        "name": "Collins Drive",
+        "description": "Land",
+        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+        "urlSlug": "california-collins-drive",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-13T10:03:18.061Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
-        "numberOfGalleryItems": 7,
-        "pricePerAcreLand": "$0/Acre",
+        "numberOfGalleryItems": 26,
         "showCountdownAsDate": false,
+        "askingPrice": 649000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-08-13T18:36:48.764Z",
-        "numberOfImages": 7,
+        "updatedOn": "2024-08-19T10:02:26.223Z",
+        "numberOfImages": 26,
         "types": [
+          "Land",
           "Industrial"
         ],
-        "hasOM": true,
+        "hasOM": false,
         "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "2929 Ringe Ln",
-            "city": "Las Vegas",
-            "county": "Clark County",
+            "address": "Collins Drive",
+            "city": "Auburn",
+            "county": "Placer County",
             "state": {
-              "code": "NV",
-              "name": "Nevada"
+              "code": "CA",
+              "name": "California"
             },
-            "zip": "89156",
-            "latitude": 36.213209,
-            "longitude": -115.060594,
-            "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+            "zip": "95603",
+            "latitude": 38.9057643,
+            "longitude": -121.086736,
+            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
@@ -2002,43 +2004,41 @@
         "isNew": false
       },
       {
-        "id": 1643870,
-        "name": "Collins Drive",
-        "description": "Land",
-        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-        "urlSlug": "california-collins-drive",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-13T10:03:18.061Z",
+        "id": 1517295,
+        "name": "Ringe Land",
+        "description": "Industrial | 1,700 SF. M-1",
+        "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+        "urlSlug": "nevada-ringe-land",
+        "brokerageName": "Sandra L. Fink & Associates Inc",
+        "activatedOn": "2024-04-23T18:53:19.6Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
-        "numberOfGalleryItems": 26,
+        "numberOfGalleryItems": 7,
+        "pricePerAcreLand": "$0/Acre",
         "showCountdownAsDate": false,
-        "askingPrice": 649000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-08-19T10:02:26.223Z",
-        "numberOfImages": 26,
+        "updatedOn": "2024-08-13T18:36:48.764Z",
+        "numberOfImages": 7,
         "types": [
-          "Land",
           "Industrial"
         ],
-        "hasOM": false,
+        "hasOM": true,
         "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "Collins Drive",
-            "city": "Auburn",
-            "county": "Placer County",
+            "address": "2929 Ringe Ln",
+            "city": "Las Vegas",
+            "county": "Clark County",
             "state": {
-              "code": "CA",
-              "name": "California"
+              "code": "NV",
+              "name": "Nevada"
             },
-            "zip": "95603",
-            "latitude": 38.9057643,
-            "longitude": -121.086736,
-            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
+            "zip": "89156",
+            "latitude": 36.213209,
+            "longitude": -115.060594,
+            "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
           }
         ],
         "isNew": false
