@@ -87,48 +87,6 @@
         "isNew": false
       },
       {
-        "id": 1571053,
-        "name": "1302 Grant",
-        "description": "Industrial | 9,562 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1571053/1b7da39397a845f4b32509f6548fcf43_716x444.jpg",
-        "urlSlug": "arizona-1302-grant",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/64631/1b331d121ba94d0680fa588be794193c_150x100_resize.jpg",
-        "brokerageName": "CIA Advisors LLC",
-        "activatedOn": "2024-07-05T19:32:09.13Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 1325000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-07-05T19:34:22.329Z",
-        "numberOfImages": 8,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "1302 W Grant St",
-            "city": "Phoenix",
-            "county": "Maricopa County",
-            "state": {
-              "code": "AZ",
-              "name": "Arizona"
-            },
-            "zip": "85007",
-            "latitude": 33.44084972834186,
-            "longitude": -112.0893909748881,
-            "fullAddress": "1302 W Grant St, Phoenix, Maricopa County, AZ 85007"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1495673,
         "name": "2725 NGolder",
         "description": "Industrial | 11,200 SF",
@@ -210,49 +168,6 @@
         "isNew": false
       },
       {
-        "id": 1325344,
-        "name": "11860 Kemper Road 7",
-        "description": "Special Purpose | 1,350 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
-        "urlSlug": "california-11860-kemper-road-7",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-31T10:03:09.905Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 500000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T10:19:51.619Z",
-        "numberOfImages": 8,
-        "types": [
-          "Special Purpose",
-          "Industrial",
-          "Land"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "11860 Kemper Road 7",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9307359,
-            "longitude": -121.0915371,
-            "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1325345,
         "name": "11860 Kemper Road 8",
         "description": "Special Purpose | 1,483 SF",
@@ -291,6 +206,49 @@
             "latitude": 38.9308072,
             "longitude": -121.0915333,
             "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1325344,
+        "name": "11860 Kemper Road 7",
+        "description": "Special Purpose | 1,350 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
+        "urlSlug": "california-11860-kemper-road-7",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-31T10:03:09.905Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 8,
+        "showCountdownAsDate": false,
+        "askingPrice": 500000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-06T10:19:51.619Z",
+        "numberOfImages": 8,
+        "types": [
+          "Special Purpose",
+          "Industrial",
+          "Land"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "11860 Kemper Road 7",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9307359,
+            "longitude": -121.0915371,
+            "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
@@ -378,6 +336,47 @@
         "isNew": false
       },
       {
+        "id": 1296398,
+        "name": "Terra Bella - Industrial - Parcel 4",
+        "description": "Industrial",
+        "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
+        "urlSlug": "california-terra-bella---industrial---parcel-4",
+        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+        "brokerageName": "Lion Group Investments",
+        "activatedOn": "2023-10-21T23:37:00.236Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 1,
+        "showCountdownAsDate": false,
+        "askingPrice": 199000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-23T17:00:06.748Z",
+        "numberOfImages": 1,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": true,
+        "hasFlyer": false,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "Parcel 4, 23297 Ave 88",
+            "city": "Terra Bella",
+            "county": "Tulare County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "93270",
+            "latitude": 35.94924245479436,
+            "longitude": -119.05368665888268,
+            "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1006936,
         "name": "2950 W Catalina Dr",
         "description": "Office | 47,526 SF",
@@ -417,47 +416,6 @@
             "latitude": 33.4832549,
             "longitude": -112.1235537,
             "fullAddress": "2950 W Catalina Dr, Phoenix, Maricopa County, AZ 85017"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1296398,
-        "name": "Terra Bella - Industrial - Parcel 4",
-        "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
-        "urlSlug": "california-terra-bella---industrial---parcel-4",
-        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-        "brokerageName": "Lion Group Investments",
-        "activatedOn": "2023-10-21T23:37:00.236Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 1,
-        "showCountdownAsDate": false,
-        "askingPrice": 199000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-23T17:00:06.748Z",
-        "numberOfImages": 1,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": true,
-        "hasFlyer": false,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Parcel 4, 23297 Ave 88",
-            "city": "Terra Bella",
-            "county": "Tulare County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "93270",
-            "latitude": 35.94924245479436,
-            "longitude": -119.05368665888268,
-            "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
           }
         ],
         "isNew": false
@@ -672,47 +630,6 @@
         "isNew": false
       },
       {
-        "id": 1553485,
-        "name": "2965 Coleman Street",
-        "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
-        "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
-        "urlSlug": "nevada-2965-coleman-street",
-        "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
-        "brokerageName": "CBRE Las Vegas",
-        "activatedOn": "2024-06-05T23:32:05.482Z",
-        "isInOpportunityZone": true,
-        "hasVideo": false,
-        "numberOfGalleryItems": 8,
-        "showCountdownAsDate": false,
-        "askingPrice": 4000000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-06T22:32:40.041Z",
-        "numberOfImages": 8,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "2965 Coleman St",
-            "city": "North Las Vegas",
-            "county": "Clark County",
-            "state": {
-              "code": "NV",
-              "name": "Nevada"
-            },
-            "zip": "89032",
-            "latitude": 36.2133026,
-            "longitude": -115.1752522,
-            "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1296394,
         "name": "Terra Bella - Industrial - Parcel 2",
         "description": "Industrial",
@@ -754,43 +671,42 @@
         "isNew": false
       },
       {
-        "id": 1094534,
-        "name": "3895 E 45th Ave",
-        "description": "Industrial | 3,840 SF",
-        "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
-        "urlSlug": "colorado-3895-e-45th-ave",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
-        "brokerageName": "Unique Properties, Inc",
-        "activatedOn": "2023-04-10T21:23:43.81Z",
-        "isInOpportunityZone": false,
+        "id": 1553485,
+        "name": "2965 Coleman Street",
+        "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
+        "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
+        "urlSlug": "nevada-2965-coleman-street",
+        "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
+        "brokerageName": "CBRE Las Vegas",
+        "activatedOn": "2024-06-05T23:32:05.482Z",
+        "isInOpportunityZone": true,
         "hasVideo": false,
         "numberOfGalleryItems": 8,
         "showCountdownAsDate": false,
-        "askingPrice": 949000,
+        "askingPrice": 4000000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-09-23T20:34:11.632Z",
+        "updatedOn": "2024-09-06T22:32:40.041Z",
         "numberOfImages": 8,
         "types": [
           "Industrial"
         ],
-        "investmentType": "Owner/User",
         "hasOM": false,
         "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "3895 E 45th Ave",
-            "city": "Denver",
-            "county": "Denver County",
+            "address": "2965 Coleman St",
+            "city": "North Las Vegas",
+            "county": "Clark County",
             "state": {
-              "code": "CO",
-              "name": "Colorado"
+              "code": "NV",
+              "name": "Nevada"
             },
-            "zip": "80216",
-            "latitude": 39.77889341,
-            "longitude": -104.94227107,
-            "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+            "zip": "89032",
+            "latitude": 36.2133026,
+            "longitude": -115.1752522,
+            "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
           }
         ],
         "isNew": false
@@ -838,6 +754,48 @@
         "isNew": false
       },
       {
+        "id": 1094534,
+        "name": "3895 E 45th Ave",
+        "description": "Industrial | 3,840 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
+        "urlSlug": "colorado-3895-e-45th-ave",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
+        "brokerageName": "Unique Properties, Inc",
+        "activatedOn": "2023-04-10T21:23:43.81Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 8,
+        "showCountdownAsDate": false,
+        "askingPrice": 949000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-23T20:34:11.632Z",
+        "numberOfImages": 8,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "3895 E 45th Ave",
+            "city": "Denver",
+            "county": "Denver County",
+            "state": {
+              "code": "CO",
+              "name": "Colorado"
+            },
+            "zip": "80216",
+            "latitude": 39.77889341,
+            "longitude": -104.94227107,
+            "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 754547,
         "name": "110-200W61stStN -NNNorOwnerLeaseOptionPurchase pob1351@gmail",
         "description": "Lease Option to Purchase - Great Location - 14 Rollup Doors - 4.3 Acres",
@@ -874,48 +832,6 @@
             "latitude": 37.7967043,
             "longitude": -97.339234,
             "fullAddress": "110 W 61st St N, Park City, Sedgwick County, KS 67204"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 343566,
-        "name": "1865-1877 S. Acoma Street",
-        "description": "T.O.D site near Evans and S. Santa Fe",
-        "thumbnailUrl": "https://images.crexi.com/assets/343566/db839bc47a134a4fb747aa6e75e0ef3f_716x444.jpg",
-        "urlSlug": "colorado-1865-1877-s-acoma-street",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
-        "brokerageName": "Unique Properties, Inc",
-        "activatedOn": "2020-04-08T10:09:06.179Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 9,
-        "showCountdownAsDate": false,
-        "askingPrice": 1650000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-26T02:22:15.53Z",
-        "numberOfImages": 9,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "1865-1877 S. Acoma Street",
-            "city": "Denver",
-            "county": "Denver County",
-            "state": {
-              "code": "CO",
-              "name": "Colorado"
-            },
-            "zip": "80223",
-            "latitude": 39.682849991864224,
-            "longitude": -104.98883048741894,
-            "fullAddress": "1865-1877 S. Acoma Street, Denver, Denver County, CO 80223"
           }
         ],
         "isNew": false
@@ -965,45 +881,43 @@
         "isNew": false
       },
       {
-        "id": 1677482,
-        "name": "2860 E Hwy 68",
-        "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
-        "urlSlug": "arizona-2860-e-hwy-68",
-        "brokerageName": "Sondgeroth Real Estate Group",
-        "activatedOn": "2024-09-28T07:12:36.559Z",
+        "id": 343566,
+        "name": "1865-1877 S. Acoma Street",
+        "description": "T.O.D site near Evans and S. Santa Fe",
+        "thumbnailUrl": "https://images.crexi.com/assets/343566/db839bc47a134a4fb747aa6e75e0ef3f_716x444.jpg",
+        "urlSlug": "colorado-1865-1877-s-acoma-street",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
+        "brokerageName": "Unique Properties, Inc",
+        "activatedOn": "2020-04-08T10:09:06.179Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
-        "numberOfGalleryItems": 12,
+        "numberOfGalleryItems": 9,
         "showCountdownAsDate": false,
-        "askingPrice": 2500000,
+        "askingPrice": 1650000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-10-08T20:57:40.717Z",
-        "numberOfImages": 12,
+        "updatedOn": "2024-09-26T02:22:15.53Z",
+        "numberOfImages": 9,
         "types": [
-          "Industrial",
-          "Mixed Use",
-          "Self Storage",
-          "Special Purpose",
-          "Business for Sale"
+          "Industrial"
         ],
+        "investmentType": "Owner/User",
         "hasOM": false,
         "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "2860 E Hwy 68",
-            "city": "Bullhead City",
-            "county": "Mohave County",
+            "address": "1865-1877 S. Acoma Street",
+            "city": "Denver",
+            "county": "Denver County",
             "state": {
-              "code": "AZ",
-              "name": "Arizona"
+              "code": "CO",
+              "name": "Colorado"
             },
-            "zip": "86429",
-            "latitude": 35.1854421,
-            "longitude": -114.4839227,
-            "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
+            "zip": "80223",
+            "latitude": 39.682849991864224,
+            "longitude": -104.98883048741894,
+            "fullAddress": "1865-1877 S. Acoma Street, Denver, Denver County, CO 80223"
           }
         ],
         "isNew": false
@@ -1088,6 +1002,50 @@
             "latitude": 34.505008,
             "longitude": -114.3549243,
             "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1677482,
+        "name": "2860 E Hwy 68",
+        "description": "Industrial",
+        "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
+        "urlSlug": "arizona-2860-e-hwy-68",
+        "brokerageName": "Sondgeroth Real Estate Group",
+        "activatedOn": "2024-09-28T07:12:36.559Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 12,
+        "showCountdownAsDate": false,
+        "askingPrice": 2500000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-08T20:57:40.717Z",
+        "numberOfImages": 12,
+        "types": [
+          "Industrial",
+          "Mixed Use",
+          "Self Storage",
+          "Special Purpose",
+          "Business for Sale"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2860 E Hwy 68",
+            "city": "Bullhead City",
+            "county": "Mohave County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "86429",
+            "latitude": 35.1854421,
+            "longitude": -114.4839227,
+            "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
           }
         ],
         "isNew": false
@@ -1515,6 +1473,47 @@
         "isNew": false
       },
       {
+        "id": 1641520,
+        "name": "Deer Valley 16th street Industrial",
+        "description": "2.5 Acre Industrial with 8,000 sqft building and yards.",
+        "thumbnailUrl": "https://images.crexi.com/assets/1641520/17d6526a8b0b4e3c823b0f1446271f95_716x444.jpg",
+        "urlSlug": "arizona-deer-valley-16th-street-industrial",
+        "activatedOn": "2024-08-09T14:32:04.693Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 37,
+        "pricePerSqFtLand": "$27.57/SF",
+        "showCountdownAsDate": false,
+        "askingPrice": 3000000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-10T23:28:50.114Z",
+        "numberOfImages": 37,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "21825 N 16th St",
+            "city": "Phoenix",
+            "county": "Maricopa County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "85024",
+            "latitude": 33.6847539,
+            "longitude": -112.0445416,
+            "fullAddress": "21825 N 16th St, Phoenix, Maricopa County, AZ 85024"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1555212,
         "name": "Portfolio Sale For Lewis Street",
         "description": "Industrial",
@@ -1660,47 +1659,6 @@
             "latitude": 44.9225325,
             "longitude": -123.0212445,
             "fullAddress": "1930 Lewis St SE, Salem, Marion County, OR 97302"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1641520,
-        "name": "Deer Valley 16th street Industrial",
-        "description": "2.5 Acre Industrial with 8,000 sqft building and yards.",
-        "thumbnailUrl": "https://images.crexi.com/assets/1641520/17d6526a8b0b4e3c823b0f1446271f95_716x444.jpg",
-        "urlSlug": "arizona-deer-valley-16th-street-industrial",
-        "activatedOn": "2024-08-09T14:32:04.693Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 37,
-        "pricePerSqFtLand": "$27.57/SF",
-        "showCountdownAsDate": false,
-        "askingPrice": 3000000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-10T23:28:50.114Z",
-        "numberOfImages": 37,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "21825 N 16th St",
-            "city": "Phoenix",
-            "county": "Maricopa County",
-            "state": {
-              "code": "AZ",
-              "name": "Arizona"
-            },
-            "zip": "85024",
-            "latitude": 33.6847539,
-            "longitude": -112.0445416,
-            "fullAddress": "21825 N 16th St, Phoenix, Maricopa County, AZ 85024"
           }
         ],
         "isNew": false
@@ -1878,48 +1836,6 @@
         "isNew": false
       },
       {
-        "id": 1643870,
-        "name": "Collins Drive",
-        "description": "Land",
-        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-        "urlSlug": "california-collins-drive",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-13T10:03:18.061Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 26,
-        "showCountdownAsDate": false,
-        "askingPrice": 649000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-19T10:02:26.223Z",
-        "numberOfImages": 26,
-        "types": [
-          "Land",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Collins Drive",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9057643,
-            "longitude": -121.086736,
-            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1145218,
         "name": "Eaton Park - Commissary Kitchen",
         "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
@@ -1957,6 +1873,46 @@
             "latitude": 33.5514948,
             "longitude": -112.2101716,
             "fullAddress": "7900 N 70th Ave, Glendale, Maricopa County, AZ 85303"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1517295,
+        "name": "Ringe Land",
+        "description": "Industrial | 1,700 SF. M-1",
+        "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+        "urlSlug": "nevada-ringe-land",
+        "brokerageName": "Sandra L. Fink & Associates Inc",
+        "activatedOn": "2024-04-23T18:53:19.6Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 7,
+        "pricePerAcreLand": "$0/Acre",
+        "showCountdownAsDate": false,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-13T18:36:48.764Z",
+        "numberOfImages": 7,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": true,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2929 Ringe Ln",
+            "city": "Las Vegas",
+            "county": "Clark County",
+            "state": {
+              "code": "NV",
+              "name": "Nevada"
+            },
+            "zip": "89156",
+            "latitude": 36.213209,
+            "longitude": -115.060594,
+            "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
           }
         ],
         "isNew": false
@@ -2004,41 +1960,43 @@
         "isNew": false
       },
       {
-        "id": 1517295,
-        "name": "Ringe Land",
-        "description": "Industrial | 1,700 SF. M-1",
-        "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-        "urlSlug": "nevada-ringe-land",
-        "brokerageName": "Sandra L. Fink & Associates Inc",
-        "activatedOn": "2024-04-23T18:53:19.6Z",
+        "id": 1643870,
+        "name": "Collins Drive",
+        "description": "Land",
+        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+        "urlSlug": "california-collins-drive",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-13T10:03:18.061Z",
         "isInOpportunityZone": false,
         "hasVideo": false,
-        "numberOfGalleryItems": 7,
-        "pricePerAcreLand": "$0/Acre",
+        "numberOfGalleryItems": 26,
         "showCountdownAsDate": false,
+        "askingPrice": 649000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-08-13T18:36:48.764Z",
-        "numberOfImages": 7,
+        "updatedOn": "2024-08-19T10:02:26.223Z",
+        "numberOfImages": 26,
         "types": [
+          "Land",
           "Industrial"
         ],
-        "hasOM": true,
+        "hasOM": false,
         "hasFlyer": true,
         "status": "On-Market",
         "hasVirtualTour": false,
         "locations": [
           {
-            "address": "2929 Ringe Ln",
-            "city": "Las Vegas",
-            "county": "Clark County",
+            "address": "Collins Drive",
+            "city": "Auburn",
+            "county": "Placer County",
             "state": {
-              "code": "NV",
-              "name": "Nevada"
+              "code": "CA",
+              "name": "California"
             },
-            "zip": "89156",
-            "latitude": 36.213209,
-            "longitude": -115.060594,
-            "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+            "zip": "95603",
+            "latitude": 38.9057643,
+            "longitude": -121.086736,
+            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
@@ -2165,6 +2123,50 @@
             "latitude": 34.5049676,
             "longitude": -117.3245797,
             "fullAddress": "15425 Anacapa Road 12, Victorville, san Bernardino, CA 92392"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1552255,
+        "name": "Prime HWY 99 Commercial Location",
+        "description": "Industrial | 293,158 SF",
+        "thumbnailUrl": "https://images.crexi.com/assets/1552255/c72dfb0164ee40a9b69b79beadcee67c_716x444.jpg",
+        "urlSlug": "california-prime-hwy-99-location-for-rv-boat-parking-or-mini-storage",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/80311/00ad1a8562dc47ccb117862cf6c0e26c_150x100_resize.jpg",
+        "brokerageName": "California top brokers inc",
+        "activatedOn": "2024-06-04T21:32:02.842Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 4,
+        "pricePerSqFtLand": "$4.71/SF",
+        "showCountdownAsDate": false,
+        "askingPrice": 1382000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-29T00:02:33.197Z",
+        "numberOfImages": 4,
+        "types": [
+          "Industrial",
+          "Land",
+          "Self Storage"
+        ],
+        "hasOM": true,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "15 Pepsi Way",
+            "city": "Durham",
+            "county": "Los Angeles County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95938",
+            "latitude": 39.645034088570625,
+            "longitude": -121.72191727170615,
+            "fullAddress": "15 Pepsi Way, Durham, Los Angeles County, CA 95938"
           }
         ],
         "isNew": false
