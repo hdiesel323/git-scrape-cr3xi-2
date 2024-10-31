@@ -336,47 +336,6 @@
         "isNew": false
       },
       {
-        "id": 1296398,
-        "name": "Terra Bella - Industrial - Parcel 4",
-        "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
-        "urlSlug": "california-terra-bella---industrial---parcel-4",
-        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-        "brokerageName": "Lion Group Investments",
-        "activatedOn": "2023-10-21T23:37:00.236Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 1,
-        "showCountdownAsDate": false,
-        "askingPrice": 199000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-23T17:00:06.748Z",
-        "numberOfImages": 1,
-        "types": [
-          "Industrial"
-        ],
-        "hasOM": true,
-        "hasFlyer": false,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Parcel 4, 23297 Ave 88",
-            "city": "Terra Bella",
-            "county": "Tulare County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "93270",
-            "latitude": 35.94924245479436,
-            "longitude": -119.05368665888268,
-            "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1006936,
         "name": "2950 W Catalina Dr",
         "description": "Office | 47,526 SF",
@@ -416,6 +375,47 @@
             "latitude": 33.4832549,
             "longitude": -112.1235537,
             "fullAddress": "2950 W Catalina Dr, Phoenix, Maricopa County, AZ 85017"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "id": 1296398,
+        "name": "Terra Bella - Industrial - Parcel 4",
+        "description": "Industrial",
+        "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
+        "urlSlug": "california-terra-bella---industrial---parcel-4",
+        "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+        "brokerageName": "Lion Group Investments",
+        "activatedOn": "2023-10-21T23:37:00.236Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 1,
+        "showCountdownAsDate": false,
+        "askingPrice": 199000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-23T17:00:06.748Z",
+        "numberOfImages": 1,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": true,
+        "hasFlyer": false,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "Parcel 4, 23297 Ave 88",
+            "city": "Terra Bella",
+            "county": "Tulare County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "93270",
+            "latitude": 35.94924245479436,
+            "longitude": -119.05368665888268,
+            "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
           }
         ],
         "isNew": false
@@ -923,6 +923,50 @@
         "isNew": false
       },
       {
+        "id": 1677482,
+        "name": "2860 E Hwy 68",
+        "description": "Industrial",
+        "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
+        "urlSlug": "arizona-2860-e-hwy-68",
+        "brokerageName": "Sondgeroth Real Estate Group",
+        "activatedOn": "2024-09-28T07:12:36.559Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 12,
+        "showCountdownAsDate": false,
+        "askingPrice": 2500000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-08T20:57:40.717Z",
+        "numberOfImages": 12,
+        "types": [
+          "Industrial",
+          "Mixed Use",
+          "Self Storage",
+          "Special Purpose",
+          "Business for Sale"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "2860 E Hwy 68",
+            "city": "Bullhead City",
+            "county": "Mohave County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "86429",
+            "latitude": 35.1854421,
+            "longitude": -114.4839227,
+            "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1533426,
         "name": "3870-3880 Elm Street",
         "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
@@ -1002,50 +1046,6 @@
             "latitude": 34.505008,
             "longitude": -114.3549243,
             "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1677482,
-        "name": "2860 E Hwy 68",
-        "description": "Industrial",
-        "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
-        "urlSlug": "arizona-2860-e-hwy-68",
-        "brokerageName": "Sondgeroth Real Estate Group",
-        "activatedOn": "2024-09-28T07:12:36.559Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 12,
-        "showCountdownAsDate": false,
-        "askingPrice": 2500000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-10-08T20:57:40.717Z",
-        "numberOfImages": 12,
-        "types": [
-          "Industrial",
-          "Mixed Use",
-          "Self Storage",
-          "Special Purpose",
-          "Business for Sale"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "2860 E Hwy 68",
-            "city": "Bullhead City",
-            "county": "Mohave County",
-            "state": {
-              "code": "AZ",
-              "name": "Arizona"
-            },
-            "zip": "86429",
-            "latitude": 35.1854421,
-            "longitude": -114.4839227,
-            "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
           }
         ],
         "isNew": false
@@ -1217,6 +1217,48 @@
         "isNew": false
       },
       {
+        "id": 1613407,
+        "name": "4301 S Robinson Ave",
+        "description": "Retail Industrial Warehouse for Sale",
+        "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
+        "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
+        "brokerageName": "Equity Commercial Realty Advisors, LLC",
+        "activatedOn": "2024-07-15T22:34:23.6Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 16,
+        "showCountdownAsDate": false,
+        "askingPrice": 390000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-09-17T15:10:15.069Z",
+        "numberOfImages": 16,
+        "types": [
+          "Retail",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "4301 S Robinson Ave",
+            "city": "Oklahoma City",
+            "county": "Oklahoma County",
+            "state": {
+              "code": "OK",
+              "name": "Oklahoma"
+            },
+            "zip": "73109",
+            "latitude": 35.42272311621037,
+            "longitude": -97.5162203952987,
+            "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1659274,
         "name": "2008 Commerce",
         "description": "New construction warehouse space 8960'",
@@ -1257,48 +1299,6 @@
             "latitude": 42.3708393,
             "longitude": -122.8623726,
             "fullAddress": "2008 Commerce Dr, Medford, Jackson County, OR 97504"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1613407,
-        "name": "4301 S Robinson Ave",
-        "description": "Retail Industrial Warehouse for Sale",
-        "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
-        "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
-        "brokerageName": "Equity Commercial Realty Advisors, LLC",
-        "activatedOn": "2024-07-15T22:34:23.6Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 16,
-        "showCountdownAsDate": false,
-        "askingPrice": 390000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-09-17T15:10:15.069Z",
-        "numberOfImages": 16,
-        "types": [
-          "Retail",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "4301 S Robinson Ave",
-            "city": "Oklahoma City",
-            "county": "Oklahoma County",
-            "state": {
-              "code": "OK",
-              "name": "Oklahoma"
-            },
-            "zip": "73109",
-            "latitude": 35.42272311621037,
-            "longitude": -97.5162203952987,
-            "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
           }
         ],
         "isNew": false
@@ -1473,47 +1473,6 @@
         "isNew": false
       },
       {
-        "id": 1641520,
-        "name": "Deer Valley 16th street Industrial",
-        "description": "2.5 Acre Industrial with 8,000 sqft building and yards.",
-        "thumbnailUrl": "https://images.crexi.com/assets/1641520/17d6526a8b0b4e3c823b0f1446271f95_716x444.jpg",
-        "urlSlug": "arizona-deer-valley-16th-street-industrial",
-        "activatedOn": "2024-08-09T14:32:04.693Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 37,
-        "pricePerSqFtLand": "$27.57/SF",
-        "showCountdownAsDate": false,
-        "askingPrice": 3000000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-10T23:28:50.114Z",
-        "numberOfImages": 37,
-        "types": [
-          "Industrial"
-        ],
-        "investmentType": "Owner/User",
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "21825 N 16th St",
-            "city": "Phoenix",
-            "county": "Maricopa County",
-            "state": {
-              "code": "AZ",
-              "name": "Arizona"
-            },
-            "zip": "85024",
-            "latitude": 33.6847539,
-            "longitude": -112.0445416,
-            "fullAddress": "21825 N 16th St, Phoenix, Maricopa County, AZ 85024"
-          }
-        ],
-        "isNew": false
-      },
-      {
         "id": 1555212,
         "name": "Portfolio Sale For Lewis Street",
         "description": "Industrial",
@@ -1664,6 +1623,47 @@
         "isNew": false
       },
       {
+        "id": 1641520,
+        "name": "Deer Valley 16th street Industrial",
+        "description": "2.5 Acre Industrial with 8,000 sqft building and yards.",
+        "thumbnailUrl": "https://images.crexi.com/assets/1641520/17d6526a8b0b4e3c823b0f1446271f95_716x444.jpg",
+        "urlSlug": "arizona-deer-valley-16th-street-industrial",
+        "activatedOn": "2024-08-09T14:32:04.693Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 37,
+        "pricePerSqFtLand": "$27.57/SF",
+        "showCountdownAsDate": false,
+        "askingPrice": 3000000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-10T23:28:50.114Z",
+        "numberOfImages": 37,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "21825 N 16th St",
+            "city": "Phoenix",
+            "county": "Maricopa County",
+            "state": {
+              "code": "AZ",
+              "name": "Arizona"
+            },
+            "zip": "85024",
+            "latitude": 33.6847539,
+            "longitude": -112.0445416,
+            "fullAddress": "21825 N 16th St, Phoenix, Maricopa County, AZ 85024"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1468238,
         "name": "Catalpa Business Center",
         "description": "Fully Occupied Industrial Complex for Owner/User or Investment.",
@@ -1706,6 +1706,89 @@
         "isNew": false
       },
       {
+        "id": 1698186,
+        "name": "724 Paynter Ave.",
+        "description": "Industrial Property For Sale | Includes Cold Storage & Cell Phone Lease | Caldwell, ID",
+        "thumbnailUrl": "https://images.crexi.com/assets/1698186/a0913029edb2455db18bde647ab5552e_716x444.jpg",
+        "urlSlug": "idaho-724-paynter-ave",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/13522/45fb8ba6de3640a395fdebf150c58022_150x100_resize.jpg",
+        "brokerageName": "Lee & Associates Idaho, LLC",
+        "activatedOn": "2024-10-29T15:08:32.759Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 7,
+        "showCountdownAsDate": false,
+        "askingPrice": 1750000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-30T15:40:11.66Z",
+        "numberOfImages": 7,
+        "types": [
+          "Industrial"
+        ],
+        "hasOM": true,
+        "hasFlyer": false,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "724 Paynter Ave",
+            "city": "Caldwell",
+            "county": "Canyon County",
+            "state": {
+              "code": "ID",
+              "name": "Idaho"
+            },
+            "zip": "83605",
+            "latitude": 43.66337406,
+            "longitude": -116.69824209,
+            "fullAddress": "724 Paynter Ave, Caldwell, Canyon County, ID 83605"
+          }
+        ],
+        "isNew": true
+      },
+      {
+        "id": 1696671,
+        "name": "Vallejo Auto Center Fire Sale",
+        "description": "Tremendous Value-Add Opportunity for Owner/User or Investor. Seller Financing Available!!",
+        "thumbnailUrl": "https://images.crexi.com/assets/1696671/5886c2b715e04474af1121a64e34d716_716x444.jpg",
+        "urlSlug": "california-vallejo-auto-center-fire-sale",
+        "brokerTeamLogoUrl": "https://images.crexi.com/brokers/1588770/4abb666749104a13864f0d1e871f19aa_150x100_resize.jpg",
+        "brokerageName": "Alexis McGee Group, Inc",
+        "activatedOn": "2024-10-26T01:34:03.182Z",
+        "isInOpportunityZone": true,
+        "hasVideo": true,
+        "numberOfGalleryItems": 16,
+        "showCountdownAsDate": false,
+        "askingPrice": 1400000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-30T00:35:06.998Z",
+        "numberOfImages": 14,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Value Add",
+        "hasOM": true,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "3424 Sonoma Blvd",
+            "city": "Vallejo",
+            "county": "Solano County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "94590",
+            "latitude": 38.1208414,
+            "longitude": -122.2540671,
+            "fullAddress": "3424 Sonoma Blvd, Vallejo, Solano County, CA 94590"
+          }
+        ],
+        "isNew": true
+      },
+      {
         "id": 1197161,
         "name": "Prime I-5 next to Pilot and Maverik",
         "description": "The Best of The Best in N. CA with I-5 Exposure; Affordable Development Site",
@@ -1721,7 +1804,7 @@
         "showCountdownAsDate": false,
         "askingPrice": 4113370,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-10-03T23:40:53.804Z",
+        "updatedOn": "2024-10-29T23:30:02.309Z",
         "numberOfImages": 17,
         "types": [
           "Hospitality",
@@ -1878,6 +1961,48 @@
         "isNew": false
       },
       {
+        "id": 1643870,
+        "name": "Collins Drive",
+        "description": "Land",
+        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+        "urlSlug": "california-collins-drive",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+        "activatedOn": "2024-08-13T10:03:18.061Z",
+        "isInOpportunityZone": false,
+        "hasVideo": false,
+        "numberOfGalleryItems": 26,
+        "showCountdownAsDate": false,
+        "askingPrice": 649000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-08-19T10:02:26.223Z",
+        "numberOfImages": 26,
+        "types": [
+          "Land",
+          "Industrial"
+        ],
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "Collins Drive",
+            "city": "Auburn",
+            "county": "Placer County",
+            "state": {
+              "code": "CA",
+              "name": "California"
+            },
+            "zip": "95603",
+            "latitude": 38.9057643,
+            "longitude": -121.086736,
+            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
+          }
+        ],
+        "isNew": false
+      },
+      {
         "id": 1517295,
         "name": "Ringe Land",
         "description": "Industrial | 1,700 SF. M-1",
@@ -1955,48 +2080,6 @@
             "latitude": 34.5525563,
             "longitude": -112.4797855,
             "fullAddress": "625 Miller Valley Road, Prescott, Yavapai County, AZ 86301"
-          }
-        ],
-        "isNew": false
-      },
-      {
-        "id": 1643870,
-        "name": "Collins Drive",
-        "description": "Land",
-        "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-        "urlSlug": "california-collins-drive",
-        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-        "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-        "activatedOn": "2024-08-13T10:03:18.061Z",
-        "isInOpportunityZone": false,
-        "hasVideo": false,
-        "numberOfGalleryItems": 26,
-        "showCountdownAsDate": false,
-        "askingPrice": 649000,
-        "userIsAssetOwner": false,
-        "updatedOn": "2024-08-19T10:02:26.223Z",
-        "numberOfImages": 26,
-        "types": [
-          "Land",
-          "Industrial"
-        ],
-        "hasOM": false,
-        "hasFlyer": true,
-        "status": "On-Market",
-        "hasVirtualTour": false,
-        "locations": [
-          {
-            "address": "Collins Drive",
-            "city": "Auburn",
-            "county": "Placer County",
-            "state": {
-              "code": "CA",
-              "name": "California"
-            },
-            "zip": "95603",
-            "latitude": 38.9057643,
-            "longitude": -121.086736,
-            "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
           }
         ],
         "isNew": false
@@ -2143,7 +2226,7 @@
         "showCountdownAsDate": false,
         "askingPrice": 1382000,
         "userIsAssetOwner": false,
-        "updatedOn": "2024-10-29T00:02:33.197Z",
+        "updatedOn": "2024-10-30T22:55:42.929Z",
         "numberOfImages": 4,
         "types": [
           "Industrial",
@@ -2213,9 +2296,51 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "id": 1698202,
+        "name": "Freestanding ±10,505 Sf Building With 1/2 Acre Yard/Parking",
+        "description": "Las Vegas | Industrial For Sale | 10,505 SF | 1/2 AC YD/PKG | $3,495,000",
+        "thumbnailUrl": "https://images.crexi.com/assets/1698202/be1cd0ba8fc54d74bf010fb37be8d332_716x444.jpg",
+        "urlSlug": "nevada-freestanding-10505-sf-building-with-12-acre-yardparking",
+        "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/25876/7297f0fcb4284b4c84a74f59bf4a2496_150x100_resize.jpg",
+        "brokerageName": "Lee & Associates Reno",
+        "activatedOn": "2024-10-29T15:33:55.485Z",
+        "isInOpportunityZone": true,
+        "hasVideo": false,
+        "numberOfGalleryItems": 9,
+        "showCountdownAsDate": false,
+        "askingPrice": 3495000,
+        "userIsAssetOwner": false,
+        "updatedOn": "2024-10-29T15:33:55.485Z",
+        "numberOfImages": 9,
+        "types": [
+          "Industrial"
+        ],
+        "investmentType": "Owner/User",
+        "hasOM": false,
+        "hasFlyer": true,
+        "status": "On-Market",
+        "hasVirtualTour": false,
+        "locations": [
+          {
+            "address": "5035 Schuster St",
+            "city": "Las Vegas",
+            "county": "Clark County",
+            "state": {
+              "code": "NV",
+              "name": "Nevada"
+            },
+            "zip": "89118",
+            "latitude": 36.098357718661894,
+            "longitude": -115.19231990353464,
+            "fullAddress": "5035 Schuster St, Las Vegas, Clark County, NV 89118"
+          }
+        ],
+        "isNew": true
       }
     ],
-    "totalCount": 50,
+    "totalCount": 53,
     "propertyUrl": "https://www.crexi.com/properties/null"
   }
 ]
